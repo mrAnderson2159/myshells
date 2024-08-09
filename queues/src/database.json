@@ -1,0 +1,383 @@
+{
+    "tasks": {
+        "name": "tasks",
+        "phrases": ["Cosa vuoi fare prima?", "Cosa vuoi fare dopo?"],
+        "tree": {
+            "value": 99,
+            "data": "Pagare condominio la fenice",
+            "hash": 2582,
+            "left": {
+                "value": 90,
+                "data": "Cambiare l'acqua ai pesci",
+                "hash": 2288,
+                "left": {
+                    "value": 96,
+                    "data": "Pagare condominio angeloni",
+                    "hash": 2572,
+                    "left": {
+                        "value": 95,
+                        "data": "Pagare l'universit\u00e0",
+                        "hash": 1996,
+                        "left": null,
+                        "right": null
+                    },
+                    "right": {
+                        "value": 87,
+                        "data": "Fare la lavatrice",
+                        "hash": 1606,
+                        "left": null,
+                        "right": null
+                    }
+                },
+                "right": {
+                    "value": 98,
+                    "data": "Pulire cucina e soggiorno",
+                    "hash": 2432,
+                    "left": null,
+                    "right": null
+                }
+            },
+            "right": {
+                "value": 93,
+                "data": "Fare la lavastoviglie",
+                "hash": 2053,
+                "left": {
+                    "value": 101,
+                    "data": "Pagare Giacomo",
+                    "hash": 1327,
+                    "left": {
+                        "value": 103,
+                        "data": "Pagare il consorsio della bonificazione umbra",
+                        "hash": 4381,
+                        "left": {
+                            "value": 105,
+                            "data": "Studiare architettura",
+                            "hash": 2161,
+                            "left": null,
+                            "right": null
+                        },
+                        "right": {
+                            "value": 100,
+                            "data": "Comprare filtro e coso batterico per l'acquario",
+                            "hash": 4494,
+                            "left": null,
+                            "right": null
+                        }
+                    },
+                    "right": {
+                        "value": 78,
+                        "data": "Stendere i panni",
+                        "hash": 1529,
+                        "left": {
+                            "value": 94,
+                            "data": "Sistemare i panni",
+                            "hash": 1644,
+                            "left": null,
+                            "right": null
+                        },
+                        "right": null
+                    }
+                },
+                "right": {
+                    "value": 91,
+                    "data": "Sostituire le batterie dei sensori",
+                    "hash": 3345,
+                    "left": {
+                        "value": 65,
+                        "data": "Fare la spesa",
+                        "hash": 1191,
+                        "left": null,
+                        "right": null
+                    },
+                    "right": {
+                        "value": 104,
+                        "data": "Studiare architettura",
+                        "hash": 2161,
+                        "left": null,
+                        "right": null
+                    }
+                }
+            }
+        },
+        "completed": ["rifare il letto", "pulire la stanza", "ordinare da bere", "cambiare l'acqua ai pesci", "cenare", "fare la lavastoviglie", "pulire il soggiorno", "pulire la cucina", "pulire la sala da pranzo", "gettare la spazzatura", "implementare la possibilit\u00e0 di modificare un elemento su questo programma, inoltre generalizzare tutte le frasi", "comprare il tabacco", "fare la lavatrice", "sistemare i panni", "Studiare algoritmi", "Stendere i panni", "Fare la lavatrice", "Cambiare l'acqua ai pesci", "Studiare algoritmi", "Rifare i letti", "Sistemare la camera", "Gettare la spazzatura", "Sistemare la cucina", "Fare la spesa", "Studiare algoritmi", "Rifare il letto", "Sistemare il soggiorno", "Sistemare la sala da pranzo", "Chiamare per cambiare le gomme", "Telefonare per le viti del barbecue", "Incontrare marina", "Pulire il bagno (superfici, aspirapolvere, straccio)", "Pagare nuova dexia", "Lavare la macchina", "Comprare il pesce", "Ritirare le raccomandate", "Studiare algoritmi", "Sistemare i panni", "Compilare il documento per nuova dexia", "Fare la lavatrice", "Rifare i letti", "Sistemare camera mia", "Stendere i panni", "Fare la lavatrice", "Sistemare la cucina", "Sistemare il soggiorno", "Stendere i panni", "Fare la spesa", "Fare la lavastoviglie", "Gettare la spazzatura", "Cambiare medico di base", "Fare le analisi", "Andare in palestra", "Chiamare francesca", "Studiare architettura", "Rifare i letti", "Sistemare camera mia", "Sistemare la cucina", "Fare la lavastoviglie", "Sistemare la sala da pranzo", "Sistemare il soggiorno", "Prendere il condizionatore"]
+    },
+    "film camilla": {
+        "name": "film camilla",
+        "phrases": ["Quale film preferesci?", "quale film ti piace di meno?"],
+        "tree": {
+            "value": 9,
+            "data": "Angeli e demoni",
+            "hash": 1393,
+            "left": {
+                "value": 8,
+                "data": "Gone girl",
+                "hash": 855,
+                "left": {
+                    "value": 7,
+                    "data": "Limitless",
+                    "hash": 950,
+                    "left": null,
+                    "right": null
+                },
+                "right": {
+                    "value": 10,
+                    "data": "Mariottide",
+                    "hash": 1042,
+                    "left": null,
+                    "right": null
+                }
+            },
+            "right": {
+                "value": 1,
+                "data": "The revenant",
+                "hash": 1188,
+                "left": {
+                    "value": 4,
+                    "data": "Il codice da vinci",
+                    "hash": 1626,
+                    "left": null,
+                    "right": null
+                },
+                "right": null
+            }
+        },
+        "completed": ["shutter island", "50 volte il primo bacio", "Hostel", "Shriek"]
+    },
+    "Classifica personale film": {
+        "name": "Classifica personale film",
+        "phrases": ["Quale film preferisci tra", "quale film ti piace di meno tra"],
+        "tree": {
+            "value": 3,
+            "data": "Kill bill",
+            "hash": 847,
+            "left": {
+                "value": 13,
+                "data": "Fight Club",
+                "hash": 920,
+                "left": {
+                    "value": 4,
+                    "data": "Ready player one",
+                    "hash": 1540,
+                    "left": {
+                        "value": 20,
+                        "data": "Mulholland drive",
+                        "hash": 1610,
+                        "left": null,
+                        "right": null
+                    },
+                    "right": null
+                },
+                "right": {
+                    "value": 15,
+                    "data": "The Hateful Eight",
+                    "hash": 1563,
+                    "left": {
+                        "value": 10,
+                        "data": "1408",
+                        "hash": 205,
+                        "left": null,
+                        "right": null
+                    },
+                    "right": {
+                        "value": 21,
+                        "data": "The wolf of wall street",
+                        "hash": 2165,
+                        "left": {
+                            "value": 26,
+                            "data": "Memorie di una geisha",
+                            "hash": 1968,
+                            "left": null,
+                            "right": null
+                        },
+                        "right": {
+                            "value": 14,
+                            "data": "Bastardi senza gloria",
+                            "hash": 2057,
+                            "left": null,
+                            "right": null
+                        }
+                    }
+                }
+            },
+            "right": {
+                "value": 5,
+                "data": "Harry Potter e la pietra filosofale",
+                "hash": 3327,
+                "left": {
+                    "value": 23,
+                    "data": "Animali fantastici e dove trovarli",
+                    "hash": 3303,
+                    "left": {
+                        "value": 17,
+                        "data": "Harry Potter e il principe mezzosangue",
+                        "hash": 3696,
+                        "left": {
+                            "value": 7,
+                            "data": "Harry Potter e il prigioniero di Azkaban",
+                            "hash": 3754,
+                            "left": {
+                                "value": 25,
+                                "data": "Se mi lasci ti cancello",
+                                "hash": 2104,
+                                "left": null,
+                                "right": null
+                            },
+                            "right": null
+                        },
+                        "right": {
+                            "value": 22,
+                            "data": "Harry potter e i doni della morte",
+                            "hash": 3077,
+                            "left": null,
+                            "right": null
+                        }
+                    },
+                    "right": {
+                        "value": 6,
+                        "data": "Harry Potter e la camera dei segreti",
+                        "hash": 3332,
+                        "left": {
+                            "value": 16,
+                            "data": "Harry Potter e l'ordine della fenice",
+                            "hash": 3337,
+                            "left": null,
+                            "right": null
+                        },
+                        "right": {
+                            "value": 24,
+                            "data": "Animali fantastici, i crimini di Grindelwald",
+                            "hash": 4155,
+                            "left": {
+                                "value": 8,
+                                "data": "Harry Potter e il calice di fuoco",
+                                "hash": 3016,
+                                "left": null,
+                                "right": null
+                            },
+                            "right": null
+                        }
+                    }
+                },
+                "right": {
+                    "value": 2,
+                    "data": "Shriek 2",
+                    "hash": 696,
+                    "left": {
+                        "value": 9,
+                        "data": "Dal tramonto all'alba",
+                        "hash": 1973,
+                        "left": {
+                            "value": 12,
+                            "data": "Costantine",
+                            "hash": 1048,
+                            "left": null,
+                            "right": null
+                        },
+                        "right": null
+                    },
+                    "right": {
+                        "value": 11,
+                        "data": "REC",
+                        "hash": 218,
+                        "left": {
+                            "value": 1,
+                            "data": "Shriek",
+                            "hash": 614,
+                            "left": null,
+                            "right": null
+                        },
+                        "right": null
+                    }
+                }
+            }
+        },
+        "completed": []
+    },
+    "Test": {
+        "name": "Test",
+        "phrases": ["Cosa vuoi fare prima?", "Cosa vuoi fare dopo?"],
+        "tree": {
+            "value": 10,
+            "data": "Claudia",
+            "hash": 691,
+            "left": {
+                "value": 11,
+                "data": "Alessia",
+                "hash": 706,
+                "left": {
+                    "value": 8,
+                    "data": "Camilla",
+                    "hash": 691,
+                    "left": {
+                        "value": 4,
+                        "data": "Lucia",
+                        "hash": 494,
+                        "left": null,
+                        "right": null
+                    },
+                    "right": null
+                },
+                "right": {
+                    "value": 12,
+                    "data": "Claudia",
+                    "hash": 691,
+                    "left": {
+                        "value": 9,
+                        "data": "Camilla",
+                        "hash": 691,
+                        "left": null,
+                        "right": null
+                    },
+                    "right": {
+                        "value": 13,
+                        "data": "Giulia",
+                        "hash": 603,
+                        "left": null,
+                        "right": null
+                    }
+                }
+            },
+            "right": {
+                "value": 5,
+                "data": "Camilla",
+                "hash": 691,
+                "left": {
+                    "value": 6,
+                    "data": "Lucia",
+                    "hash": 494,
+                    "left": null,
+                    "right": null
+                },
+                "right": {
+                    "value": 7,
+                    "data": "Giulia",
+                    "hash": 603,
+                    "left": {
+                        "value": 1,
+                        "data": "Mario",
+                        "hash": 504,
+                        "left": null,
+                        "right": null
+                    },
+                    "right": {
+                        "value": 3,
+                        "data": "Alessia",
+                        "hash": 706,
+                        "left": null,
+                        "right": null
+                    }
+                }
+            }
+        },
+        "completed": ["Luca"]
+    },
+    "sety queue": {
+        "name": "sety queue",
+        "phrases": ["quale canzone preferisci tra", "non importa"],
+        "tree": null,
+        "completed": ["One last goodbye"]
+    }
+}
+
+
+

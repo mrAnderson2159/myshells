@@ -1,0 +1,89 @@
+{
+    "todo": {
+        "fixed": {
+            "sistemare la cucina": {
+                "task": "sistemare la cucina",
+                "day": 0,
+                "repetition": [1]
+            },
+            "rifare il letto": {
+                "task": "rifare il letto",
+                "day": 0,
+                "repetition": [1]
+            },
+            "pulire camera mia e eventualmente cambiare le lenzuola": {
+                "task": "pulire camera mia e eventualmente cambiare le lenzuola",
+                "day": 0,
+                "repetition": [7]
+            },
+            "pulire studio e camera matrimoniale": {
+                "task": "pulire studio e camera matrimoniale",
+                "day": 1,
+                "repetition": [7]
+            },
+            "fare la lavatrice": {
+                "task": "fare la lavatrice",
+                "day": 1,
+                "repetition": [7]
+            },
+            "pulire il bagno principale": {
+                "task": "pulire il bagno principale",
+                "day": 2,
+                "repetition": [7]
+            },
+            "fare la lista della spesa": {
+                "task": "fare la lista della spesa",
+                "day": 2,
+                "repetition": [3, 4]
+            },
+            "pulire la cucina e la sala da pranzo": {
+                "task": "pulire la cucina e la sala da pranzo",
+                "day": 3,
+                "repetition": [7]
+            },
+            "fare la spesa": {
+                "task": "fare la spesa",
+                "day": 3,
+                "repetition": [3, 4]
+            },
+            "sistemare i panni": {
+                "task": "sistemare i panni",
+                "day": 3,
+                "repetition": [7]
+            },
+            "pulire il bagno secondario": {
+                "task": "pulire il bagno secondario",
+                "day": 4,
+                "repetition": [7]
+            },
+            "pulire il soggiorno": {
+                "task": "pulire il soggiorno",
+                "day": 5,
+                "repetition": [7]
+            },
+            "scannerizzare documenti": {
+                "task": "scannerizzare documenti",
+                "day": 5,
+                "repetition": [7]
+            },
+            "pulire la scrivania": {
+                "task": "pulire la scrivania",
+                "day": 6,
+                "repetition": [7]
+            },
+            "cambiare l'acqua ai pesci": {
+                "task": "cambiare l'acqua ai pesci",
+                "day": 6,
+                "repetition": [7]
+            },
+            "gettare l'umido": {
+                "task": "gettare l'umido",
+                "day": 6,
+                "repetition": [7]
+            }
+        },
+        "occasional": {
+
+        }
+    }
+}

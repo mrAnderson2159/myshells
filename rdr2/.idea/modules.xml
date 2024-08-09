@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/myshells/pyplugs/.idea/pyplugs.iml" filepath="$USER_HOME$/myshells/pyplugs/.idea/pyplugs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/rdr2.iml" filepath="$PROJECT_DIR$/.idea/rdr2.iml" />
+    </modules>
+  </component>
+</project>

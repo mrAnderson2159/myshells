@@ -1,0 +1,25 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="super.enqueue" />
+          <option value="queue.Queue.__orig_bases__" />
+          <option value="stack.Queue.__orig_bases__" />
+          <option value="stack.Stack.__orig_bases__" />
+          <option value="super.push" />
+          <option value="data" />
+          <option value="prev" />
+          <option value="next" />
+          <option value="pyplugs_queue.Queue.__orig_bases__" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="SpellCheckingInspection" enabled="true" level="TYPO" enabled_by_default="true">
+      <option name="processCode" value="true" />
+      <option name="processLiterals" value="true" />
+      <option name="processComments" value="false" />
+    </inspection_tool>
+  </profile>
+</component>

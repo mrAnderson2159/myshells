@@ -1,0 +1,1559 @@
+[10-03-2022 14-18-56] - Copio /Users/mr.anderson2159/Desktop/test/appunti nel cestino /Users/mr.anderson2159/.Trash
+[10-03-2022 14-18-57] - Elimino /Users/mr.anderson2159/Desktop/test/appunti
+[10-03-2022 14-18-57] - Copio /Volumes/working space/Università/test/appunti in /Users/mr.anderson2159/Desktop/test
+[10-03-2022 14-19-46] - Copio /Users/mr.anderson2159/Desktop/test/appunti nel cestino /Users/mr.anderson2159/.Trash
+[10-03-2022 14-19-46] - Elimino /Users/mr.anderson2159/Desktop/test/appunti
+[10-03-2022 14-19-46] - Copio /Volumes/working space/Università/test/appunti in /Users/mr.anderson2159/Desktop/test
+[10-03-2022 14-19-52] - Copio /Users/mr.anderson2159/Desktop/test/appunti nel cestino /Users/mr.anderson2159/.Trash
+[10-03-2022 14-19-52] - Elimino /Users/mr.anderson2159/Desktop/test/appunti
+[10-03-2022 14-19-52] - Copio /Volumes/working space/Università/test/appunti in /Users/mr.anderson2159/Desktop/test
+[10-03-2022 14-19-58] - Copio /Users/mr.anderson2159/Desktop/test/appunti nel cestino /Users/mr.anderson2159/.Trash
+[10-03-2022 14-19-58] - Elimino /Users/mr.anderson2159/Desktop/test/appunti
+[10-03-2022 14-19-58] - Copio /Volumes/working space/Università/test/appunti in /Users/mr.anderson2159/Desktop/test
+[10-03-2022 14-22-08] - Copio /Users/mr.anderson2159/Desktop/test/appunti nel cestino /Users/mr.anderson2159/.Trash
+[10-03-2022 14-22-08] - Elimino /Users/mr.anderson2159/Desktop/test/appunti
+[10-03-2022 14-22-08] - Niente da eliminare
+[10-03-2022 14-22-08] - Copio /Volumes/working space/Università/test/appunti in /Users/mr.anderson2159/Desktop/test
+[10-03-2022 14-22-39] - Copio /Users/mr.anderson2159/Desktop/test/appunti nel cestino /Users/mr.anderson2159/.Trash
+[10-03-2022 14-22-39] - Elimino /Users/mr.anderson2159/Desktop/test/appunti
+[10-03-2022 14-22-39] - Copio /Volumes/working space/Università/test/appunti in /Users/mr.anderson2159/Desktop/test
+[10-03-2022 14-22-44] - Copio /Users/mr.anderson2159/Desktop/test/appunti nel cestino /Users/mr.anderson2159/.Trash
+[10-03-2022 14-22-44] - Elimino /Users/mr.anderson2159/Desktop/test/appunti
+[10-03-2022 14-22-44] - Copio /Volumes/working space/Università/test/appunti in /Users/mr.anderson2159/Desktop/test
+[10-03-2022 14-23-00] - Copio /Users/mr.anderson2159/Desktop/test/appunti nel cestino /Users/mr.anderson2159/.Trash
+[10-03-2022 14-23-00] - Elimino /Users/mr.anderson2159/Desktop/test/appunti
+[10-03-2022 14-23-00] - Copio /Volumes/working space/Università/test/appunti in /Users/mr.anderson2159/Desktop/test
+[10-03-2022 14-24-43] - Copio /Volumes/working space/Università/test/appunti nel cestino /Volumes/working space/@Recycle
+[10-03-2022 14-24-53] - Elimino /Volumes/working space/Università/test/appunti
+[10-03-2022 14-24-55] - Copio /Users/mr.anderson2159/Desktop/test/appunti in /Volumes/working space/Università/test
+[10-03-2022 14-29-36] - Copio /Volumes/working space/Università/test/appunti nel cestino /Volumes/working space/@Recycle
+[10-03-2022 14-29-52] - Elimino /Volumes/working space/Università/test/appunti
+[10-03-2022 14-29-53] - Copio /Users/mr.anderson2159/Desktop/test/appunti in /Volumes/working space/Università/test
+[10-03-2022 14-31-29] - Copio /Users/mr.anderson2159/Desktop/algoritmi_e_strutture_dati/appunti nel cestino /Users/mr.anderson2159/.Trash
+[10-03-2022 14-31-29] - Elimino /Users/mr.anderson2159/Desktop/algoritmi_e_strutture_dati/appunti
+[10-03-2022 14-31-29] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti in /Users/mr.anderson2159/Desktop/algoritmi_e_strutture_dati
+[10-03-2022 14-35-26] - Copio /Users/mr.anderson2159/Desktop/algoritmi_e_strutture_dati/appunti nel cestino /Users/mr.anderson2159/.Trash
+[10-03-2022 14-35-26] - Elimino /Users/mr.anderson2159/Desktop/algoritmi_e_strutture_dati/appunti
+[10-03-2022 14-35-26] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti in /Users/mr.anderson2159/Desktop/algoritmi_e_strutture_dati
+[10-03-2022 15-04-00] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti nel cestino /Volumes/working space/@Recycle
+[10-03-2022 15-04-07] - Elimino /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti
+[10-03-2022 15-04-10] - Copio /Users/mr.alderson/Desktop/algoritmi_e_strutture_dati/appunti in /Volumes/working space/Università/algoritmi_e_strutture_dati
+
+[11-03-2022 11-10-46] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-03-10 09-01-56.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Diritto -03-2022.mkv
+[11-03-2022 11-10-46] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-03-10 11-01-01.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Ingegneria -03-2022.mkv
+[11-03-2022 11-10-46] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-03-10 14-00-47.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Sistemi operativi -03-2022.mkv
+[11-03-2022 11-10-54] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-03-10_09-03-05.mp4 in /Volumes/working space/Università/Nuove Acquisizioni/Architettura -03-2022.mp4
+[11-03-2022 11-10-54] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-03-11 09-01-25.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Fisica -03-2022.mkv
+[11-03-2022 11-11-10] - Copio Diritto -03-2022.mkv in /Volumes/working space/Università/diritto_dell'informatica/lezioni
+
+[11-03-2022 11-18-22] - Copio Ingegneria 10-03-22.mkv in /Volumes/working space/Università/ingegneria_del_software/lezioni
+[11-03-2022 11-18-39] - Copio Fisica 11-03-22.mkv in /Volumes/working space/Università/fisica_generale/lezioni
+[11-03-2022 11-18-54] - Copio Diritto 10-03-22.mkv in /Volumes/working space/Università/diritto_dell'informatica/lezioni
+[11-03-2022 11-19-14] - Copio Sistemi operativi 10-03-22.mkv in /Volumes/working space/Università/sistemi_operativi/lezioni
+[11-03-2022 11-19-22] - Copio Architettura 10-03-22.mp4 in /Volumes/working space/Università/architettura_degli_elaboratori/Modulo II/lezioni
+
+[11-03-2022 11-19-34] - Non ho potuto copiare Ingegneria 10-03-22.mkv in /Volumes/working space/Università/ingegneria_del_software/lezioni perché esisteva già
+[11-03-2022 11-19-34] - Non ho potuto copiare Fisica 11-03-22.mkv in /Volumes/working space/Università/fisica_generale/lezioni perché esisteva già
+[11-03-2022 11-19-34] - Non ho potuto copiare Diritto 10-03-22.mkv in /Volumes/working space/Università/diritto_dell'informatica/lezioni perché esisteva già
+[11-03-2022 11-19-34] - Non ho potuto copiare Sistemi operativi 10-03-22.mkv in /Volumes/working space/Università/sistemi_operativi/lezioni perché esisteva già
+[11-03-2022 11-19-34] - Non ho potuto copiare Architettura 10-03-22.mp4 in /Volumes/working space/Università/architettura_degli_elaboratori/Modulo II/lezioni perché esisteva già
+
+[11-03-2022 16-24-36] - Copio /Users/mr.anderson2159/Desktop/algoritmi_e_strutture_dati/appunti nel cestino /Users/mr.anderson2159/.Trash
+[11-03-2022 16-24-37] - Elimino /Users/mr.anderson2159/Desktop/algoritmi_e_strutture_dati/appunti
+[11-03-2022 16-24-37] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti in /Users/mr.anderson2159/Desktop/algoritmi_e_strutture_dati
+
+[11-03-2022 16-48-03] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti nel cestino /Volumes/working space/@Recycle
+[11-03-2022 16-48-18] - Elimino /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti
+[11-03-2022 16-48-19] - Copio /Users/mr.anderson2159/Desktop/algoritmi_e_strutture_dati/appunti in /Volumes/working space/Università/algoritmi_e_strutture_dati
+
+[11-03-2022 16-57-50] - Copio /Users/mr.alderson/Desktop/algoritmi_e_strutture_dati/appunti nel cestino /Users/mr.alderson/.Trash
+[11-03-2022 16-57-50] - Elimino /Users/mr.alderson/Desktop/algoritmi_e_strutture_dati/appunti
+[11-03-2022 16-57-50] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti in /Users/mr.alderson/Desktop/algoritmi_e_strutture_dati
+
+[11-03-2022 17-01-18] - Copio /Users/mr.alderson/Desktop/algoritmi_e_strutture_dati/appunti nel cestino /Users/mr.alderson/.Trash
+[11-03-2022 17-01-18] - Elimino /Users/mr.alderson/Desktop/algoritmi_e_strutture_dati/appunti
+[11-03-2022 17-01-18] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti in /Users/mr.alderson/Desktop/algoritmi_e_strutture_dati
+
+[11-03-2022 21-11-31] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti nel cestino /Volumes/working space/@Recycle
+[11-03-2022 21-11-38] - Elimino /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti
+[11-03-2022 21-11-43] - Copio /Users/mr.alderson/Desktop/algoritmi_e_strutture_dati/appunti in /Volumes/working space/Università/algoritmi_e_strutture_dati
+
+[13-03-2022 09-05-09] - Copio /Users/mr.anderson2159/Desktop/algoritmi_e_strutture_dati/appunti nel cestino /Users/mr.anderson2159/.Trash
+[13-03-2022 09-05-10] - Elimino /Users/mr.anderson2159/Desktop/algoritmi_e_strutture_dati/appunti
+[13-03-2022 09-05-10] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti in /Users/mr.anderson2159/Desktop/algoritmi_e_strutture_dati
+
+[13-03-2022 09-24-40] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti nel cestino /Volumes/working space/@Recycle
+[13-03-2022 09-24-51] - Elimino /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti
+[13-03-2022 09-24-54] - Copio /Users/mr.anderson2159/Desktop/algoritmi_e_strutture_dati/appunti in /Volumes/working space/Università/algoritmi_e_strutture_dati
+[13-03-2022 10-31-23] - Copio /Users/mr.alderson/Desktop/algoritmi_e_strutture_dati/appunti nel cestino /Users/mr.alderson/.Trash
+[13-03-2022 10-31-23] - Elimino /Users/mr.alderson/Desktop/algoritmi_e_strutture_dati/appunti
+[13-03-2022 10-31-23] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti in /Users/mr.alderson/Desktop/algoritmi_e_strutture_dati
+
+[13-03-2022 10-38-24] - KeyboardInterrupt
+
+[13-03-2022 14-28-43] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti nel cestino /Volumes/working space/@Recycle
+[13-03-2022 14-28-50] - Elimino /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti
+[13-03-2022 14-28-51] - Copio /Users/mr.alderson/Desktop/algoritmi_e_strutture_dati/appunti in /Volumes/working space/Università/algoritmi_e_strutture_dati
+
+[13-03-2022 22-17-40] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti nel cestino /Volumes/working space/@Recycle
+[13-03-2022 22-17-48] - Elimino /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti
+[13-03-2022 22-17-50] - Copio /Users/mr.alderson/Desktop/algoritmi_e_strutture_dati/appunti in /Volumes/working space/Università/algoritmi_e_strutture_dati
+[14-03-2022 08-59-03] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti nel cestino /Volumes/working space/@Recycle
+[14-03-2022 08-59-12] - Elimino /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti
+[14-03-2022 08-59-15] - Copio /Users/mr.alderson/Desktop/algoritmi_e_strutture_dati/appunti in /Volumes/working space/Università/algoritmi_e_strutture_dati
+
+[14-03-2022 09-14-40] - Copio /Users/mr.anderson2159/Desktop/algoritmi_e_strutture_dati/appunti nel cestino /Users/mr.anderson2159/.Trash
+[14-03-2022 09-14-40] - Elimino /Users/mr.anderson2159/Desktop/algoritmi_e_strutture_dati/appunti
+[14-03-2022 09-14-40] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti in /Users/mr.anderson2159/Desktop/algoritmi_e_strutture_dati
+
+[14-03-2022 09-58-29] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti nel cestino /Volumes/working space/@Recycle
+[14-03-2022 09-58-41] - Elimino /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti
+[14-03-2022 09-58-43] - Copio /Users/mr.anderson2159/Desktop/algoritmi_e_strutture_dati/appunti in /Volumes/working space/Università/algoritmi_e_strutture_dati
+
+[14-03-2022 10-57-44] - Copio /Users/mr.alderson/Desktop/algoritmi_e_strutture_dati/appunti nel cestino /Users/mr.alderson/.Trash
+[14-03-2022 10-57-44] - Elimino /Users/mr.alderson/Desktop/algoritmi_e_strutture_dati/appunti
+[14-03-2022 10-57-44] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti in /Users/mr.alderson/Desktop/algoritmi_e_strutture_dati
+
+[14-03-2022 14-44-12] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti nel cestino /Volumes/working space/@Recycle
+[14-03-2022 14-44-31] - Elimino /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti
+[14-03-2022 14-44-32] - Copio /Users/mr.alderson/Desktop/algoritmi_e_strutture_dati/appunti in /Volumes/working space/Università/algoritmi_e_strutture_dati
+
+[14-03-2022 17-51-12] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti nel cestino /Volumes/working space/@Recycle
+[14-03-2022 17-51-29] - Elimino /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti
+[14-03-2022 17-51-33] - Copio /Users/mr.alderson/Desktop/algoritmi_e_strutture_dati/appunti in /Volumes/working space/Università/algoritmi_e_strutture_dati
+
+[14-03-2022 19-16-58] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-03-14 14-26-49.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Algoritmi 14-03-22.mkv
+[14-03-2022 19-17-13] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-03-14 08-58-01.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Diritto 14-03-22.mkv
+[14-03-2022 19-17-13] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-03-14 11-01-11.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Sistemi operativi 14-03-22.mkv
+[14-03-2022 19-17-21] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-03-14_08-57-29.mp4 in /Volumes/working space/Università/Nuove Acquisizioni/Analisi 14-03-22.mp4
+[14-03-2022 19-17-43] - Copio Algoritmi 14-03-22.mkv in /Volumes/working space/Università/algoritmi_e_strutture_dati/lezioni
+[14-03-2022 19-17-58] - Copio Diritto 14-03-22.mkv in /Volumes/working space/Università/diritto_dell'informatica/lezioni
+[14-03-2022 19-18-12] - Copio Sistemi operativi 14-03-22.mkv in /Volumes/working space/Università/sistemi_operativi/lezioni
+[14-03-2022 19-18-23] - Copio Analisi 14-03-22.mp4 in /Volumes/working space/Università/analisi/Modulo II/lezioni
+
+[14-03-2022 20-35-34] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti nel cestino /Volumes/working space/@Recycle
+[14-03-2022 20-35-43] - Elimino /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti
+[14-03-2022 20-35-47] - Copio /Users/mr.alderson/Desktop/algoritmi_e_strutture_dati/appunti in /Volumes/working space/Università/algoritmi_e_strutture_dati
+
+[15-03-2022 08-58-33] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti nel cestino /Volumes/working space/@Recycle
+[15-03-2022 08-58-44] - Elimino /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti
+[15-03-2022 08-58-45] - Copio /Users/mr.alderson/Desktop/algoritmi_e_strutture_dati/appunti in /Volumes/working space/Università/algoritmi_e_strutture_dati
+
+[15-03-2022 15-22-44] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti nel cestino /Volumes/working space/@Recycle
+[15-03-2022 15-22-50] - Elimino /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti
+[15-03-2022 15-22-52] - Copio /Users/mr.alderson/Desktop/algoritmi_e_strutture_dati/appunti in /Volumes/working space/Università/algoritmi_e_strutture_dati
+
+[15-03-2022 15-30-54] - In totale le lezioni sono 133 di cui 61 completate, 2 in corso, 67 da fare e 3 i cui dati non sono disponibili.
+
+[15-03-2022 15-32-41] - Copio /Users/mr.anderson2159/Desktop/algoritmi_e_strutture_dati/appunti nel cestino /Users/mr.anderson2159/.Trash
+[15-03-2022 15-32-42] - Elimino /Users/mr.anderson2159/Desktop/algoritmi_e_strutture_dati/appunti
+[15-03-2022 15-32-42] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti in /Users/mr.anderson2159/Desktop/algoritmi_e_strutture_dati
+
+[15-03-2022 17-40-40] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti nel cestino /Volumes/working space/@Recycle
+[15-03-2022 17-41-07] - Elimino /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti
+[15-03-2022 17-41-16] - Copio /Users/mr.anderson2159/Desktop/algoritmi_e_strutture_dati/appunti in /Volumes/working space/Università/algoritmi_e_strutture_dati
+
+[15-03-2022 17-41-53] - In totale le lezioni sono 133 di cui 62 completate, 2 in corso, 66 da fare e 3 i cui dati non sono disponibili.
+
+
+[15-03-2022 17-42-02] - In totale le lezioni sono 133 di cui 62 completate, 2 in corso, 66 da fare e 3 i cui dati non sono disponibili.
+
+
+[15-03-2022 17-42-55] - In totale le lezioni sono 133 di cui 62 completate, 2 in corso, 66 da fare e 3 i cui dati non sono disponibili.
+
+
+[15-03-2022 17-46-17] - In totale le lezioni sono 133 di cui 62 completate, 2 in corso, 66 da fare e 3 i cui dati non sono disponibili.
+
+
+[15-03-2022 17-46-50] - In totale le lezioni sono 133 di cui 62 completate, 2 in corso, 66 da fare e 3 i cui dati non sono disponibili.
+
+
+[15-03-2022 17-49-05] - In totale le lezioni sono 133 di cui 62 completate, 2 in corso, 66 da fare e 3 i cui dati non sono disponibili.
+
+
+[15-03-2022 17-57-00] - In totale le lezioni sono 133 di cui 62 completate, 2 in corso, 66 da fare e 3 i cui dati non sono disponibili.
+
+
+[15-03-2022 17-57-44] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-03-15_08-59-13.mp4 in /Volumes/working space/Università/Nuove Acquisizioni/Analisi 15-03-22.mp4
+[15-03-2022 17-57-50] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-03-15_14-01-18.mp4 in /Volumes/working space/Università/Nuove Acquisizioni/Architettura 15-03-22.mp4
+[15-03-2022 17-57-50] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-03-15 16-05-51.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Linguaggi formali 15-03-22.mkv
+[15-03-2022 17-57-57] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-03-15 08-58-08.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Algoritmi 15-03-22.mkv
+[15-03-2022 17-57-57] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-03-15 11-05-04.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Sistemi operativi 15-03-22.mkv
+[15-03-2022 17-58-04] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-03-15 14-00-44.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Algoritmi 15-03-22 (2).mkv
+[15-03-2022 17-58-17] - Copio Analisi 15-03-22.mp4 in /Volumes/working space/Università/analisi/Modulo II/lezioni
+[15-03-2022 17-58-25] - Copio Architettura 15-03-22.mp4 in /Volumes/working space/Università/architettura_degli_elaboratori/Modulo II/lezioni
+[15-03-2022 17-58-35] - Copio Linguaggi formali 15-03-22.mkv in /Volumes/working space/Università/linguaggi_formali_e_compilatori/lezioni
+[15-03-2022 17-58-47] - Copio Algoritmi 15-03-22.mkv in /Volumes/working space/Università/algoritmi_e_strutture_dati/lezioni
+[15-03-2022 17-59-00] - Copio Sistemi operativi 15-03-22.mkv in /Volumes/working space/Università/sistemi_operativi/lezioni
+[15-03-2022 17-59-00] - Non ho potuto copiare Algoritmi 15-03-22.mkv in /Volumes/working space/Università/algoritmi_e_strutture_dati/lezioni perché esisteva già
+[15-03-2022 17-59-13] - Copio Algoritmi 15-03-22 (2).mkv in /Volumes/working space/Università/algoritmi_e_strutture_dati/lezioni
+
+[15-03-2022 17-59-33] - Non ho potuto copiare Linguaggi formali 15-03-22.mkv in /Volumes/working space/Università/linguaggi_formali_e_compilatori/lezioni perché esisteva già
+[15-03-2022 17-59-33] - Non ho potuto copiare Algoritmi 15-03-22.mkv in /Volumes/working space/Università/algoritmi_e_strutture_dati/lezioni perché esisteva già
+[15-03-2022 17-59-33] - Non ho potuto copiare Sistemi operativi 15-03-22.mkv in /Volumes/working space/Università/sistemi_operativi/lezioni perché esisteva già
+[15-03-2022 17-59-33] - Non ho potuto copiare Algoritmi 15-03-22 (2).mkv in /Volumes/working space/Università/algoritmi_e_strutture_dati/lezioni perché esisteva già
+[15-03-2022 17-59-33] - Non ho potuto copiare Analisi 15-03-22.mp4 in /Volumes/working space/Università/analisi/Modulo II/lezioni perché esisteva già
+[15-03-2022 17-59-33] - Non ho potuto copiare Architettura 15-03-22.mp4 in /Volumes/working space/Università/architettura_degli_elaboratori/Modulo II/lezioni perché esisteva già
+
+[15-03-2022 18-00-09] - In totale le lezioni sono 139 di cui 62 completate, 2 in corso, 66 da fare e 9 i cui dati non sono disponibili.
+
+
+[15-03-2022 18-03-42] - In totale le lezioni sono 139 di cui 62 completate, 1 in corso, 76 da fare e 0 i cui dati non sono disponibili.
+
+
+[15-03-2022 18-25-55] - In totale le lezioni sono 139 di cui 62 completate, 1 in corso, 76 da fare e 0 i cui dati non sono disponibili.
+
+
+[15-03-2022 18-26-47] - In totale le lezioni sono 139 di cui 62 completate, 1 in corso, 76 da fare e 0 i cui dati non sono disponibili.
+
+
+[15-03-2022 18-34-12] - In totale le lezioni sono 139 di cui 62 completate, 1 in corso, 76 da fare, 0 da fare dopo l'esame e 0 i cui dati non sono disponibili.
+
+
+[15-03-2022 18-34-33] - In totale le lezioni sono 139 di cui 62 completate, 1 in corso, 75 da fare, 1 da fare dopo l'esame e 0 i cui dati non sono disponibili.
+
+
+[15-03-2022 18-35-14] - In totale le lezioni sono 139 di cui 62 completate, 1 in corso, 73 da fare, 3 da fare dopo l'esame e 0 i cui dati non sono disponibili.
+
+
+[15-03-2022 18-38-44] - Copio /Users/mr.alderson/Desktop/algoritmi_e_strutture_dati/appunti nel cestino /Users/mr.alderson/.Trash
+[15-03-2022 18-38-44] - Elimino /Users/mr.alderson/Desktop/algoritmi_e_strutture_dati/appunti
+[15-03-2022 18-38-44] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti in /Users/mr.alderson/Desktop/algoritmi_e_strutture_dati
+
+[15-03-2022 18-51-57] - In totale le lezioni sono 139 di cui 62 completate, 1 in corso, 73 da fare, 3 da fare dopo l'esame e 0 i cui dati non sono disponibili.
+
+
+[15-03-2022 22-15-57] - In totale le lezioni sono 139 di cui 62 completate, 1 in corso, 73 da fare, 3 da fare dopo l'esame e 0 i cui dati non sono disponibili.
+
+
+[16-03-2022 08-12-20] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti nel cestino /Volumes/working space/@Recycle
+[16-03-2022 08-12-47] - Elimino /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti
+[16-03-2022 08-12-50] - Copio /Users/mr.alderson/Desktop/algoritmi_e_strutture_dati/appunti in /Volumes/working space/Università/algoritmi_e_strutture_dati
+
+
+
+
+[16-03-2022 13-43-51] - Non ho potuto copiare Linguaggi formali 15-03-22.mkv in /Volumes/working space/Università/linguaggi_formali_e_compilatori/lezioni perché esisteva già
+[16-03-2022 13-43-51] - Non ho potuto copiare Algoritmi 15-03-22.mkv in /Volumes/working space/Università/algoritmi_e_strutture_dati/lezioni perché esisteva già
+[16-03-2022 13-43-51] - Non ho potuto copiare Sistemi operativi 15-03-22.mkv in /Volumes/working space/Università/sistemi_operativi/lezioni perché esisteva già
+[16-03-2022 13-43-51] - Non ho potuto copiare Algoritmi 15-03-22 (2).mkv in /Volumes/working space/Università/algoritmi_e_strutture_dati/lezioni perché esisteva già
+[16-03-2022 13-43-52] - Non ho potuto copiare Analisi 15-03-22.mp4 in /Volumes/working space/Università/analisi/Modulo II/lezioni perché esisteva già
+[16-03-2022 13-43-52] - Non ho potuto copiare Architettura 15-03-22.mp4 in /Volumes/working space/Università/architettura_degli_elaboratori/Modulo II/lezioni perché esisteva già
+
+
+[16-03-2022 13-45-31] - Non ho potuto copiare Linguaggi formali 15-03-22.mkv in /Volumes/working space/Università/linguaggi_formali_e_compilatori/lezioni perché esisteva già
+[16-03-2022 13-45-31] - Non ho potuto copiare Algoritmi 15-03-22.mkv in /Volumes/working space/Università/algoritmi_e_strutture_dati/lezioni perché esisteva già
+[16-03-2022 13-45-31] - Non ho potuto copiare Sistemi operativi 15-03-22.mkv in /Volumes/working space/Università/sistemi_operativi/lezioni perché esisteva già
+[16-03-2022 13-45-31] - Non ho potuto copiare Algoritmi 15-03-22 (2).mkv in /Volumes/working space/Università/algoritmi_e_strutture_dati/lezioni perché esisteva già
+[16-03-2022 13-45-31] - Non ho potuto copiare Analisi 15-03-22.mp4 in /Volumes/working space/Università/analisi/Modulo II/lezioni perché esisteva già
+[16-03-2022 13-45-31] - Non ho potuto copiare Architettura 15-03-22.mp4 in /Volumes/working space/Università/architettura_degli_elaboratori/Modulo II/lezioni perché esisteva già
+
+
+
+
+[16-03-2022 14-48-16] - Rinomino /Volumes/working space/Università/test/2022-03-16 09-33-30.mp4 in /Volumes/working space/Università/test/Algoritmi 16-03-22.mp4
+[16-03-2022 14-48-42] - KeyboardInterrupt
+
+[16-03-2022 14-49-19] - Rinomino /Volumes/working space/Università/test/2022-03-16 09-33-30.mp4 in /Volumes/working space/Università/test/Architettura 16-03-22.mp4
+[16-03-2022 14-49-31] - KeyboardInterrupt
+
+[16-03-2022 14-53-28] - Rinomino /Volumes/working space/Università/test/2022-03-16 09-33-30.mp4 in /Volumes/working space/Università/test/Architettura 16-03-22.mp4
+[16-03-2022 14-53-35] - KeyboardInterrupt
+
+[16-03-2022 14-56-55] - Rinomino /Volumes/working space/Università/test/2022-03-16 09-33-30.mp4 in /Volumes/working space/Università/test/Architettura 16-03-22.mp4
+[16-03-2022 14-58-21] - KeyboardInterrupt
+
+[16-03-2022 14-58-42] - Rinomino /Volumes/working space/Università/test/2022-03-16 09-33-30.mp4 in /Volumes/working space/Università/test/Architettura 16-03-22.mp4
+[16-03-2022 14-58-42] - Rinomino /Volumes/working space/Università/test/2022-03-16 09-20-30.mkv in /Volumes/working space/Università/test/Algoritmi 16-03-22.mkv
+
+[16-03-2022 15-00-56] - Rinomino /Volumes/working space/Università/test/2022-03-16 09-20-30.mkv in /Volumes/working space/Università/test/Architettura 16-03-22.mkv
+[16-03-2022 15-00-56] - Rinomino /Volumes/working space/Università/test/2022-03-16 09-33-30.mp4 in /Volumes/working space/Università/test/Algoritmi 16-03-22.mp4
+[16-03-2022 15-00-56] - Rinomino /Volumes/working space/Università/test/2022-03-16 11-33-30.mp4 in /Volumes/working space/Università/test/Ingegneria 16-03-22.mp4
+[16-03-2022 15-01-04] - Rinomino /Volumes/working space/Università/test/2022-03-16 14-24-30.mp4 in /Volumes/working space/Università/test/Analisi 16-03-22.mp4
+[16-03-2022 15-01-04] - Rinomino /Volumes/working space/Università/test/2022-03-16 14-51-30.mkv in /Volumes/working space/Università/test/Linguaggi formali 16-03-22.mkv
+[16-03-2022 15-01-04] - Rinomino /Volumes/working space/Università/test/2022-03-16 16-49-30.mkv in /Volumes/working space/Università/test/Fisica 16-03-22.mkv
+
+[16-03-2022 15-34-22] - In totale le lezioni sono 139 di cui 62 completate, 1 in corso, 73 da fare, 3 da fare dopo l'esame e 0 i cui dati non sono disponibili.
+
+
+[16-03-2022 18-03-22] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-03-16 09-00-29.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Algoritmi 16-03-22.mkv
+[16-03-2022 18-03-22] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-03-16 11-07-52.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Ingegneria 16-03-22.mkv
+[16-03-2022 18-03-39] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-03-16 14-01-15.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Linguaggi formali 16-03-22.mkv
+[16-03-2022 18-03-39] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-03-16 16-01-05.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Fisica 16-03-22.mkv
+[16-03-2022 18-03-39] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-03-16_09-00-33.mp4 in /Volumes/working space/Università/Nuove Acquisizioni/Architettura 16-03-22.mp4
+[16-03-2022 18-03-39] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-03-16_14-01-11.mp4 in /Volumes/working space/Università/Nuove Acquisizioni/Analisi 16-03-22.mp4
+[16-03-2022 18-03-51] - Copio Algoritmi 16-03-22.mkv in /Volumes/working space/Università/algoritmi_e_strutture_dati/lezioni
+[16-03-2022 18-04-01] - Copio Ingegneria 16-03-22.mkv in /Volumes/working space/Università/ingegneria_del_software/lezioni
+[16-03-2022 18-04-10] - Copio Linguaggi formali 16-03-22.mkv in /Volumes/working space/Università/linguaggi_formali_e_compilatori/lezioni
+
+[16-03-2022 18-04-29] - Non ho potuto copiare Linguaggi formali 15-03-22.mkv in /Volumes/working space/Università/linguaggi_formali_e_compilatori/lezioni perché esisteva già
+[16-03-2022 18-04-29] - Non ho potuto copiare Algoritmi 15-03-22.mkv in /Volumes/working space/Università/algoritmi_e_strutture_dati/lezioni perché esisteva già
+[16-03-2022 18-04-29] - Non ho potuto copiare Sistemi operativi 15-03-22.mkv in /Volumes/working space/Università/sistemi_operativi/lezioni perché esisteva già
+[16-03-2022 18-04-29] - Non ho potuto copiare Algoritmi 15-03-22 (2).mkv in /Volumes/working space/Università/algoritmi_e_strutture_dati/lezioni perché esisteva già
+[16-03-2022 18-04-29] - Non ho potuto copiare Ingegneria 16-03-22.mkv in /Volumes/working space/Università/ingegneria_del_software/lezioni perché esisteva già
+[16-03-2022 18-04-29] - Non ho potuto copiare Analisi 15-03-22.mp4 in /Volumes/working space/Università/analisi/Modulo II/lezioni perché esisteva già
+[16-03-2022 18-04-29] - Non ho potuto copiare Architettura 15-03-22.mp4 in /Volumes/working space/Università/architettura_degli_elaboratori/Modulo II/lezioni perché esisteva già
+[16-03-2022 18-04-39] - Copio Fisica 16-03-22.mkv in /Volumes/working space/Università/fisica_generale/lezioni
+[16-03-2022 18-04-46] - Copio Architettura 16-03-22.mp4 in /Volumes/working space/Università/architettura_degli_elaboratori/Modulo II/lezioni
+[16-03-2022 18-04-56] - Copio Analisi 16-03-22.mp4 in /Volumes/working space/Università/analisi/Modulo II/lezioni
+[16-03-2022 18-04-56] - Non ho potuto copiare Algoritmi 16-03-22.mkv in /Volumes/working space/Università/algoritmi_e_strutture_dati/lezioni perché esisteva già
+[16-03-2022 18-04-56] - Non ho potuto copiare Linguaggi formali 16-03-22.mkv in /Volumes/working space/Università/linguaggi_formali_e_compilatori/lezioni perché esisteva già
+
+[16-03-2022 18-05-23] - In totale le lezioni sono 145 di cui 62 completate, 1 in corso, 73 da fare, 3 da fare dopo l'esame e 6 i cui dati non sono disponibili.
+
+
+[16-03-2022 18-09-25] - In totale le lezioni sono 145 di cui 62 completate, 1 in corso, 74 da fare, 3 da fare dopo l'esame e 5 i cui dati non sono disponibili.
+
+
+[17-03-2022 10-25-22] - In totale le lezioni sono 145 di cui 62 completate, 1 in corso, 74 da fare, 3 da fare dopo l'esame e 5 i cui dati non sono disponibili.
+
+
+[17-03-2022 10-26-00] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti nel cestino /Volumes/working space/@Recycle
+[17-03-2022 10-26-17] - Elimino /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti
+[17-03-2022 10-26-22] - Copio /Users/mr.alderson/Desktop/algoritmi_e_strutture_dati/appunti in /Volumes/working space/Università/algoritmi_e_strutture_dati
+
+[17-03-2022 10-42-37] - Copio /Users/mr.anderson2159/Desktop/algoritmi_e_strutture_dati/appunti nel cestino /Users/mr.anderson2159/.Trash
+[17-03-2022 10-42-37] - Elimino /Users/mr.anderson2159/Desktop/algoritmi_e_strutture_dati/appunti
+[17-03-2022 10-42-37] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti in /Users/mr.anderson2159/Desktop/algoritmi_e_strutture_dati
+
+[17-03-2022 13-02-18] - Non ho potuto copiare Linguaggi formali 15-03-22.mkv in /Volumes/working space/Università/linguaggi_formali_e_compilatori/lezioni perché esisteva già
+[17-03-2022 13-02-18] - Non ho potuto copiare Algoritmi 15-03-22.mkv in /Volumes/working space/Università/algoritmi_e_strutture_dati/lezioni perché esisteva già
+[17-03-2022 13-02-18] - Non ho potuto copiare Sistemi operativi 15-03-22.mkv in /Volumes/working space/Università/sistemi_operativi/lezioni perché esisteva già
+[17-03-2022 13-02-18] - Non ho potuto copiare Algoritmi 15-03-22 (2).mkv in /Volumes/working space/Università/algoritmi_e_strutture_dati/lezioni perché esisteva già
+[17-03-2022 13-02-18] - Non ho potuto copiare Ingegneria 16-03-22.mkv in /Volumes/working space/Università/ingegneria_del_software/lezioni perché esisteva già
+[17-03-2022 13-02-18] - Non ho potuto copiare Analisi 15-03-22.mp4 in /Volumes/working space/Università/analisi/Modulo II/lezioni perché esisteva già
+[17-03-2022 13-02-19] - Non ho potuto copiare Architettura 15-03-22.mp4 in /Volumes/working space/Università/architettura_degli_elaboratori/Modulo II/lezioni perché esisteva già
+[17-03-2022 13-02-19] - Non ho potuto copiare Fisica 16-03-22.mkv in /Volumes/working space/Università/fisica_generale/lezioni perché esisteva già
+[17-03-2022 13-02-19] - Non ho potuto copiare Architettura 16-03-22.mp4 in /Volumes/working space/Università/architettura_degli_elaboratori/Modulo II/lezioni perché esisteva già
+[17-03-2022 13-02-19] - Non ho potuto copiare Analisi 16-03-22.mp4 in /Volumes/working space/Università/analisi/Modulo II/lezioni perché esisteva già
+[17-03-2022 13-02-19] - Non ho potuto copiare Algoritmi 16-03-22.mkv in /Volumes/working space/Università/algoritmi_e_strutture_dati/lezioni perché esisteva già
+[17-03-2022 13-02-19] - Non ho potuto copiare Linguaggi formali 16-03-22.mkv in /Volumes/working space/Università/linguaggi_formali_e_compilatori/lezioni perché esisteva già
+
+[17-03-2022 13-53-34] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti nel cestino /Volumes/working space/@Recycle
+[17-03-2022 13-53-55] - Elimino /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti
+[17-03-2022 13-54-01] - Copio /Users/mr.anderson2159/Desktop/algoritmi_e_strutture_dati/appunti in /Volumes/working space/Università/algoritmi_e_strutture_dati
+
+[17-03-2022 15-33-07] - In totale le lezioni sono 145 di cui 63 completate, 1 in corso, 73 da fare, 3 da fare dopo l'esame e 5 i cui dati non sono disponibili.
+
+
+[17-03-2022 17-07-14] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-03-17 14-01-19.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Sistemi operativi 17-03-22.mkv
+[17-03-2022 17-07-22] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-03-17 09-01-18.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Diritto 17-03-22.mkv
+[17-03-2022 17-07-22] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-03-17 11-07-14.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Ingegneria 17-03-22.mkv
+[17-03-2022 17-07-22] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-03-17_09-02-11.mp4 in /Volumes/working space/Università/Nuove Acquisizioni/Architettura 17-03-22.mp4
+[17-03-2022 17-07-47] - Copio Sistemi operativi 17-03-22.mkv in /Volumes/working space/Università/sistemi_operativi/lezioni
+[17-03-2022 17-08-05] - Copio Diritto 17-03-22.mkv in /Volumes/working space/Università/diritto_dell'informatica/lezioni
+[17-03-2022 17-08-25] - Copio Ingegneria 17-03-22.mkv in /Volumes/working space/Università/ingegneria_del_software/lezioni
+[17-03-2022 17-08-39] - Copio Architettura 17-03-22.mp4 in /Volumes/working space/Università/architettura_degli_elaboratori/Modulo II/lezioni
+
+[17-03-2022 17-13-14] - Copio Diritto 17-03-22.mkv in /Volumes/working space/Università/diritto_dell'informatica/lezioni
+[17-03-2022 17-13-14] - /Volumes/working space/Università/diritto_dell'informatica/lezioni/Diritto 17-03-22.mkv tagged "red"
+[17-03-2022 17-13-34] - Copio Ingegneria 17-03-22.mkv in /Volumes/working space/Università/ingegneria_del_software/lezioni
+[17-03-2022 17-13-34] - /Volumes/working space/Università/ingegneria_del_software/lezioni/Ingegneria 17-03-22.mkv tagged "red"
+[17-03-2022 17-13-47] - Copio Architettura 17-03-22.mp4 in /Volumes/working space/Università/architettura_degli_elaboratori/Modulo II/lezioni
+[17-03-2022 17-13-47] - /Volumes/working space/Università/architettura_degli_elaboratori/Modulo II/lezioni/Architettura 17-03-22.mp4 tagged "red"
+[17-03-2022 17-14-14] - Copio Sistemi operativi 17-03-22.mkv in /Volumes/working space/Università/sistemi_operativi/lezioni
+[17-03-2022 17-14-14] - /Volumes/working space/Università/sistemi_operativi/lezioni/Sistemi operativi 17-03-22.mkv tagged "red"
+
+[17-03-2022 17-14-55] - Non ho potuto copiare Diritto 17-03-22.mkv in /Volumes/working space/Università/diritto_dell'informatica/lezioni perché esisteva già
+[17-03-2022 17-14-55] - Non ho potuto copiare Ingegneria 17-03-22.mkv in /Volumes/working space/Università/ingegneria_del_software/lezioni perché esisteva già
+[17-03-2022 17-14-55] - Non ho potuto copiare Architettura 17-03-22.mp4 in /Volumes/working space/Università/architettura_degli_elaboratori/Modulo II/lezioni perché esisteva già
+[17-03-2022 17-14-55] - Non ho potuto copiare Sistemi operativi 17-03-22.mkv in /Volumes/working space/Università/sistemi_operativi/lezioni perché esisteva già
+
+[17-03-2022 17-15-02] - In totale le lezioni sono 149 di cui 63 completate, 1 in corso, 79 da fare e 3 i cui dati non sono disponibili.
+
+
+[17-03-2022 17-15-50] - In totale le lezioni sono 149 di cui 63 completate, 1 in corso, 82 da fare e 0 i cui dati non sono disponibili.
+
+
+[17-03-2022 18-07-50] - In totale le lezioni sono 149 di cui 63 completate, 1 in corso, 82 da fare e 0 i cui dati non sono disponibili.
+
+
+[21-03-2022 17-06-40] - Non ho potuto copiare Diritto 17-03-22.mkv in /Volumes/working space/Università/diritto_dell'informatica/lezioni perché esisteva già
+[21-03-2022 17-06-40] - Non ho potuto copiare Ingegneria 17-03-22.mkv in /Volumes/working space/Università/ingegneria_del_software/lezioni perché esisteva già
+[21-03-2022 17-06-40] - Non ho potuto copiare Architettura 17-03-22.mp4 in /Volumes/working space/Università/architettura_degli_elaboratori/Modulo II/lezioni perché esisteva già
+[21-03-2022 17-06-40] - Non ho potuto copiare Sistemi operativi 17-03-22.mkv in /Volumes/working space/Università/sistemi_operativi/lezioni perché esisteva già
+
+[21-03-2022 17-07-47] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-03-18_09-01-30.mp4 in /Volumes/working space/Università/Nuove Acquisizioni/Fisica 18-03-22.mp4
+[21-03-2022 17-07-54] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-03-21_09-02-25.mp4 in /Volumes/working space/Università/Nuove Acquisizioni/Analisi 21-03-22.mp4
+[21-03-2022 17-08-24] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-03-21 09-03-19.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Diritto 21-03-22.mkv
+[21-03-2022 17-08-24] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-03-21 10-55-37.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Sistemi operativi 21-03-22.mkv
+[21-03-2022 17-08-24] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-03-21 14-33-25.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Algoritmi 21-03-22.mkv
+[21-03-2022 17-08-38] - Copio Fisica 18-03-22.mp4 in /Volumes/working space/Università/fisica_generale/lezioni
+
+[21-03-2022 17-10-10] - Copio Analisi 21-03-22.mp4 in /Volumes/working space/Università/analisi/Modulo II/lezioni
+
+[21-03-2022 17-11-16] - Non ho potuto copiare Analisi 21-03-22.mp4 in /Volumes/working space/Università/analisi/Modulo II/lezioni perché esisteva già
+[21-03-2022 17-11-29] - Copio Diritto 21-03-22.mkv in /Volumes/working space/Università/diritto_dell'informatica/lezioni
+
+[21-03-2022 17-12-21] - Non ho potuto copiare Analisi 21-03-22.mp4 in /Volumes/working space/Università/analisi/Modulo II/lezioni perché esisteva già
+[21-03-2022 17-12-21] - Non ho potuto copiare Diritto 21-03-22.mkv in /Volumes/working space/Università/diritto_dell'informatica/lezioni perché esisteva già
+[21-03-2022 17-12-33] - Copio Sistemi operativi 21-03-22.mkv in /Volumes/working space/Università/sistemi_operativi/lezioni
+
+[21-03-2022 17-12-44] - Non ho potuto copiare Analisi 21-03-22.mp4 in /Volumes/working space/Università/analisi/Modulo II/lezioni perché esisteva già
+[21-03-2022 17-12-44] - Non ho potuto copiare Diritto 21-03-22.mkv in /Volumes/working space/Università/diritto_dell'informatica/lezioni perché esisteva già
+[21-03-2022 17-12-44] - Non ho potuto copiare Sistemi operativi 21-03-22.mkv in /Volumes/working space/Università/sistemi_operativi/lezioni perché esisteva già
+[21-03-2022 17-12-58] - Copio Algoritmi 21-03-22.mkv in /Volumes/working space/Università/algoritmi_e_strutture_dati/lezioni
+[21-03-2022 17-12-58] - /Volumes/working space/Università/algoritmi_e_strutture_dati/lezioni/Algoritmi 21-03-22.mkv tagged "red"
+[21-03-2022 17-12-58] - Non ho potuto copiare Fisica 18-03-22.mp4 in /Volumes/working space/Università/fisica_generale/lezioni perché esisteva già
+
+[21-03-2022 17-13-04] - Non ho potuto copiare Analisi 21-03-22.mp4 in /Volumes/working space/Università/analisi/Modulo II/lezioni perché esisteva già
+[21-03-2022 17-13-04] - Non ho potuto copiare Diritto 21-03-22.mkv in /Volumes/working space/Università/diritto_dell'informatica/lezioni perché esisteva già
+[21-03-2022 17-13-04] - Non ho potuto copiare Sistemi operativi 21-03-22.mkv in /Volumes/working space/Università/sistemi_operativi/lezioni perché esisteva già
+[21-03-2022 17-13-04] - Non ho potuto copiare Algoritmi 21-03-22.mkv in /Volumes/working space/Università/algoritmi_e_strutture_dati/lezioni perché esisteva già
+[21-03-2022 17-13-04] - Non ho potuto copiare Fisica 18-03-22.mp4 in /Volumes/working space/Università/fisica_generale/lezioni perché esisteva già
+
+[21-03-2022 19-32-21] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti nel cestino /Volumes/working space/@Recycle
+[21-03-2022 19-32-46] - Elimino /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti
+[21-03-2022 19-32-49] - Copio /Users/mr.anderson2159/Desktop/algoritmi_e_strutture_dati/appunti in /Volumes/working space/Università/algoritmi_e_strutture_dati
+
+[21-03-2022 19-33-59] - Copio /Users/mr.alderson/Desktop/algoritmi_e_strutture_dati/appunti nel cestino /Users/mr.alderson/.Trash
+[21-03-2022 19-33-59] - Elimino /Users/mr.alderson/Desktop/algoritmi_e_strutture_dati/appunti
+[21-03-2022 19-33-59] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti in /Users/mr.alderson/Desktop/algoritmi_e_strutture_dati
+
+[21-03-2022 22-14-32] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti nel cestino /Volumes/working space/@Recycle
+[21-03-2022 22-14-39] - Elimino /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti
+[21-03-2022 22-14-40] - Copio /Users/mr.alderson/Desktop/algoritmi_e_strutture_dati/appunti in /Volumes/working space/Università/algoritmi_e_strutture_dati
+
+[21-03-2022 22-40-24] - Copio /Users/mr.anderson2159/Desktop/algoritmi_e_strutture_dati/appunti nel cestino /Users/mr.anderson2159/.Trash
+[21-03-2022 22-40-24] - Elimino /Users/mr.anderson2159/Desktop/algoritmi_e_strutture_dati/appunti
+[21-03-2022 22-40-24] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti in /Users/mr.anderson2159/Desktop/algoritmi_e_strutture_dati
+
+[21-03-2022 22-41-15] - Copio /Users/mr.anderson2159/Desktop/algoritmi_e_strutture_dati/appunti nel cestino /Users/mr.anderson2159/.Trash
+[21-03-2022 22-41-15] - Elimino /Users/mr.anderson2159/Desktop/algoritmi_e_strutture_dati/appunti
+[21-03-2022 22-41-15] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti in /Users/mr.anderson2159/Desktop/algoritmi_e_strutture_dati
+
+[24-03-2022 23-44-26] - Non ho potuto copiare Analisi 21-03-22.mp4 in /Volumes/working space/Università/analisi/Modulo II/lezioni perché esisteva già
+[24-03-2022 23-44-26] - Non ho potuto copiare Diritto 21-03-22.mkv in /Volumes/working space/Università/diritto_dell'informatica/lezioni perché esisteva già
+[24-03-2022 23-44-26] - Non ho potuto copiare Sistemi operativi 21-03-22.mkv in /Volumes/working space/Università/sistemi_operativi/lezioni perché esisteva già
+[24-03-2022 23-44-26] - Non ho potuto copiare Algoritmi 21-03-22.mkv in /Volumes/working space/Università/algoritmi_e_strutture_dati/lezioni perché esisteva già
+[24-03-2022 23-44-26] - Non ho potuto copiare Fisica 18-03-22.mp4 in /Volumes/working space/Università/fisica_generale/lezioni perché esisteva già
+
+[24-03-2022 23-46-20] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-03-22 11-25-08.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Sistemi operativi 22-03-22.mkv
+[24-03-2022 23-46-31] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-03-22 14-00-58.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Algoritmi 22-03-22.mkv
+[24-03-2022 23-46-31] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-03-22 16-09-05.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Linguaggi formali 22-03-22.mkv
+[24-03-2022 23-46-43] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-03-23 09-01-40.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Algoritmi 23-03-22.mkv
+[24-03-2022 23-46-43] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-03-23 11-00-26.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Ingegneria 23-03-22.mkv
+[24-03-2022 23-46-54] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-03-23 14-01-04.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Linguaggi formali 23-03-22.mkv
+[24-03-2022 23-46-54] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-03-23_09-02-28.mp4 in /Volumes/working space/Università/Nuove Acquisizioni/Architettura 23-03-22.mp4
+
+[24-03-2022 23-48-08] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-03-24_08-58-10.mp4 in /Volumes/working space/Università/Nuove Acquisizioni/Architettura 24-03-22.mp4
+[24-03-2022 23-48-08] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-03-23 16-00-39.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Fisica 23-03-22.mkv
+[24-03-2022 23-48-08] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-03-24 08-57-29.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Diritto 24-03-22.mkv
+[24-03-2022 23-48-08] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-03-24 13-58-40.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Sistemi operativi 24-03-22.mkv
+[24-03-2022 23-48-17] - Copio Architettura 24-03-22.mp4 in /Volumes/working space/Università/architettura_degli_elaboratori/Modulo II/lezioni
+[24-03-2022 23-48-34] - Copio Fisica 23-03-22.mkv in /Volumes/working space/Università/fisica_generale/lezioni
+[24-03-2022 23-48-55] - Copio Diritto 24-03-22.mkv in /Volumes/working space/Università/diritto_dell'informatica/lezioni
+[24-03-2022 23-49-17] - Copio Sistemi operativi 24-03-22.mkv in /Volumes/working space/Università/sistemi_operativi/lezioni
+[24-03-2022 23-49-35] - Copio Algoritmi 22-03-22.mkv in /Volumes/working space/Università/algoritmi_e_strutture_dati/lezioni
+[24-03-2022 23-49-53] - Copio Algoritmi 23-03-22.mkv in /Volumes/working space/Università/algoritmi_e_strutture_dati/lezioni
+[24-03-2022 23-50-09] - Copio Ingegneria 23-03-22.mkv in /Volumes/working space/Università/ingegneria_del_software/lezioni
+[24-03-2022 23-50-23] - Copio Linguaggi formali 23-03-22.mkv in /Volumes/working space/Università/linguaggi_formali_e_compilatori/lezioni
+[24-03-2022 23-50-36] - Copio Architettura 23-03-22.mp4 in /Volumes/working space/Università/architettura_degli_elaboratori/Modulo II/lezioni
+[24-03-2022 23-50-51] - Copio Sistemi operativi 22-03-22.mkv in /Volumes/working space/Università/sistemi_operativi/lezioni
+[24-03-2022 23-51-04] - Copio Linguaggi formali 22-03-22.mkv in /Volumes/working space/Università/linguaggi_formali_e_compilatori/lezioni
+
+[24-03-2022 23-51-23] - In totale le lezioni sono 165 di cui 67 completate, 0 in corso, 85 da fare, 0 da fare dopo l'esame e 13 i cui dati non sono disponibili.
+
+
+[24-03-2022 23-53-05] - In totale le lezioni sono 165 di cui 67 completate, 0 in corso, 98 da fare, 0 da fare dopo l'esame e 0 i cui dati non sono disponibili.
+
+
+[24-03-2022 23-53-55] - Non ho potuto copiare Algoritmi 22-03-22.mkv in /Volumes/working space/Università/algoritmi_e_strutture_dati/lezioni perché esisteva già
+[24-03-2022 23-53-55] - Non ho potuto copiare Algoritmi 23-03-22.mkv in /Volumes/working space/Università/algoritmi_e_strutture_dati/lezioni perché esisteva già
+[24-03-2022 23-53-55] - Non ho potuto copiare Ingegneria 23-03-22.mkv in /Volumes/working space/Università/ingegneria_del_software/lezioni perché esisteva già
+[24-03-2022 23-53-55] - Non ho potuto copiare Linguaggi formali 23-03-22.mkv in /Volumes/working space/Università/linguaggi_formali_e_compilatori/lezioni perché esisteva già
+[24-03-2022 23-53-55] - Non ho potuto copiare Architettura 23-03-22.mp4 in /Volumes/working space/Università/architettura_degli_elaboratori/Modulo II/lezioni perché esisteva già
+[24-03-2022 23-53-55] - Non ho potuto copiare Architettura 24-03-22.mp4 in /Volumes/working space/Università/architettura_degli_elaboratori/Modulo II/lezioni perché esisteva già
+[24-03-2022 23-53-55] - Non ho potuto copiare Fisica 23-03-22.mkv in /Volumes/working space/Università/fisica_generale/lezioni perché esisteva già
+[24-03-2022 23-53-55] - Non ho potuto copiare Diritto 24-03-22.mkv in /Volumes/working space/Università/diritto_dell'informatica/lezioni perché esisteva già
+[24-03-2022 23-53-55] - Non ho potuto copiare Sistemi operativi 24-03-22.mkv in /Volumes/working space/Università/sistemi_operativi/lezioni perché esisteva già
+[24-03-2022 23-53-55] - Non ho potuto copiare Sistemi operativi 22-03-22.mkv in /Volumes/working space/Università/sistemi_operativi/lezioni perché esisteva già
+[24-03-2022 23-53-55] - Non ho potuto copiare Linguaggi formali 22-03-22.mkv in /Volumes/working space/Università/linguaggi_formali_e_compilatori/lezioni perché esisteva già
+
+[24-03-2022 23-54-00] - In totale le lezioni sono 165 di cui 67 completate, 0 in corso, 98 da fare, 0 da fare dopo l'esame e 0 i cui dati non sono disponibili.
+
+
+[25-03-2022 09-39-33] - In totale le lezioni sono 165 di cui 67 completate, 3 in corso, 95 da fare, 0 da fare dopo l'esame e 0 i cui dati non sono disponibili.
+
+
+[25-03-2022 10-46-58] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti nel cestino /Volumes/working space/@Recycle
+[25-03-2022 10-47-29] - Elimino /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti
+[25-03-2022 10-47-35] - Copio /Users/mr.anderson2159/Desktop/algoritmi_e_strutture_dati/appunti in /Volumes/working space/Università/algoritmi_e_strutture_dati
+
+[28-03-2022 19-31-08] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-03-23_14-00-00.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Analisi 23-03-22.mkv
+[28-03-2022 19-31-08] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-03-25_09-31-10.mp4 in /Volumes/working space/Università/Nuove Acquisizioni/Fisica 25-03-22.mp4
+[28-03-2022 19-31-13] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-03-22_09-00-00.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Analisi 22-03-22.mkv
+[28-03-2022 19-31-13] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-03-25 08-57-47.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Fisica 25-03-22.mkv
+
+[28-03-2022 19-34-36] - Copio Fisica 25-03-22.mp4 in /Volumes/working space/Università/fisica_generale/lezioni
+[28-03-2022 19-34-51] - Copio Analisi 22-03-22.mkv in /Volumes/working space/Università/analisi/Modulo II/lezioni
+[28-03-2022 19-35-07] - Copio Fisica 25-03-22.mkv in /Volumes/working space/Università/fisica_generale/lezioni
+[28-03-2022 19-35-22] - Copio Sistemi operativi 28-03-22.mkv in /Volumes/working space/Università/sistemi_operativi/lezioni
+[28-03-2022 19-35-38] - Copio Algoritmi 28-03-22.mkv in /Volumes/working space/Università/algoritmi_e_strutture_dati/lezioni
+[28-03-2022 19-35-51] - Copio Analisi 23-03-22.mkv in /Volumes/working space/Università/analisi/Modulo II/lezioni
+
+[28-03-2022 19-36-05] - In totale le lezioni sono 171 di cui 67 completate, 3 in corso, 95 da fare, 0 da fare dopo l'esame e 6 i cui dati non sono disponibili.
+
+
+[29-03-2022 19-13-38] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-03-28_09-31-19.mp4 in /Volumes/working space/Università/Nuove Acquisizioni/Diritto 28-03-22.mp4
+[29-03-2022 19-13-39] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-03-29 16-01-51.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Linguaggi formali 29-03-22.mkv
+[29-03-2022 19-13-39] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-03-28_09-10-02.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Analisi 28-03-22.mkv
+[29-03-2022 19-13-39] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-03-29 11-00-37.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Sistemi operativi 29-03-22.mkv
+[29-03-2022 19-13-44] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-03-29 14-01-28.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Architettura 29-03-22.mkv
+[29-03-2022 19-13-56] - Copio Diritto 28-03-22.mp4 in /Volumes/working space/Università/diritto_dell'informatica/lezioni
+[29-03-2022 19-14-11] - Copio Linguaggi formali 29-03-22.mkv in /Volumes/working space/Università/linguaggi_formali_e_compilatori/lezioni
+[29-03-2022 19-14-30] - Copio Analisi 28-03-22.mkv in /Volumes/working space/Università/analisi/Modulo II/lezioni
+[29-03-2022 19-14-45] - Copio Sistemi operativi 29-03-22.mkv in /Volumes/working space/Università/sistemi_operativi/lezioni
+[29-03-2022 19-14-56] - Copio Architettura 29-03-22.mkv in /Volumes/working space/Università/architettura_degli_elaboratori/Modulo II/lezioni
+
+[01-04-2022 08-45-05] - Non ho potuto copiare Analisi 28-03-22.mkv in /Volumes/working space/Università/analisi/Modulo II/lezioni perché esisteva già
+[01-04-2022 08-45-05] - Non ho potuto copiare Sistemi operativi 29-03-22.mkv in /Volumes/working space/Università/sistemi_operativi/lezioni perché esisteva già
+[01-04-2022 08-45-05] - Non ho potuto copiare Architettura 29-03-22.mkv in /Volumes/working space/Università/architettura_degli_elaboratori/Modulo II/lezioni perché esisteva già
+[01-04-2022 08-45-05] - Non ho potuto copiare Diritto 28-03-22.mp4 in /Volumes/working space/Università/diritto_dell'informatica/lezioni perché esisteva già
+[01-04-2022 08-45-05] - Non ho potuto copiare Linguaggi formali 29-03-22.mkv in /Volumes/working space/Università/linguaggi_formali_e_compilatori/lezioni perché esisteva già
+
+[03-04-2022 15-31-14] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-04-01 08-52-27.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Fisica 01-04-22.mkv
+[03-04-2022 15-31-14] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-03-29 11-00-37.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Sistemi operativi 29-03-22.mkv
+[03-04-2022 15-31-21] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-03-29 14-01-28.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Architettura 29-03-22.mkv
+[03-04-2022 15-31-21] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-03-29 16-01-51.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Linguaggi formali 29-03-22.mkv
+[03-04-2022 15-31-21] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-03-30 11-00-35.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Ingegneria 30-03-22.mkv
+[03-04-2022 15-31-25] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-03-30 14-00-56.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Linguaggi formali 30-03-22.mkv
+[03-04-2022 15-31-25] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-03-30 16-06-02.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Fisica 30-03-22.mkv
+[03-04-2022 15-31-25] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-03-31 11-01-19.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Ingegneria 31-03-22.mkv
+[03-04-2022 15-31-25] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-03-31 14-00-34.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Sistemi operativi 31-03-22.mkv
+[03-04-2022 15-31-40] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-03-31_09-02-03.mp4 in /Volumes/working space/Università/Nuove Acquisizioni/Architettura 31-03-22.mp4
+[03-04-2022 15-31-56] - Copio Fisica 01-04-22.mkv in /Volumes/working space/Università/fisica_generale/lezioni
+[03-04-2022 15-31-56] - Non ho potuto copiare Sistemi operativi 29-03-22.mkv in /Volumes/working space/Università/sistemi_operativi/lezioni perché esisteva già
+[03-04-2022 15-31-56] - Non ho potuto copiare Architettura 29-03-22.mkv in /Volumes/working space/Università/architettura_degli_elaboratori/Modulo II/lezioni perché esisteva già
+[03-04-2022 15-31-56] - Non ho potuto copiare Linguaggi formali 29-03-22.mkv in /Volumes/working space/Università/linguaggi_formali_e_compilatori/lezioni perché esisteva già
+[03-04-2022 15-32-16] - Copio Ingegneria 30-03-22.mkv in /Volumes/working space/Università/ingegneria_del_software/lezioni
+[03-04-2022 15-32-28] - Copio Linguaggi formali 30-03-22.mkv in /Volumes/working space/Università/linguaggi_formali_e_compilatori/lezioni
+[03-04-2022 15-32-43] - Copio Fisica 30-03-22.mkv in /Volumes/working space/Università/fisica_generale/lezioni
+[03-04-2022 15-33-00] - Copio Ingegneria 31-03-22.mkv in /Volumes/working space/Università/ingegneria_del_software/lezioni
+[03-04-2022 15-33-24] - Copio Sistemi operativi 31-03-22.mkv in /Volumes/working space/Università/sistemi_operativi/lezioni
+[03-04-2022 15-33-33] - Copio Architettura 31-03-22.mp4 in /Volumes/working space/Università/architettura_degli_elaboratori/Modulo II/lezioni
+[03-04-2022 15-33-44] - Copio Analisi 30-03-22.mkv in /Volumes/working space/Università/analisi/Modulo II/lezioni
+[03-04-2022 15-33-44] - Non ho potuto copiare Diritto 28-03-22.mp4 in /Volumes/working space/Università/diritto_dell'informatica/lezioni perché esisteva già
+[03-04-2022 15-34-00] - Copio Analisi 29-03-22.mkv in /Volumes/working space/Università/analisi/Modulo II/lezioni
+
+[03-04-2022 15-34-04] - Non ho potuto copiare Architettura 29-03-22.mkv in /Volumes/working space/Università/architettura_degli_elaboratori/Modulo II/lezioni perché esisteva già
+[03-04-2022 15-34-04] - Non ho potuto copiare Linguaggi formali 29-03-22.mkv in /Volumes/working space/Università/linguaggi_formali_e_compilatori/lezioni perché esisteva già
+[03-04-2022 15-34-04] - Non ho potuto copiare Ingegneria 30-03-22.mkv in /Volumes/working space/Università/ingegneria_del_software/lezioni perché esisteva già
+[03-04-2022 15-34-04] - Non ho potuto copiare Linguaggi formali 30-03-22.mkv in /Volumes/working space/Università/linguaggi_formali_e_compilatori/lezioni perché esisteva già
+[03-04-2022 15-34-04] - Non ho potuto copiare Fisica 30-03-22.mkv in /Volumes/working space/Università/fisica_generale/lezioni perché esisteva già
+[03-04-2022 15-34-04] - Non ho potuto copiare Ingegneria 31-03-22.mkv in /Volumes/working space/Università/ingegneria_del_software/lezioni perché esisteva già
+[03-04-2022 15-34-04] - Non ho potuto copiare Architettura 31-03-22.mp4 in /Volumes/working space/Università/architettura_degli_elaboratori/Modulo II/lezioni perché esisteva già
+[03-04-2022 15-34-04] - Non ho potuto copiare Analisi 30-03-22.mkv in /Volumes/working space/Università/analisi/Modulo II/lezioni perché esisteva già
+[03-04-2022 15-34-04] - Non ho potuto copiare Diritto 28-03-22.mp4 in /Volumes/working space/Università/diritto_dell'informatica/lezioni perché esisteva già
+[03-04-2022 15-34-04] - Non ho potuto copiare Analisi 29-03-22.mkv in /Volumes/working space/Università/analisi/Modulo II/lezioni perché esisteva già
+[03-04-2022 15-34-04] - Non ho potuto copiare Fisica 01-04-22.mkv in /Volumes/working space/Università/fisica_generale/lezioni perché esisteva già
+[03-04-2022 15-34-04] - Non ho potuto copiare Sistemi operativi 29-03-22.mkv in /Volumes/working space/Università/sistemi_operativi/lezioni perché esisteva già
+[03-04-2022 15-34-04] - Non ho potuto copiare Sistemi operativi 31-03-22.mkv in /Volumes/working space/Università/sistemi_operativi/lezioni perché esisteva già
+
+[03-04-2022 15-34-32] - In totale le lezioni sono 185 di cui 67 completate, 3 in corso, 98 da fare, 0 da fare dopo l'esame e 17 i cui dati non sono disponibili.
+
+
+[03-04-2022 15-36-35] - In totale le lezioni sono 185 di cui 67 completate, 3 in corso, 115 da fare, 0 da fare dopo l'esame e 0 i cui dati non sono disponibili.
+
+
+[03-04-2022 15-55-30] - In totale le lezioni sono 185 di cui 67 completate, 3 in corso, 115 da fare, 0 da fare dopo l'esame e 0 i cui dati non sono disponibili.
+
+
+[03-04-2022 21-48-30] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti nel cestino /Volumes/working space/@Recycle
+[03-04-2022 21-48-43] - Elimino /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti
+[03-04-2022 21-48-49] - Copio /Users/mr.alderson/Desktop/algoritmi_e_strutture_dati/appunti in /Volumes/working space/Università/algoritmi_e_strutture_dati
+
+[03-04-2022 21-50-18] - In totale le lezioni sono 185 di cui 68 completate, 3 in corso, 114 da fare, 0 da fare dopo l'esame e 0 i cui dati non sono disponibili.
+
+
+[04-04-2022 17-33-27] - Copio /Users/mr.anderson2159/Desktop/algoritmi_e_strutture_dati/appunti nel cestino /Users/mr.anderson2159/.Trash
+[04-04-2022 17-33-27] - Elimino /Users/mr.anderson2159/Desktop/algoritmi_e_strutture_dati/appunti
+[04-04-2022 17-33-27] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti in /Users/mr.anderson2159/Desktop/algoritmi_e_strutture_dati
+
+[12-04-2022 12-56-44] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-04-06 14-00-50.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Linguaggi formali 06-04-22.mkv
+[12-04-2022 12-56-44] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-04-06 16-00-23.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Fisica 06-04-22.mkv
+[12-04-2022 12-57-05] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-04-07 08-58-16.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Diritto 07-04-22.mkv
+[12-04-2022 12-57-05] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-04-07 11-03-42.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Ingegneria 07-04-22.mkv
+[12-04-2022 12-57-05] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-04-07 14-00-45.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Sistemi operativi 07-04-22.mkv
+[12-04-2022 12-57-05] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-04-08 09-02-07.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Fisica 08-04-22.mkv
+
+
+
+
+
+[12-04-2022 13-02-36] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-04-04 11-03-50.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Sistemi operativi 04-04-22.mkv
+[12-04-2022 13-02-42] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-04-07_08-58-07.mp4 in /Volumes/working space/Università/Nuove Acquisizioni/Architettura 07-04-22.mp4
+[12-04-2022 13-02-57] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-04-05 09-03-01.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Algoritmi 05-04-22.mkv
+[12-04-2022 13-02-58] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-04-05 11-04-07.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Sistemi operativi 05-04-22.mkv
+[12-04-2022 13-03-21] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-04-05 14-00-50.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Algoritmi 05-04-22 (2).mkv
+[12-04-2022 13-03-21] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-04-05 15-52-55.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Linguaggi formali 05-04-22.mkv
+[12-04-2022 13-03-33] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-04-06 09-34-30.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Algoritmi 06-04-22.mkv
+[12-04-2022 13-03-33] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-04-06 11-05-15.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Ingegneria 06-04-22.mkv
+[12-04-2022 13-03-46] - Copio Sistemi operativi 04-04-22.mkv in /Volumes/working space/Università/sistemi_operativi/lezioni
+[12-04-2022 13-03-54] - Copio Architettura 07-04-22.mp4 in /Volumes/working space/Università/architettura_degli_elaboratori/Modulo II/lezioni
+[12-04-2022 13-04-10] - Copio Algoritmi 05-04-22.mkv in /Volumes/working space/Università/algoritmi_e_strutture_dati/lezioni
+[12-04-2022 13-04-30] - Copio Sistemi operativi 05-04-22.mkv in /Volumes/working space/Università/sistemi_operativi/lezioni
+[12-04-2022 13-04-30] - Non ho potuto copiare Algoritmi 05-04-22.mkv in /Volumes/working space/Università/algoritmi_e_strutture_dati/lezioni perché esisteva già
+[12-04-2022 13-04-49] - Copio Linguaggi formali 05-04-22.mkv in /Volumes/working space/Università/linguaggi_formali_e_compilatori/lezioni
+[12-04-2022 13-05-03] - Copio Algoritmi 06-04-22.mkv in /Volumes/working space/Università/algoritmi_e_strutture_dati/lezioni
+[12-04-2022 13-05-26] - Copio Ingegneria 06-04-22.mkv in /Volumes/working space/Università/ingegneria_del_software/lezioni
+[12-04-2022 13-05-49] - Copio Fisica 06-04-22.mkv in /Volumes/working space/Università/fisica_generale/lezioni
+[12-04-2022 13-06-09] - Copio Diritto 07-04-22.mkv in /Volumes/working space/Università/diritto_dell'informatica/lezioni
+[12-04-2022 13-06-28] - Copio Ingegneria 07-04-22.mkv in /Volumes/working space/Università/ingegneria_del_software/lezioni
+[12-04-2022 13-06-57] - Copio Sistemi operativi 07-04-22.mkv in /Volumes/working space/Università/sistemi_operativi/lezioni
+[12-04-2022 13-07-14] - Copio Fisica 08-04-22.mkv in /Volumes/working space/Università/fisica_generale/lezioni
+[12-04-2022 13-07-28] - Copio Algoritmi 05-04-22 (2).mkv in /Volumes/working space/Università/algoritmi_e_strutture_dati/lezioni
+[12-04-2022 13-07-41] - Copio Linguaggi formali 06-04-22.mkv in /Volumes/working space/Università/linguaggi_formali_e_compilatori/lezioni
+
+[12-04-2022 13-07-44] - Non ho potuto copiare Fisica 06-04-22.mkv in /Volumes/working space/Università/fisica_generale/lezioni perché esisteva già
+[12-04-2022 13-07-44] - Non ho potuto copiare Diritto 07-04-22.mkv in /Volumes/working space/Università/diritto_dell'informatica/lezioni perché esisteva già
+[12-04-2022 13-07-44] - Non ho potuto copiare Ingegneria 07-04-22.mkv in /Volumes/working space/Università/ingegneria_del_software/lezioni perché esisteva già
+[12-04-2022 13-07-44] - Non ho potuto copiare Sistemi operativi 07-04-22.mkv in /Volumes/working space/Università/sistemi_operativi/lezioni perché esisteva già
+[12-04-2022 13-07-44] - Non ho potuto copiare Fisica 08-04-22.mkv in /Volumes/working space/Università/fisica_generale/lezioni perché esisteva già
+[12-04-2022 13-07-44] - Non ho potuto copiare Architettura 07-04-22.mp4 in /Volumes/working space/Università/architettura_degli_elaboratori/Modulo II/lezioni perché esisteva già
+[12-04-2022 13-07-44] - Non ho potuto copiare Algoritmi 05-04-22.mkv in /Volumes/working space/Università/algoritmi_e_strutture_dati/lezioni perché esisteva già
+[12-04-2022 13-07-44] - Non ho potuto copiare Sistemi operativi 05-04-22.mkv in /Volumes/working space/Università/sistemi_operativi/lezioni perché esisteva già
+[12-04-2022 13-07-44] - Non ho potuto copiare Algoritmi 05-04-22 (2).mkv in /Volumes/working space/Università/algoritmi_e_strutture_dati/lezioni perché esisteva già
+[12-04-2022 13-07-44] - Non ho potuto copiare Linguaggi formali 05-04-22.mkv in /Volumes/working space/Università/linguaggi_formali_e_compilatori/lezioni perché esisteva già
+[12-04-2022 13-07-44] - Non ho potuto copiare Algoritmi 06-04-22.mkv in /Volumes/working space/Università/algoritmi_e_strutture_dati/lezioni perché esisteva già
+[12-04-2022 13-07-44] - Non ho potuto copiare Ingegneria 06-04-22.mkv in /Volumes/working space/Università/ingegneria_del_software/lezioni perché esisteva già
+[12-04-2022 13-07-44] - Non ho potuto copiare Linguaggi formali 06-04-22.mkv in /Volumes/working space/Università/linguaggi_formali_e_compilatori/lezioni perché esisteva già
+[12-04-2022 13-07-44] - Non ho potuto copiare Sistemi operativi 04-04-22.mkv in /Volumes/working space/Università/sistemi_operativi/lezioni perché esisteva già
+
+[12-04-2022 13-07-48] - Non ho potuto copiare Fisica 06-04-22.mkv in /Volumes/working space/Università/fisica_generale/lezioni perché esisteva già
+[12-04-2022 13-07-48] - Non ho potuto copiare Diritto 07-04-22.mkv in /Volumes/working space/Università/diritto_dell'informatica/lezioni perché esisteva già
+[12-04-2022 13-07-48] - Non ho potuto copiare Ingegneria 07-04-22.mkv in /Volumes/working space/Università/ingegneria_del_software/lezioni perché esisteva già
+[12-04-2022 13-07-48] - Non ho potuto copiare Sistemi operativi 07-04-22.mkv in /Volumes/working space/Università/sistemi_operativi/lezioni perché esisteva già
+[12-04-2022 13-07-48] - Non ho potuto copiare Fisica 08-04-22.mkv in /Volumes/working space/Università/fisica_generale/lezioni perché esisteva già
+[12-04-2022 13-07-48] - Non ho potuto copiare Architettura 07-04-22.mp4 in /Volumes/working space/Università/architettura_degli_elaboratori/Modulo II/lezioni perché esisteva già
+[12-04-2022 13-07-48] - Non ho potuto copiare Algoritmi 05-04-22.mkv in /Volumes/working space/Università/algoritmi_e_strutture_dati/lezioni perché esisteva già
+[12-04-2022 13-07-48] - Non ho potuto copiare Sistemi operativi 05-04-22.mkv in /Volumes/working space/Università/sistemi_operativi/lezioni perché esisteva già
+[12-04-2022 13-07-48] - Non ho potuto copiare Algoritmi 05-04-22 (2).mkv in /Volumes/working space/Università/algoritmi_e_strutture_dati/lezioni perché esisteva già
+[12-04-2022 13-07-48] - Non ho potuto copiare Linguaggi formali 05-04-22.mkv in /Volumes/working space/Università/linguaggi_formali_e_compilatori/lezioni perché esisteva già
+[12-04-2022 13-07-48] - Non ho potuto copiare Algoritmi 06-04-22.mkv in /Volumes/working space/Università/algoritmi_e_strutture_dati/lezioni perché esisteva già
+[12-04-2022 13-07-48] - Non ho potuto copiare Ingegneria 06-04-22.mkv in /Volumes/working space/Università/ingegneria_del_software/lezioni perché esisteva già
+[12-04-2022 13-07-48] - Non ho potuto copiare Linguaggi formali 06-04-22.mkv in /Volumes/working space/Università/linguaggi_formali_e_compilatori/lezioni perché esisteva già
+[12-04-2022 13-07-48] - Non ho potuto copiare Sistemi operativi 04-04-22.mkv in /Volumes/working space/Università/sistemi_operativi/lezioni perché esisteva già
+
+[12-04-2022 22-22-53] - In totale le lezioni sono 199 di cui 68 completate, 3 in corso, 114 da fare, 0 da fare dopo l'esame e 14 i cui dati non sono disponibili.
+
+
+[20-04-2022 09-53-07] - In totale le lezioni sono 199 di cui 68 completate, 3 in corso, 117 da fare, 0 da fare dopo l'esame e 11 i cui dati non sono disponibili.
+
+
+[20-04-2022 09-53-17] - In totale le lezioni sono 199 di cui 68 completate, 3 in corso, 117 da fare, 0 da fare dopo l'esame e 11 i cui dati non sono disponibili.
+
+
+[22-04-2022 10-16-01] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti nel cestino /Volumes/working space/@Recycle
+[22-04-2022 10-16-09] - Elimino /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti
+
+[22-04-2022 11-01-04] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti nel cestino /Volumes/working space/@Recycle
+[22-04-2022 11-01-04] - Elimino /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti
+
+[22-04-2022 11-01-42] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti nel cestino /Volumes/working space/@Recycle
+[22-04-2022 11-01-43] - Elimino /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti
+
+[22-04-2022 13-34-31] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti nel cestino /Volumes/working space/@Recycle
+[22-04-2022 13-34-31] - Elimino /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti
+[22-04-2022 13-34-31] - Copio /Users/mr.alderson/Desktop/algoritmi_e_strutture_dati/appunti in /Volumes/working space/Università/algoritmi_e_strutture_dati
+
+[22-04-2022 14-37-03] - Copio /Users/mr.anderson2159/Desktop/algoritmi_e_strutture_dati/appunti nel cestino /Users/mr.anderson2159/.Trash
+[22-04-2022 14-37-03] - Elimino /Users/mr.anderson2159/Desktop/algoritmi_e_strutture_dati/appunti
+[22-04-2022 14-37-03] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti in /Users/mr.anderson2159/Desktop/algoritmi_e_strutture_dati
+
+[22-04-2022 17-25-08] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti nel cestino /Volumes/working space/@Recycle
+[22-04-2022 17-25-28] - Elimino /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti
+[22-04-2022 17-25-32] - Copio /Users/mr.alderson/Desktop/algoritmi_e_strutture_dati/appunti in /Volumes/working space/Università/algoritmi_e_strutture_dati
+
+[25-04-2022 12-23-15] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti nel cestino /Volumes/working space/@Recycle
+[25-04-2022 12-23-29] - Elimino /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti
+[25-04-2022 12-23-34] - Copio /Users/mr.alderson/Desktop/algoritmi_e_strutture_dati/appunti in /Volumes/working space/Università/algoritmi_e_strutture_dati
+
+[25-04-2022 18-41-57] - In totale le lezioni sono 199 di cui 69 completate, 3 in corso, 116 da fare, 0 da fare dopo l'esame e 11 i cui dati non sono disponibili.
+
+
+[27-04-2022 17-29-45] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti nel cestino /Volumes/working space/@Recycle
+[27-04-2022 17-29-55] - Elimino /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti
+[27-04-2022 17-29-59] - Copio /Users/mr.alderson/Desktop/algoritmi_e_strutture_dati/appunti in /Volumes/working space/Università/algoritmi_e_strutture_dati
+
+[04-05-2022 20-42-53] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-04-07_08-58-07.mp4 in /Volumes/working space/Università/Nuove Acquisizioni/Architettura 07-04-22.mp4
+[04-05-2022 20-43-18] - KeyboardInterrupt
+
+[04-05-2022 20-46-25] - KeyboardInterrupt
+
+
+
+
+[04-05-2022 20-49-23] - KeyboardInterrupt
+
+[04-05-2022 20-49-49] - KeyboardInterrupt
+
+[04-05-2022 20-51-32] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-04-07_13-34-16.mp4 in /Volumes/working space/Università/Nuove Acquisizioni/Sistemi operativi 07-04-22.mp4
+[04-05-2022 20-51-48] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-04-26_14-03-54.mp4 in /Volumes/working space/Università/Nuove Acquisizioni/Architettura 26-04-22.mp4
+[04-05-2022 20-52-00] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-04-28_09-04-33.mp4 in /Volumes/working space/Università/Nuove Acquisizioni/Architettura 28-04-22.mp4
+[04-05-2022 20-52-00] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-04-07 08-58-16.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Diritto 07-04-22.mkv
+[04-05-2022 20-52-00] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-04-07 11-03-42.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Ingegneria 07-04-22.mkv
+[04-05-2022 20-52-00] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-04-07 14-00-45.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Sistemi operativi 07-04-22.mkv
+[04-05-2022 20-52-00] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-04-08 09-02-07.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Fisica 08-04-22.mkv
+[04-05-2022 20-52-00] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-04-26 11-02-38.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Sistemi operativi 26-04-22.mkv
+[04-05-2022 20-52-00] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-04-26 14-02-47.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Algoritmi 26-04-22.mkv
+[04-05-2022 20-52-00] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-04-26 16-03-21.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Linguaggi formali 26-04-22.mkv
+[04-05-2022 20-52-11] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-04-27 09-02-09.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Algoritmi 27-04-22.mkv
+[04-05-2022 20-52-11] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-04-27 11-05-45.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Ingegneria 27-04-22.mkv
+[04-05-2022 20-52-20] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-04-27 14-00-34.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Linguaggi formali 27-04-22.mkv
+[04-05-2022 20-52-20] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-04-27 15-52-26.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Fisica 27-04-22.mkv
+[04-05-2022 20-52-35] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-04-28 09-03-25.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Diritto 28-04-22.mkv
+[04-05-2022 20-52-35] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-04-28 11-01-12.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Ingegneria 28-04-22.mkv
+[04-05-2022 20-52-35] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-04-28 13-53-57.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Sistemi operativi 28-04-22.mkv
+[04-05-2022 20-52-35] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-04-29 09-02-02.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Fisica 29-04-22.mkv
+[04-05-2022 20-52-35] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-05-02 11-02-16.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Sistemi operativi 02-05-22.mkv
+[04-05-2022 20-52-35] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-05-02 14-00-52.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Algoritmi 02-05-22.mkv
+[04-05-2022 20-52-54] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-05-02 16-06-43.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Sistemi operativi 02-05-22 (2).mkv
+[04-05-2022 20-52-54] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-05-03 11-11-40.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Sistemi operativi 03-05-22.mkv
+[04-05-2022 20-52-55] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-05-03 13-54-13.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Algoritmi 03-05-22.mkv
+[04-05-2022 20-52-55] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-05-03 16-07-36.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Linguaggi formali 03-05-22.mkv
+[04-05-2022 20-52-55] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-05-04 11-07-42.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Ingegneria 04-05-22.mkv
+[04-05-2022 20-52-55] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-05-04 14-00-31.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Analisi 04-05-22.mkv
+[04-05-2022 20-53-02] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-05-04 14-00-59.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Linguaggi formali 04-05-22.mkv
+[04-05-2022 20-53-02] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-05-04 16-00-44.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Fisica 04-05-22.mkv
+[04-05-2022 20-53-10] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-04-04 16-03-50.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Sistemi operativi 04-04-22.mkv
+[04-05-2022 20-53-10] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-04-05 09-03-01.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Analisi 05-04-22.mkv
+[04-05-2022 20-53-10] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-04-05 11-04-07.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Sistemi operativi 05-04-22.mkv
+[04-05-2022 20-53-15] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-04-05 14-00-50.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Algoritmi 05-04-22.mkv
+[04-05-2022 20-53-15] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-04-05 15-52-55.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Linguaggi formali 05-04-22.mkv
+[04-05-2022 20-53-16] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-04-06 09-34-30.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Architettura 06-04-22.mkv
+[04-05-2022 20-53-16] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-04-06 11-05-15.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Ingegneria 06-04-22.mkv
+[04-05-2022 20-53-16] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-04-06 14-00-50.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Linguaggi formali 06-04-22.mkv
+[04-05-2022 20-53-16] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-04-06 16-00-23.mkv in /Volumes/working space/Università/Nuove Acquisizioni/Fisica 06-04-22.mkv
+[04-05-2022 20-53-27] - Copio Sistemi operativi 07-04-22.mp4 in /Volumes/working space/Università/sistemi_operativi/lezioni
+[04-05-2022 20-53-39] - Copio Architettura 26-04-22.mp4 in /Volumes/working space/Università/architettura_degli_elaboratori/Modulo II/lezioni
+[04-05-2022 20-53-50] - Copio Architettura 28-04-22.mp4 in /Volumes/working space/Università/architettura_degli_elaboratori/Modulo II/lezioni
+[04-05-2022 20-53-51] - Non ho potuto copiare Diritto 07-04-22.mkv in /Volumes/working space/Università/diritto_dell'informatica/lezioni perché esisteva già
+[04-05-2022 20-53-51] - Non ho potuto copiare Ingegneria 07-04-22.mkv in /Volumes/working space/Università/ingegneria_del_software/lezioni perché esisteva già
+[04-05-2022 20-53-51] - Non ho potuto copiare Sistemi operativi 07-04-22.mkv in /Volumes/working space/Università/sistemi_operativi/lezioni perché esisteva già
+[04-05-2022 20-53-51] - Non ho potuto copiare Fisica 08-04-22.mkv in /Volumes/working space/Università/fisica_generale/lezioni perché esisteva già
+[04-05-2022 20-54-09] - Copio Sistemi operativi 26-04-22.mkv in /Volumes/working space/Università/sistemi_operativi/lezioni
+[04-05-2022 20-54-30] - Copio Algoritmi 26-04-22.mkv in /Volumes/working space/Università/algoritmi_e_strutture_dati/lezioni
+[04-05-2022 20-54-46] - Copio Linguaggi formali 26-04-22.mkv in /Volumes/working space/Università/linguaggi_formali_e_compilatori/lezioni
+[04-05-2022 20-55-05] - Copio Algoritmi 27-04-22.mkv in /Volumes/working space/Università/algoritmi_e_strutture_dati/lezioni
+[04-05-2022 20-55-20] - Copio Ingegneria 27-04-22.mkv in /Volumes/working space/Università/ingegneria_del_software/lezioni
+[04-05-2022 20-55-33] - Copio Linguaggi formali 27-04-22.mkv in /Volumes/working space/Università/linguaggi_formali_e_compilatori/lezioni
+[04-05-2022 20-55-52] - Copio Fisica 27-04-22.mkv in /Volumes/working space/Università/fisica_generale/lezioni
+[04-05-2022 20-56-12] - Copio Diritto 28-04-22.mkv in /Volumes/working space/Università/diritto_dell'informatica/lezioni
+[04-05-2022 20-56-33] - Copio Ingegneria 28-04-22.mkv in /Volumes/working space/Università/ingegneria_del_software/lezioni
+[04-05-2022 20-57-05] - Copio Sistemi operativi 28-04-22.mkv in /Volumes/working space/Università/sistemi_operativi/lezioni
+[04-05-2022 20-57-28] - Copio Fisica 29-04-22.mkv in /Volumes/working space/Università/fisica_generale/lezioni
+[04-05-2022 20-57-30] - Copio Sistemi operativi 02-05-22.mkv in /Volumes/working space/Università/sistemi_operativi/lezioni
+[04-05-2022 20-57-52] - Copio Algoritmi 02-05-22.mkv in /Volumes/working space/Università/algoritmi_e_strutture_dati/lezioni
+[04-05-2022 20-57-52] - Non ho potuto copiare Sistemi operativi 02-05-22.mkv in /Volumes/working space/Università/sistemi_operativi/lezioni perché esisteva già
+[04-05-2022 20-58-08] - Copio Sistemi operativi 03-05-22.mkv in /Volumes/working space/Università/sistemi_operativi/lezioni
+[04-05-2022 20-58-20] - Copio Algoritmi 03-05-22.mkv in /Volumes/working space/Università/algoritmi_e_strutture_dati/lezioni
+[04-05-2022 20-58-36] - Copio Linguaggi formali 03-05-22.mkv in /Volumes/working space/Università/linguaggi_formali_e_compilatori/lezioni
+[04-05-2022 20-58-56] - Copio Ingegneria 04-05-22.mkv in /Volumes/working space/Università/ingegneria_del_software/lezioni
+[04-05-2022 20-58-57] - Copio Analisi 04-05-22.mkv in /Volumes/working space/Università/analisi/Modulo II/lezioni
+[04-05-2022 20-59-16] - Copio Linguaggi formali 04-05-22.mkv in /Volumes/working space/Università/linguaggi_formali_e_compilatori/lezioni
+[04-05-2022 20-59-39] - Copio Fisica 04-05-22.mkv in /Volumes/working space/Università/fisica_generale/lezioni
+[04-05-2022 20-59-39] - Non ho potuto copiare Sistemi operativi 04-04-22.mkv in /Volumes/working space/Università/sistemi_operativi/lezioni perché esisteva già
+[04-05-2022 21-00-02] - Copio Analisi 05-04-22.mkv in /Volumes/working space/Università/analisi/Modulo II/lezioni
+[04-05-2022 21-00-02] - Non ho potuto copiare Sistemi operativi 05-04-22.mkv in /Volumes/working space/Università/sistemi_operativi/lezioni perché esisteva già
+[04-05-2022 21-00-02] - Non ho potuto copiare Algoritmi 05-04-22.mkv in /Volumes/working space/Università/algoritmi_e_strutture_dati/lezioni perché esisteva già
+[04-05-2022 21-00-02] - Non ho potuto copiare Linguaggi formali 05-04-22.mkv in /Volumes/working space/Università/linguaggi_formali_e_compilatori/lezioni perché esisteva già
+[04-05-2022 21-00-23] - Copio Architettura 06-04-22.mkv in /Volumes/working space/Università/architettura_degli_elaboratori/Modulo II/lezioni
+[04-05-2022 21-00-23] - Non ho potuto copiare Ingegneria 06-04-22.mkv in /Volumes/working space/Università/ingegneria_del_software/lezioni perché esisteva già
+[04-05-2022 21-00-23] - Non ho potuto copiare Linguaggi formali 06-04-22.mkv in /Volumes/working space/Università/linguaggi_formali_e_compilatori/lezioni perché esisteva già
+[04-05-2022 21-00-23] - Non ho potuto copiare Fisica 06-04-22.mkv in /Volumes/working space/Università/fisica_generale/lezioni perché esisteva già
+[04-05-2022 21-00-39] - Copio Sistemi operativi 02-05-22 (2).mkv in /Volumes/working space/Università/sistemi_operativi/lezioni
+[04-05-2022 21-00-39] - Non ho potuto copiare Architettura 07-04-22.mp4 in /Volumes/working space/Università/architettura_degli_elaboratori/Modulo II/lezioni perché esisteva già
+
+[04-05-2022 21-00-56] - In totale le lezioni sono 225 di cui 70 completate, 3 in corso, 112 da fare, 3 da fare dopo l'esame e 37 i cui dati non sono disponibili.
+
+
+[04-05-2022 21-02-30] - Non ho potuto copiare Architettura 26-04-22.mp4 in /Volumes/working space/Università/architettura_degli_elaboratori/Modulo II/lezioni perché esisteva già
+[04-05-2022 21-02-30] - Non ho potuto copiare Architettura 28-04-22.mp4 in /Volumes/working space/Università/architettura_degli_elaboratori/Modulo II/lezioni perché esisteva già
+[04-05-2022 21-02-30] - Non ho potuto copiare Diritto 07-04-22.mkv in /Volumes/working space/Università/diritto_dell'informatica/lezioni perché esisteva già
+[04-05-2022 21-02-30] - Non ho potuto copiare Ingegneria 07-04-22.mkv in /Volumes/working space/Università/ingegneria_del_software/lezioni perché esisteva già
+[04-05-2022 21-02-30] - Non ho potuto copiare Sistemi operativi 07-04-22.mkv in /Volumes/working space/Università/sistemi_operativi/lezioni perché esisteva già
+[04-05-2022 21-02-30] - Non ho potuto copiare Fisica 08-04-22.mkv in /Volumes/working space/Università/fisica_generale/lezioni perché esisteva già
+[04-05-2022 21-02-30] - Non ho potuto copiare Algoritmi 26-04-22.mkv in /Volumes/working space/Università/algoritmi_e_strutture_dati/lezioni perché esisteva già
+[04-05-2022 21-02-31] - Non ho potuto copiare Linguaggi formali 26-04-22.mkv in /Volumes/working space/Università/linguaggi_formali_e_compilatori/lezioni perché esisteva già
+[04-05-2022 21-02-31] - Non ho potuto copiare Algoritmi 27-04-22.mkv in /Volumes/working space/Università/algoritmi_e_strutture_dati/lezioni perché esisteva già
+[04-05-2022 21-02-31] - Non ho potuto copiare Ingegneria 27-04-22.mkv in /Volumes/working space/Università/ingegneria_del_software/lezioni perché esisteva già
+[04-05-2022 21-02-31] - Non ho potuto copiare Linguaggi formali 27-04-22.mkv in /Volumes/working space/Università/linguaggi_formali_e_compilatori/lezioni perché esisteva già
+[04-05-2022 21-02-31] - Non ho potuto copiare Fisica 27-04-22.mkv in /Volumes/working space/Università/fisica_generale/lezioni perché esisteva già
+[04-05-2022 21-02-31] - Non ho potuto copiare Diritto 28-04-22.mkv in /Volumes/working space/Università/diritto_dell'informatica/lezioni perché esisteva già
+[04-05-2022 21-02-31] - Non ho potuto copiare Ingegneria 28-04-22.mkv in /Volumes/working space/Università/ingegneria_del_software/lezioni perché esisteva già
+[04-05-2022 21-02-31] - Non ho potuto copiare Sistemi operativi 28-04-22.mkv in /Volumes/working space/Università/sistemi_operativi/lezioni perché esisteva già
+[04-05-2022 21-02-31] - Non ho potuto copiare Fisica 29-04-22.mkv in /Volumes/working space/Università/fisica_generale/lezioni perché esisteva già
+[04-05-2022 21-02-31] - Non ho potuto copiare Sistemi operativi 02-05-22.mkv in /Volumes/working space/Università/sistemi_operativi/lezioni perché esisteva già
+[04-05-2022 21-02-31] - Non ho potuto copiare Algoritmi 02-05-22.mkv in /Volumes/working space/Università/algoritmi_e_strutture_dati/lezioni perché esisteva già
+[04-05-2022 21-02-31] - Non ho potuto copiare Sistemi operativi 02-05-22 (2).mkv in /Volumes/working space/Università/sistemi_operativi/lezioni perché esisteva già
+[04-05-2022 21-02-45] - Copio Algoritmi 03-05-22.mkv in /Volumes/working space/Università/algoritmi_e_strutture_dati/lezioni
+[04-05-2022 21-02-45] - Non ho potuto copiare Linguaggi formali 03-05-22.mkv in /Volumes/working space/Università/linguaggi_formali_e_compilatori/lezioni perché esisteva già
+[04-05-2022 21-02-45] - Non ho potuto copiare Ingegneria 04-05-22.mkv in /Volumes/working space/Università/ingegneria_del_software/lezioni perché esisteva già
+[04-05-2022 21-02-45] - Non ho potuto copiare Analisi 04-05-22.mkv in /Volumes/working space/Università/analisi/Modulo II/lezioni perché esisteva già
+[04-05-2022 21-02-45] - Non ho potuto copiare Linguaggi formali 04-05-22.mkv in /Volumes/working space/Università/linguaggi_formali_e_compilatori/lezioni perché esisteva già
+[04-05-2022 21-02-45] - Non ho potuto copiare Fisica 04-05-22.mkv in /Volumes/working space/Università/fisica_generale/lezioni perché esisteva già
+[04-05-2022 21-02-45] - Non ho potuto copiare Sistemi operativi 04-04-22.mkv in /Volumes/working space/Università/sistemi_operativi/lezioni perché esisteva già
+[04-05-2022 21-02-45] - Non ho potuto copiare Analisi 05-04-22.mkv in /Volumes/working space/Università/analisi/Modulo II/lezioni perché esisteva già
+[04-05-2022 21-02-45] - Non ho potuto copiare Sistemi operativi 05-04-22.mkv in /Volumes/working space/Università/sistemi_operativi/lezioni perché esisteva già
+[04-05-2022 21-02-46] - Non ho potuto copiare Algoritmi 05-04-22.mkv in /Volumes/working space/Università/algoritmi_e_strutture_dati/lezioni perché esisteva già
+[04-05-2022 21-02-46] - Non ho potuto copiare Linguaggi formali 05-04-22.mkv in /Volumes/working space/Università/linguaggi_formali_e_compilatori/lezioni perché esisteva già
+[04-05-2022 21-02-46] - Non ho potuto copiare Architettura 06-04-22.mkv in /Volumes/working space/Università/architettura_degli_elaboratori/Modulo II/lezioni perché esisteva già
+[04-05-2022 21-02-46] - Non ho potuto copiare Ingegneria 06-04-22.mkv in /Volumes/working space/Università/ingegneria_del_software/lezioni perché esisteva già
+[04-05-2022 21-02-46] - Non ho potuto copiare Fisica 06-04-22.mkv in /Volumes/working space/Università/fisica_generale/lezioni perché esisteva già
+[04-05-2022 21-02-46] - Non ho potuto copiare Architettura 07-04-22.mp4 in /Volumes/working space/Università/architettura_degli_elaboratori/Modulo II/lezioni perché esisteva già
+[04-05-2022 21-02-46] - Non ho potuto copiare Sistemi operativi 07-04-22.mp4 in /Volumes/working space/Università/sistemi_operativi/lezioni perché esisteva già
+[04-05-2022 21-02-46] - Non ho potuto copiare Sistemi operativi 26-04-22.mkv in /Volumes/working space/Università/sistemi_operativi/lezioni perché esisteva già
+[04-05-2022 21-02-46] - Non ho potuto copiare Sistemi operativi 03-05-22.mkv in /Volumes/working space/Università/sistemi_operativi/lezioni perché esisteva già
+[04-05-2022 21-02-46] - Non ho potuto copiare Linguaggi formali 06-04-22.mkv in /Volumes/working space/Università/linguaggi_formali_e_compilatori/lezioni perché esisteva già
+
+
+
+
+
+[04-05-2022 21-11-52] - Rinomino /Volumes/working space/Università/Nuove Acquisizioni/2022-05-03_14-00-00.mp4 in /Volumes/working space/Università/Nuove Acquisizioni/Algoritmi 03-05-22.mp4
+[04-05-2022 21-12-06] - Copio Algoritmi 03-05-22.mp4 in /Volumes/working space/Università/algoritmi_e_strutture_dati/lezioni
+
+[04-05-2022 21-12-46] - In totale le lezioni sono 225 di cui 70 completate, 3 in corso, 116 da fare, 3 da fare dopo l'esame e 33 i cui dati non sono disponibili.
+
+
+[04-05-2022 22-35-11] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti nel cestino /Volumes/working space/@Recycle
+[04-05-2022 22-35-31] - Elimino /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti
+[04-05-2022 22-35-35] - Copio /Users/mr.alderson/Desktop/algoritmi_e_strutture_dati/appunti in /Volumes/working space/Università/algoritmi_e_strutture_dati
+
+
+
+[05-05-2022 01-04-28] - Copio Analisi 02-05-22.mkv in /Volumes/working space/Università/analisi/Modulo II/lezioni
+[05-05-2022 01-04-45] - Copio Analisi 03-05-22.mkv in /Volumes/working space/Università/analisi/Modulo II/lezioni
+[05-05-2022 01-05-00] - Copio Analisi 04-04-22.mkv in /Volumes/working space/Università/analisi/Modulo II/lezioni
+[05-05-2022 01-05-00] - Non ho potuto copiare Analisi 04-05-22.mkv in /Volumes/working space/Università/analisi/Modulo II/lezioni perché esisteva già
+[05-05-2022 01-05-00] - Non ho potuto copiare Analisi 05-04-22.mkv in /Volumes/working space/Università/analisi/Modulo II/lezioni perché esisteva già
+[05-05-2022 01-05-09] - Copio Analisi 06-04-22.mkv in /Volumes/working space/Università/analisi/Modulo II/lezioni
+[05-05-2022 01-05-26] - Copio Analisi 26-04-22.mkv in /Volumes/working space/Università/analisi/Modulo II/lezioni
+[05-05-2022 01-05-38] - Copio Analisi 27-04-22.mkv in /Volumes/working space/Università/analisi/Modulo II/lezioni
+
+[05-05-2022 01-58-55] - In totale le lezioni sono 231 di cui 71 completate, 3 in corso, 121 da fare, 3 da fare dopo l'esame e 33 i cui dati non sono disponibili.
+
+
+[05-05-2022 01-59-23] - In totale le lezioni sono 231 di cui 71 completate, 3 in corso, 121 da fare, 3 da fare dopo l'esame e 33 i cui dati non sono disponibili.
+
+
+[05-05-2022 01-59-56] - In totale le lezioni sono 231 di cui 71 completate, 3 in corso, 121 da fare, 3 da fare dopo l'esame e 33 i cui dati non sono disponibili.
+
+
+[05-05-2022 02-00-23] - In totale le lezioni sono 231 di cui 71 completate, 3 in corso, 123 da fare, 3 da fare dopo l'esame e 31 i cui dati non sono disponibili.
+
+
+[05-05-2022 02-02-43] - In totale le lezioni sono 231 di cui 71 completate, 3 in corso, 154 da fare, 3 da fare dopo l'esame e 0 i cui dati non sono disponibili.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[05-05-2022 03-05-05] - In totale le lezioni sono 231 di cui 71 completate, 3 in corso, 154 da fare, 3 da fare dopo l'esame e 0 i cui dati non sono disponibili.
+
+
+[05-05-2022 21-29-35] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti nel cestino /Volumes/working space/@Recycle
+[05-05-2022 21-29-54] - Elimino /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti
+[05-05-2022 21-29-57] - Copio /Users/mr.alderson/Desktop/algoritmi_e_strutture_dati/appunti in /Volumes/working space/Università/algoritmi_e_strutture_dati
+
+[05-05-2022 22-46-26] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti nel cestino /Volumes/working space/@Recycle
+[05-05-2022 22-46-49] - Elimino /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti
+[05-05-2022 22-46-52] - Copio /Users/mr.alderson/Desktop/algoritmi_e_strutture_dati/appunti in /Volumes/working space/Università/algoritmi_e_strutture_dati
+
+[05-05-2022 22-47-24] - In totale le lezioni sono 231 di cui 72 completate, 3 in corso, 153 da fare, 3 da fare dopo l'esame e 0 i cui dati non sono disponibili.
+
+
+[07-05-2022 13-59-34] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti nel cestino /Volumes/working space/@Recycle
+[07-05-2022 13-59-44] - Elimino /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti
+[07-05-2022 13-59-47] - Copio /Users/mr.alderson/Desktop/algoritmi_e_strutture_dati/appunti in /Volumes/working space/Università/algoritmi_e_strutture_dati
+
+[07-05-2022 15-15-16] - Copio /Users/mr.anderson2159/Desktop/algoritmi_e_strutture_dati/appunti nel cestino /Users/mr.anderson2159/.Trash
+[07-05-2022 15-15-16] - Elimino /Users/mr.anderson2159/Desktop/algoritmi_e_strutture_dati/appunti
+[07-05-2022 15-15-16] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti in /Users/mr.anderson2159/Desktop/algoritmi_e_strutture_dati
+
+[07-05-2022 15-45-43] - Non ho potuto copiare Analisi 02-05-22.mkv in /Volumes/working space/Università/analisi/Modulo II/lezioni perché esisteva già
+[07-05-2022 15-45-43] - Non ho potuto copiare Analisi 03-05-22.mkv in /Volumes/working space/Università/analisi/Modulo II/lezioni perché esisteva già
+[07-05-2022 15-45-43] - Non ho potuto copiare Analisi 04-04-22.mkv in /Volumes/working space/Università/analisi/Modulo II/lezioni perché esisteva già
+[07-05-2022 15-45-43] - Non ho potuto copiare Analisi 04-05-22.mkv in /Volumes/working space/Università/analisi/Modulo II/lezioni perché esisteva già
+[07-05-2022 15-45-43] - Non ho potuto copiare Analisi 05-04-22.mkv in /Volumes/working space/Università/analisi/Modulo II/lezioni perché esisteva già
+[07-05-2022 15-45-44] - Non ho potuto copiare Analisi 06-04-22.mkv in /Volumes/working space/Università/analisi/Modulo II/lezioni perché esisteva già
+[07-05-2022 15-45-44] - Non ho potuto copiare Analisi 26-04-22.mkv in /Volumes/working space/Università/analisi/Modulo II/lezioni perché esisteva già
+[07-05-2022 15-45-44] - Non ho potuto copiare Analisi 27-04-22.mkv in /Volumes/working space/Università/analisi/Modulo II/lezioni perché esisteva già
+
+[07-05-2022 15-48-56] - Copio Fisica 06-05-22.mp4 in /Volumes/working space/Università/fisica_generale/lezioni
+[07-05-2022 15-50-13] - Copio Sistemi operativi 06-05-22.mkv in /Volumes/working space/Università/sistemi_operativi/lezioni
+[07-05-2022 15-50-13] - Non ho potuto copiare Analisi 04-05-22.mkv in /Volumes/working space/Università/analisi/Modulo II/lezioni perché esisteva già
+[07-05-2022 15-50-13] - Non ho potuto copiare Analisi 05-04-22.mkv in /Volumes/working space/Università/analisi/Modulo II/lezioni perché esisteva già
+
+[07-05-2022 19-08-12] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti nel cestino /Volumes/working space/@Recycle
+[07-05-2022 19-08-59] - Elimino /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti
+[07-05-2022 19-09-04] - Copio /Users/mr.alderson/Desktop/algoritmi_e_strutture_dati/appunti in /Volumes/working space/Università/algoritmi_e_strutture_dati
+
+[07-05-2022 23-22-14] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti nel cestino /Volumes/working space/@Recycle
+[07-05-2022 23-22-23] - Elimino /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti
+[07-05-2022 23-22-25] - Copio /Users/mr.alderson/Desktop/algoritmi_e_strutture_dati/appunti in /Volumes/working space/Università/algoritmi_e_strutture_dati
+
+[08-05-2022 15-31-09] - Copio /Users/mr.anderson2159/Desktop/algoritmi_e_strutture_dati/appunti nel cestino /Users/mr.anderson2159/.Trash
+[08-05-2022 15-31-09] - Elimino /Users/mr.anderson2159/Desktop/algoritmi_e_strutture_dati/appunti
+[08-05-2022 15-31-09] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti in /Users/mr.anderson2159/Desktop/algoritmi_e_strutture_dati
+
+[09-05-2022 09-45-21] - Copio /Users/mr.anderson2159/Desktop/algoritmi_e_strutture_dati/appunti nel cestino /Users/mr.anderson2159/.Trash
+[09-05-2022 09-45-22] - Elimino /Users/mr.anderson2159/Desktop/algoritmi_e_strutture_dati/appunti
+[09-05-2022 09-45-22] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti in /Users/mr.anderson2159/Desktop/algoritmi_e_strutture_dati
+
+[09-05-2022 11-00-21] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti nel cestino /Volumes/working space/@Recycle
+[09-05-2022 11-00-54] - Elimino /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti
+[09-05-2022 11-00-59] - Copio /Users/mr.anderson2159/Desktop/algoritmi_e_strutture_dati/appunti in /Volumes/working space/Università/algoritmi_e_strutture_dati
+
+[09-05-2022 11-05-15] - Copio /Users/mr.alderson/Desktop/algoritmi_e_strutture_dati/appunti nel cestino /Users/mr.alderson/.Trash
+[09-05-2022 11-05-15] - Elimino /Users/mr.alderson/Desktop/algoritmi_e_strutture_dati/appunti
+[09-05-2022 11-05-15] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti in /Users/mr.alderson/Desktop/algoritmi_e_strutture_dati
+
+[09-05-2022 15-15-47] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti nel cestino /Volumes/working space/@Recycle
+[09-05-2022 15-16-37] - Elimino /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti
+[09-05-2022 15-16-42] - Copio /Users/mr.alderson/Desktop/algoritmi_e_strutture_dati/appunti in /Volumes/working space/Università/algoritmi_e_strutture_dati
+
+[09-05-2022 20-45-02] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti nel cestino /Volumes/working space/@Recycle
+[09-05-2022 20-45-13] - Elimino /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti
+[09-05-2022 20-45-16] - Copio /Users/mr.alderson/Desktop/algoritmi_e_strutture_dati/appunti in /Volumes/working space/Università/algoritmi_e_strutture_dati
+
+[09-05-2022 21-21-42] - In totale le lezioni sono 233 di cui 77 completate, 3 in corso, 148 da fare, 3 da fare dopo l'esame e 2 i cui dati non sono disponibili.
+
+
+[10-05-2022 12-04-16] - In totale le lezioni sono 233 di cui 78 completate, 3 in corso, 147 da fare, 3 da fare dopo l'esame e 2 i cui dati non sono disponibili.
+
+
+[10-05-2022 13-34-37] - In totale le lezioni sono 233 di cui 79 completate, 2 in corso, 147 da fare, 3 da fare dopo l'esame e 2 i cui dati non sono disponibili.
+
+
+[10-05-2022 13-39-03] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti nel cestino /Volumes/working space/@Recycle
+[10-05-2022 13-39-15] - Elimino /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti
+[10-05-2022 13-39-18] - Copio /Users/mr.alderson/Desktop/algoritmi_e_strutture_dati/appunti in /Volumes/working space/Università/algoritmi_e_strutture_dati
+
+[10-05-2022 14-27-07] - Copio /Users/mr.anderson2159/Desktop/algoritmi_e_strutture_dati/appunti nel cestino /Users/mr.anderson2159/.Trash
+[10-05-2022 14-27-08] - Elimino /Users/mr.anderson2159/Desktop/algoritmi_e_strutture_dati/appunti
+[10-05-2022 14-27-08] - Copio /Volumes/working space/Università/algoritmi_e_strutture_dati/appunti in /Users/mr.anderson2159/Desktop/algoritmi_e_strutture_dati
+
+[16-05-2022 11-23-04] - In totale le lezioni sono 233 di cui 79 completate, 2 in corso, 147 da fare, 3 da fare dopo l'esame e 2 i cui dati non sono disponibili.
+
+
+[16-05-2022 11-23-10] - In totale le lezioni sono 233 di cui 79 completate, 2 in corso, 147 da fare, 3 da fare dopo l'esame e 2 i cui dati non sono disponibili.
+
+
+[16-05-2022 11-26-25] - In totale le lezioni sono 233 di cui 79 completate, 2 in corso, 147 da fare, 3 da fare dopo l'esame e 2 i cui dati non sono disponibili.
+
+
+[16-05-2022 14-49-35] - KeyboardInterrupt
+
+[16-05-2022 14-49-38] - Copio /Users/mr.alderson/Desktop/analisi/Modulo II/appunti nel cestino /Users/mr.alderson/.Trash
+[16-05-2022 14-49-38] - Elimino /Users/mr.alderson/Desktop/analisi/Modulo II/appunti
+[16-05-2022 14-49-38] - Niente da eliminare
+[16-05-2022 14-49-38] - Copio /Volumes/working space/Università/analisi/Modulo II/appunti in /Users/mr.alderson/Desktop/analisi/Modulo II
+
+[16-05-2022 14-54-12] - Copio /Users/mr.alderson/Desktop/analisi/Modulo II/appunti nel cestino /Users/mr.alderson/.Trash
+[16-05-2022 14-54-12] - Elimino /Users/mr.alderson/Desktop/analisi/Modulo II/appunti
+[16-05-2022 14-54-12] - Niente da eliminare
+[16-05-2022 14-54-12] - Copio /Volumes/working space/Università/analisi/Modulo II/appunti in /Users/mr.alderson/Desktop/analisi/Modulo II
+
+[16-05-2022 14-55-22] - Copio /Users/mr.alderson/Desktop/analisi/Modulo II/appunti nel cestino /Users/mr.alderson/.Trash
+[16-05-2022 14-55-22] - Elimino /Users/mr.alderson/Desktop/analisi/Modulo II/appunti
+[16-05-2022 14-55-22] - Niente da eliminare
+[16-05-2022 14-55-22] - Copio /Volumes/working space/Università/analisi/Modulo II/appunti in /Users/mr.alderson/Desktop/analisi/Modulo II
+
+[16-05-2022 14-56-19] - Copio /Users/mr.alderson/Desktop/analisi/Modulo II/appunti nel cestino /Users/mr.alderson/.Trash
+[16-05-2022 14-56-20] - Elimino /Users/mr.alderson/Desktop/analisi/Modulo II/appunti
+[16-05-2022 14-56-20] - Niente da eliminare
+[16-05-2022 14-56-20] - Copio /Volumes/working space/Università/analisi/Modulo II/appunti in /Users/mr.alderson/Desktop/analisi/Modulo II
+
+[16-05-2022 14-56-59] - Copio /Users/mr.alderson/Desktop/analisi/Modulo II/appunti nel cestino /Users/mr.alderson/.Trash
+[16-05-2022 14-56-59] - Elimino /Users/mr.alderson/Desktop/analisi/Modulo II/appunti
+[16-05-2022 14-56-59] - Niente da eliminare
+[16-05-2022 14-56-59] - Copio /Volumes/working space/Università/analisi/Modulo II/appunti in /Users/mr.alderson/Desktop/analisi/Modulo II
+
+[16-05-2022 15-00-35] - Copio /Users/mr.alderson/Desktop/analisi/Modulo II/appunti nel cestino /Users/mr.alderson/.Trash
+[16-05-2022 15-00-35] - Elimino /Users/mr.alderson/Desktop/analisi/Modulo II/appunti
+[16-05-2022 15-00-35] - Niente da eliminare
+[16-05-2022 15-00-35] - Copio /Volumes/working space/Università/analisi/Modulo II/appunti in /Users/mr.alderson/Desktop/analisi/Modulo II
+
+[16-05-2022 15-01-04] - Copio /Users/mr.alderson/Desktop/analisi/Modulo II/appunti nel cestino /Users/mr.alderson/.Trash
+[16-05-2022 15-01-04] - Elimino /Users/mr.alderson/Desktop/analisi/Modulo II/appunti
+[16-05-2022 15-01-04] - Niente da eliminare
+[16-05-2022 15-01-04] - Copio /Volumes/working space/Università/analisi/Modulo II/appunti in /Users/mr.alderson/Desktop/analisi/Modulo II
+
+[16-05-2022 15-01-41] - Copio /Users/mr.alderson/Desktop/analisi/Modulo II/appunti nel cestino /Users/mr.alderson/.Trash
+[16-05-2022 15-01-41] - Elimino /Users/mr.alderson/Desktop/analisi/Modulo II/appunti
+[16-05-2022 15-01-41] - Niente da eliminare
+[16-05-2022 15-01-41] - Copio /Volumes/working space/Università/analisi/Modulo II/appunti in /Users/mr.alderson/Desktop/analisi/Modulo II
+
+[16-05-2022 15-02-22] - Copio /Users/mr.alderson/Desktop/analisi/Modulo II/appunti nel cestino /Users/mr.alderson/.Trash
+[16-05-2022 15-02-22] - Elimino /Users/mr.alderson/Desktop/analisi/Modulo II/appunti
+[16-05-2022 15-02-22] - Niente da eliminare
+[16-05-2022 15-02-22] - Copio /Volumes/working space/Università/analisi/Modulo II/appunti in /Users/mr.alderson/Desktop/analisi/Modulo II
+
+[24-05-2022 03-32-53] - In totale le lezioni sono 233 di cui 79 completate, 2 in corso, 147 da fare, 3 da fare dopo l'esame e 2 i cui dati non sono disponibili.
+
+
+[24-05-2022 03-32-59] - In totale le lezioni sono 233 di cui 79 completate, 2 in corso, 147 da fare, 3 da fare dopo l'esame e 2 i cui dati non sono disponibili.
+
+
+[24-05-2022 03-33-36] - In totale le lezioni sono 233 di cui 79 completate, 2 in corso, 147 da fare, 3 da fare dopo l'esame e 2 i cui dati non sono disponibili.
+
+
+[24-05-2022 03-34-29] - In totale le lezioni sono 233 di cui 79 completate, 2 in corso, 147 da fare, 3 da fare dopo l'esame e 2 i cui dati non sono disponibili.
+
+
+[30-05-2022 16-35-03] - In totale le lezioni sono 233 di cui 79 completate, 2 in corso, 147 da fare, 3 da fare dopo l'esame e 2 i cui dati non sono disponibili.
+
+
+[30-05-2022 16-40-46] - In totale le lezioni sono 233 di cui 79 completate, 2 in corso, 147 da fare, 3 da fare dopo l'esame e 2 i cui dati non sono disponibili.
+
+
+[30-05-2022 16-45-53] - In totale le lezioni sono 233 di cui 79 completate, 2 in corso, 147 da fare, 3 da fare dopo l'esame e 2 i cui dati non sono disponibili.
+
+
+[30-05-2022 16-46-17] - In totale le lezioni sono 233 di cui 79 completate, 2 in corso, 147 da fare, 3 da fare dopo l'esame e 2 i cui dati non sono disponibili.
+
+
+[31-05-2022 17-23-09] - Copio /Volumes/working space/Università/architettura_degli_elaboratori/Modulo I/appunti nel cestino /Volumes/working space/@Recycle
+[31-05-2022 17-23-12] - Elimino /Volumes/working space/Università/architettura_degli_elaboratori/Modulo I/appunti
+[31-05-2022 17-23-12] - Copio /Users/mr.alderson/Desktop/architettura_degli_elaboratori/Modulo I/appunti in /Volumes/working space/Università/architettura_degli_elaboratori/Modulo I
+
+[31-05-2022 17-24-13] - Copio /Volumes/working space/Università/architettura_degli_elaboratori/Modulo I/appunti nel cestino /Volumes/working space/@Recycle
+[31-05-2022 17-24-13] - Elimino /Volumes/working space/Università/architettura_degli_elaboratori/Modulo I/appunti
+[31-05-2022 17-24-13] - Niente da eliminare
+[31-05-2022 17-24-13] - Copio /Users/mr.alderson/Desktop/architettura_degli_elaboratori/Modulo I/appunti in /Volumes/working space/Università/architettura_degli_elaboratori/Modulo I
+
+[02-06-2022 10-40-20] - In totale le lezioni sono 233 di cui 81 completate, 2 in corso, 145 da fare, 3 da fare dopo l'esame e 2 i cui dati non sono disponibili.
+
+
+[02-06-2022 11-04-23] - In totale le lezioni sono 230 di cui 81 completate, 2 in corso, 145 da fare, 0 da fare dopo l'esame e 2 i cui dati non sono disponibili.
+
+[02-06-2022 15-26-27] - customv:
+('/Users/mr.alderson/Desktop/Schermata 2022-06-02 alle 15.24.04.png', '/Users/mr.alderson/Desktop/architettura_degli_elaboratori/Modulo I/appunti/images/mario_1.png')
+
+\begin{center}
+\includegraphics[size=.4]{mario_1}
+\end{center}
+
+
+
+[02-06-2022 15-39-41] - customv:
+('/Users/mr.alderson/Desktop/Schermata 2022-06-02 alle 15.39.28.png', '/Users/mr.alderson/Desktop/architettura_degli_elaboratori/Modulo I/appunti/images/AND_1.png')
+
+\begin{center}
+\includegraphics[size=.4]{AND_1}
+\end{center}
+
+
+
+[02-06-2022 15-39-55] - customv:
+('/Users/mr.alderson/Desktop/Schermata 2022-06-02 alle 15.39.48.png', '/Users/mr.alderson/Desktop/architettura_degli_elaboratori/Modulo I/appunti/images/OR_1.png')
+
+\begin{center}
+\includegraphics[size=.4]{OR_1}
+\end{center}
+
+
+
+[02-06-2022 15-40-21] - customv:
+('/Users/mr.alderson/Desktop/Schermata 2022-06-02 alle 15.40.02.png', '/Users/mr.alderson/Desktop/architettura_degli_elaboratori/Modulo I/appunti/images/NOT_1.png')
+
+\begin{center}
+\includegraphics[size=.4]{NOT_1}
+\end{center}
+
+
+
+[02-06-2022 15-53-12] - customv:
+('/Users/mr.alderson/Desktop/Schermata 2022-06-02 alle 15.52.54.png', '/Users/mr.alderson/Desktop/architettura_degli_elaboratori/Modulo I/appunti/images/XAND_1.png')
+
+\begin{center}
+\includegraphics[scale=.4]{XAND_1}
+\end{center}
+
+
+
+[02-06-2022 15-54-01] - customv:
+('/Users/mr.alderson/Desktop/Schermata 2022-06-02 alle 15.53.18.png', '/Users/mr.alderson/Desktop/architettura_degli_elaboratori/Modulo I/appunti/images/NOR_1.png')
+
+\begin{center}
+\includegraphics[scale=.4]{NOR_1}
+\end{center}
+
+
+
+[02-06-2022 15-54-18] - customv:
+('/Users/mr.alderson/Desktop/Schermata 2022-06-02 alle 15.54.11.png', '/Users/mr.alderson/Desktop/architettura_degli_elaboratori/Modulo I/appunti/images/XOR_1.png')
+
+\begin{center}
+\includegraphics[scale=.4]{XOR_1}
+\end{center}
+
+
+
+[02-06-2022 15-54-44] - customv:
+('/Users/mr.alderson/Desktop/Schermata 2022-06-02 alle 15.54.34.png', '/Users/mr.alderson/Desktop/architettura_degli_elaboratori/Modulo I/appunti/images/XNOR_1.png')
+
+\begin{center}
+\includegraphics[scale=.4]{XNOR_1}
+\end{center}
+
+
+
+[02-06-2022 16-04-12] - customv:
+('/Users/mr.alderson/Desktop/Schermata 2022-06-02 alle 16.02.29.png', '/Users/mr.alderson/Desktop/architettura_degli_elaboratori/Modulo I/appunti/images/MultiAND_1.png')
+
+\begin{center}
+\includegraphics[scale=.4]{MultiAND_1}
+\end{center}
+
+
+
+[02-06-2022 16-13-40] - customv:
+('/Users/mr.alderson/Desktop/Schermata 2022-06-02 alle 16.13.11.png', '/Users/mr.alderson/Desktop/architettura_degli_elaboratori/Modulo I/appunti/images/circuit_exemple_1.png')
+
+\begin{center}
+\includegraphics[scale=.4]{circuit_exemple_1}
+\end{center}
+
+
+
+[02-06-2022 16-36-46] - customv:
+('/Users/mr.alderson/Desktop/Schermata 2022-06-02 alle 16.36.33.png', '/Users/mr.alderson/Desktop/architettura_degli_elaboratori/Modulo I/appunti/images/delay_levels_1.png')
+
+\begin{center}
+\includegraphics[scale=.4]{delay_levels_1}
+\end{center}
+
+
+
+
+[02-06-2022 16-59-04] - In totale le lezioni sono 230 di cui 82 completate, 1 in corso, 145 da fare, 0 da fare dopo l'esame e 2 i cui dati non sono disponibili.
+
+
+[02-06-2022 18-02-04] - In totale le lezioni sono 230 di cui 82 completate, 1 in corso, 145 da fare, 0 da fare dopo l'esame e 2 i cui dati non sono disponibili.
+
+[02-06-2022 18-15-21] - customv:
+('/Users/mr.alderson/Desktop/Schermata 2022-06-02 alle 18.15.03.png', '/Users/mr.alderson/Desktop/architettura_degli_elaboratori/Modulo I/appunti/images/HA_diagram_1.png')
+
+\begin{center}
+\includegraphics[scale=.4]{HA_diagram_1}
+\end{center}
+
+
+
+[02-06-2022 18-15-43] - customv:
+('/Users/mr.alderson/Desktop/Schermata 2022-06-02 alle 18.15.27.png', '/Users/mr.alderson/Desktop/architettura_degli_elaboratori/Modulo I/appunti/images/HA_1.png')
+
+\begin{center}
+\includegraphics[scale=.4]{HA_1}
+\end{center}
+
+
+
+[02-06-2022 18-28-16] - customv:
+('/Users/mr.alderson/Desktop/Schermata 2022-06-02 alle 18.28.04.png', '/Users/mr.alderson/Desktop/architettura_degli_elaboratori/Modulo I/appunti/images/FA_diagram_1.png')
+
+\begin{center}
+\includegraphics[scale=.4]{FA_diagram_1}
+\end{center}
+
+
+
+[02-06-2022 18-28-36] - customv:
+('/Users/mr.alderson/Desktop/Schermata 2022-06-02 alle 18.28.23.png', '/Users/mr.alderson/Desktop/architettura_degli_elaboratori/Modulo I/appunti/images/FA_1.png')
+
+\begin{center}
+\includegraphics[scale=.4]{FA_1}
+\end{center}
+
+
+
+[02-06-2022 18-36-47] - customv:
+('/Users/mr.alderson/Desktop/Schermata 2022-06-02 alle 18.36.27.png', '/Users/mr.alderson/Desktop/architettura_degli_elaboratori/Modulo I/appunti/images/n-BIT_ADDER_1.png')
+
+\begin{center}
+\includegraphics[scale=.4]{n-BIT_ADDER_1}
+\end{center}
+
+
+
+
+[04-06-2022 12-32-59] - In totale le lezioni sono 230 di cui 83 completate, 2 in corso, 143 da fare, 0 da fare dopo l'esame e 2 i cui dati non sono disponibili.
+
+[04-06-2022 12-38-39] - customv:
+('/Users/mr.alderson/Desktop/Schermata 2022-06-04 alle 12.38.20.png', '/Users/mr.alderson/Desktop/architettura_degli_elaboratori/Modulo I/appunti/images/clc_1.png')
+
+\begin{center}
+\includegraphics[scale=.4]{clc_1}
+\end{center}
+
+
+
+[04-06-2022 14-01-50] - customv:
+('/Users/mr.alderson/Desktop/Schermata 2022-06-04 alle 14.01.25.png', '/Users/mr.alderson/Desktop/architettura_degli_elaboratori/Modulo I/appunti/images/even_odd_1.png')
+
+\begin{center}
+\includegraphics[scale=.4]{even_odd_1}
+\end{center}
+
+
+
+
+[05-06-2022 13-42-29] - KeyboardInterrupt
+
+[05-06-2022 13-42-32] - Copio /Users/mr.anderson2159/Desktop/architettura_degli_elaboratori/Modulo I/appunti nel cestino /Users/mr.anderson2159/.Trash
+[05-06-2022 13-42-32] - Elimino /Users/mr.anderson2159/Desktop/architettura_degli_elaboratori/Modulo I/appunti
+[05-06-2022 13-42-32] - Niente da eliminare
+[05-06-2022 13-42-32] - Copio /Volumes/working space/Università/architettura_degli_elaboratori/Modulo I/appunti in /Users/mr.anderson2159/Desktop/architettura_degli_elaboratori/Modulo I
+
+[05-06-2022 13-50-11] - Copio /Volumes/working space/Università/architettura_degli_elaboratori/Modulo I/appunti nel cestino /Volumes/working space/@Recycle
+[05-06-2022 13-50-12] - Elimino /Volumes/working space/Università/architettura_degli_elaboratori/Modulo I/appunti
+[05-06-2022 13-50-12] - Copio /Users/mr.alderson/Desktop/architettura_degli_elaboratori/Modulo I/appunti in /Volumes/working space/Università/architettura_degli_elaboratori/Modulo I
+
+[05-06-2022 14-01-25] - Copio /Users/mr.anderson2159/Desktop/architettura_degli_elaboratori/Modulo I/appunti nel cestino /Users/mr.anderson2159/.Trash
+[05-06-2022 14-01-25] - Elimino /Users/mr.anderson2159/Desktop/architettura_degli_elaboratori/Modulo I/appunti
+[05-06-2022 14-01-25] - Copio /Volumes/working space/Università/architettura_degli_elaboratori/Modulo I/appunti in /Users/mr.anderson2159/Desktop/architettura_degli_elaboratori/Modulo I
+[05-06-2022 16-30-35] - customv:
+('/Users/mr.anderson2159/Desktop/Schermata 2022-06-05 alle 16.29.50.png', '/Users/mr.anderson2159/Desktop/architettura_degli_elaboratori/Modulo I/appunti/images/2.25_1.png')
+
+\begin{center}
+\includegraphics[scale=.4]{2.25_1}
+\end{center}
+
+
+
+[05-06-2022 16-47-15] - customv:
+('/Users/mr.anderson2159/Desktop/Schermata 2022-06-05 alle 16.46.29.png', '/Users/mr.anderson2159/Desktop/architettura_degli_elaboratori/Modulo I/appunti/images/2.26_1.png')
+
+\begin{center}
+\includegraphics[scale=.4]{2.26_1}
+\end{center}
+
+
+
+[05-06-2022 17-07-09] - customv:
+('/Users/mr.anderson2159/Desktop/Schermata 2022-06-05 alle 17.06.46.png', '/Users/mr.anderson2159/Desktop/architettura_degli_elaboratori/Modulo I/appunti/images/2.27_1.png')
+
+\begin{center}
+\includegraphics[scale=.4]{2.27_1}
+\end{center}
+
+
+
+[05-06-2022 17-12-27] - customv:
+('/Users/mr.anderson2159/Desktop/Schermata 2022-06-05 alle 17.10.31.png', '/Users/mr.anderson2159/Desktop/architettura_degli_elaboratori/Modulo I/appunti/images/2.27_2_1.png')
+
+\begin{center}
+\includegraphics[scale=.4]{2.27_2_1}
+\end{center}
+
+
+
+
+[05-06-2022 18-22-19] - Copio /Volumes/working space/Università/architettura_degli_elaboratori/Modulo I/appunti nel cestino /Volumes/working space/@Recycle
+[05-06-2022 18-22-23] - Elimino /Volumes/working space/Università/architettura_degli_elaboratori/Modulo I/appunti
+
+[05-06-2022 18-26-26] - Copio /Volumes/working space/Università/architettura_degli_elaboratori/Modulo I/appunti nel cestino /Volumes/working space/@Recycle
+[05-06-2022 18-26-26] - Elimino /Volumes/working space/Università/architettura_degli_elaboratori/Modulo I/appunti
+
+[05-06-2022 18-26-47] - Copio /Volumes/working space/Università/architettura_degli_elaboratori/Modulo I/appunti nel cestino /Volumes/working space/@Recycle
+[05-06-2022 18-26-47] - Elimino /Volumes/working space/Università/architettura_degli_elaboratori/Modulo I/appunti
+
+[05-06-2022 18-29-03] - Copio /Volumes/working space/Università/architettura_degli_elaboratori/Modulo I/appunti nel cestino /Volumes/working space/@Recycle
+[05-06-2022 18-29-03] - Elimino /Volumes/working space/Università/architettura_degli_elaboratori/Modulo I/appunti
+
+[05-06-2022 18-29-20] - Copio /Volumes/working space/Università/architettura_degli_elaboratori/Modulo I/appunti nel cestino /Volumes/working space/@Recycle
+[05-06-2022 18-29-21] - Elimino /Volumes/working space/Università/architettura_degli_elaboratori/Modulo I/appunti
+[05-06-2022 18-29-21] - KeyboardInterrupt
+
+[05-06-2022 18-33-30] - Copio /Volumes/working space/Università/architettura_degli_elaboratori/Modulo I/appunti nel cestino /Volumes/working space/@Recycle
+[05-06-2022 18-33-31] - Elimino /Volumes/working space/Università/architettura_degli_elaboratori/Modulo I/appunti
+[05-06-2022 18-33-31] - Copio /Users/mr.anderson2159/Desktop/architettura_degli_elaboratori/Modulo I/appunti in /Volumes/working space/Università/architettura_degli_elaboratori/Modulo I
+
+[05-06-2022 18-34-19] - Copio /Users/mr.alderson/Desktop/architettura_degli_elaboratori/Modulo I/appunti nel cestino /Users/mr.alderson/.Trash
+[05-06-2022 18-34-19] - Elimino /Users/mr.alderson/Desktop/architettura_degli_elaboratori/Modulo I/appunti
+[05-06-2022 18-34-19] - Copio /Volumes/working space/Università/architettura_degli_elaboratori/Modulo I/appunti in /Users/mr.alderson/Desktop/architettura_degli_elaboratori/Modulo I
+
+[05-06-2022 18-34-52] - Copio /Users/mr.alderson/Desktop/architettura_degli_elaboratori/Modulo I/appunti nel cestino /Users/mr.alderson/.Trash
+[05-06-2022 18-34-52] - Elimino /Users/mr.alderson/Desktop/architettura_degli_elaboratori/Modulo I/appunti
+[05-06-2022 18-34-52] - Copio /Volumes/working space/Università/architettura_degli_elaboratori/Modulo I/appunti in /Users/mr.alderson/Desktop/architettura_degli_elaboratori/Modulo I
+
+[15-06-2022 15-51-21] - In totale le lezioni sono 230 di cui 84 completate, 3 in corso, 141 da fare, 0 da fare dopo l'esame e 2 i cui dati non sono disponibili.
+
+[15-06-2022 16-24-48] - customv:
+('/Users/mr.alderson/Desktop/Schermata 2022-06-15 alle 16.17.21.png', '/Users/mr.alderson/Desktop/architettura_degli_elaboratori/Modulo I/appunti/images/karnaugh_1.png')
+('/Users/mr.alderson/Desktop/Schermata 2022-06-15 alle 16.18.19.png', '/Users/mr.alderson/Desktop/architettura_degli_elaboratori/Modulo I/appunti/images/karnaugh_2.png')
+
+\begin{center}
+\includegraphics[scale=.4]{karnaugh_1}
+\end{center}
+
+
+\begin{center}
+\includegraphics[scale=.4]{karnaugh_2}
+\end{center}
+
+
+
+[15-06-2022 16-37-22] - customv:
+('/Users/mr.alderson/Desktop/Schermata 2022-06-15 alle 16.36.43.png', '/Users/mr.alderson/Desktop/architettura_degli_elaboratori/Modulo I/appunti/images/karnaugh_3_1.png')
+
+\begin{center}
+\includegraphics[scale=.4]{karnaugh_3_1}
+\end{center}
+
+
+
+[15-06-2022 16-40-46] - customv:
+('/Users/mr.alderson/Desktop/Schermata 2022-06-15 alle 16.40.33.png', '/Users/mr.alderson/Desktop/architettura_degli_elaboratori/Modulo I/appunti/images/karnaug_geometry_1.png')
+
+\begin{center}
+\includegraphics[scale=.4]{karnaug_geometry_1}
+\end{center}
+
+
+
+[15-06-2022 16-52-24] - customv:
+('/Users/mr.alderson/Desktop/Schermata 2022-06-15 alle 16.51.34.png', '/Users/mr.alderson/Desktop/architettura_degli_elaboratori/Modulo I/appunti/images/k-exemple_1.png')
+('/Users/mr.alderson/Desktop/Schermata 2022-06-15 alle 16.52.01.png', '/Users/mr.alderson/Desktop/architettura_degli_elaboratori/Modulo I/appunti/images/k-exemple_2.png')
+
+\begin{center}
+\includegraphics[scale=.4]{k-exemple_1}
+\end{center}
+
+
+\begin{center}
+\includegraphics[scale=.4]{k-exemple_2}
+\end{center}
+
+
+
+[15-06-2022 17-01-20] - customv:
+('/Users/mr.alderson/Desktop/Schermata 2022-06-15 alle 17.01.05.png', '/Users/mr.alderson/Desktop/architettura_degli_elaboratori/Modulo I/appunti/images/big-k-exemple_1.png')
+
+\begin{center}
+\includegraphics[scale=.4]{big-k-exemple_1}
+\end{center}
+
+
+
+[15-06-2022 18-23-23] - customv:
+('/Users/mr.alderson/Desktop/Schermata 2022-06-15 alle 18.23.09.png', '/Users/mr.alderson/Desktop/architettura_degli_elaboratori/Modulo I/appunti/images/decoder_1.png')
+
+\begin{center}
+\includegraphics[scale=.4]{decoder_1}
+\end{center}
+
+
+
+[15-06-2022 18-34-46] - customv:
+('/Users/mr.alderson/Desktop/Schermata 2022-06-15 alle 18.34.32.png', '/Users/mr.alderson/Desktop/architettura_degli_elaboratori/Modulo I/appunti/images/decoder2:4_1.png')
+
+\begin{center}
+\includegraphics[scale=.4]{decoder2:4_1}
+\end{center}
+
+
+
+[15-06-2022 18-36-44] - customv:
+('/Users/mr.alderson/Desktop/Schermata 2022-06-15 alle 18.36.17.png', '/Users/mr.alderson/Desktop/architettura_degli_elaboratori/Modulo I/appunti/images/decoder_scheme_1.png')
+
+\begin{center}
+\includegraphics[scale=.4]{decoder_scheme_1}
+\end{center}
+
+
+
+[15-06-2022 18-40-33] - customv:
+('/Users/mr.alderson/Desktop/Schermata 2022-06-15 alle 18.39.44.png', '/Users/mr.alderson/Desktop/architettura_degli_elaboratori/Modulo I/appunti/images/decoder_exemple_1.png')
+
+\begin{center}
+\includegraphics[scale=.4]{decoder_exemple_1}
+\end{center}
+
+
+
+[15-06-2022 19-12-02] - customv:
+('/Users/mr.alderson/Desktop/Schermata 2022-06-15 alle 19.07.57.png', '/Users/mr.alderson/Desktop/architettura_degli_elaboratori/Modulo I/appunti/images/multiplexer_1.png')
+('/Users/mr.alderson/Desktop/Schermata 2022-06-15 alle 19.11.26.png', '/Users/mr.alderson/Desktop/architettura_degli_elaboratori/Modulo I/appunti/images/multiplexer_2.png')
+
+\begin{center}
+\includegraphics[scale=.4]{multiplexer_1}
+\end{center}
+
+
+\begin{center}
+\includegraphics[scale=.4]{multiplexer_2}
+\end{center}
+
+
+
+
+[15-06-2022 19-15-41] - Copio /Volumes/working space/Università/architettura_degli_elaboratori/Modulo I/appunti nel cestino /Volumes/working space/@Recycle
+[15-06-2022 19-15-43] - Elimino /Volumes/working space/Università/architettura_degli_elaboratori/Modulo I/appunti
+[15-06-2022 19-15-44] - Copio /Users/mr.alderson/Desktop/architettura_degli_elaboratori/Modulo I/appunti in /Volumes/working space/Università/architettura_degli_elaboratori/Modulo I
+
+[15-06-2022 20-55-25] - In totale le lezioni sono 230 di cui 86 completate, 2 in corso, 140 da fare, 0 da fare dopo l'esame e 2 i cui dati non sono disponibili.
+
+
+[15-06-2022 20-55-36] - In totale le lezioni sono 230 di cui 86 completate, 2 in corso, 140 da fare, 0 da fare dopo l'esame e 2 i cui dati non sono disponibili.
+
+[20-06-2022 10-15-55] - customv:
+('/Users/mr.alderson/Desktop/Schermata 2022-06-20 alle 10.14.36.png', '/Users/mr.alderson/Desktop/architettura_degli_elaboratori/Modulo I/appunti/images/FSM_1.png')
+('/Users/mr.alderson/Desktop/Schermata 2022-06-20 alle 10.14.42.png', '/Users/mr.alderson/Desktop/architettura_degli_elaboratori/Modulo I/appunti/images/FSM_2.png')
+
+\begin{center}
+\includegraphics[scale=.4]{FSM_1}
+\end{center}
+
+
+\begin{center}
+\includegraphics[scale=.4]{FSM_2}
+\end{center}
+
+
+
+[20-06-2022 10-58-21] - customv:
+('/Users/mr.alderson/Desktop/Schermata 2022-06-20 alle 10.57.32.png', '/Users/mr.alderson/Desktop/architettura_degli_elaboratori/Modulo I/appunti/images/MFSM_1.png')
+
+\begin{center}
+\includegraphics[scale=.4]{MFSM_1}
+\end{center}
+
+
+
+
+[20-06-2022 11-27-57] - Copio /Volumes/working space/Università/architettura_degli_elaboratori/Modulo I/appunti nel cestino /Volumes/working space/@Recycle
+[20-06-2022 11-27-59] - Elimino /Volumes/working space/Università/architettura_degli_elaboratori/Modulo I/appunti
+[20-06-2022 11-27-59] - Copio /Users/mr.alderson/Desktop/architettura_degli_elaboratori/Modulo I/appunti in /Volumes/working space/Università/architettura_degli_elaboratori/Modulo I
+[20-06-2022 15-35-20] - customv:
+('/Users/mr.alderson/Desktop/Schermata 2022-06-20 alle 15.34.59.png', '/Users/mr.alderson/Desktop/architettura_degli_elaboratori/Modulo I/appunti/images/mealy_1.png')
+
+\begin{center}
+\includegraphics[scale=.4]{mealy_1}
+\end{center}
+
+
+
+[20-06-2022 16-01-54] - customv:
+('/Users/mr.alderson/Desktop/Schermata 2022-06-20 alle 16.01.19.png', '/Users/mr.alderson/Desktop/architettura_degli_elaboratori/Modulo I/appunti/images/from_moore_to_mealy_1.png')
+
+\begin{center}
+\includegraphics[scale=.4]{from_moore_to_mealy_1}
+\end{center}
+
+
+
+[20-06-2022 16-43-35] - customv:
+('/Users/mr.alderson/Desktop/Schermata 2022-06-20 alle 16.37.19.png', '/Users/mr.alderson/Desktop/architettura_degli_elaboratori/Modulo I/appunti/images/from_mealy_to_moore_1.png')
+('/Users/mr.alderson/Desktop/Schermata 2022-06-20 alle 16.38.28.png', '/Users/mr.alderson/Desktop/architettura_degli_elaboratori/Modulo I/appunti/images/from_mealy_to_moore_2.png')
+('/Users/mr.alderson/Desktop/Schermata 2022-06-20 alle 16.40.25.png', '/Users/mr.alderson/Desktop/architettura_degli_elaboratori/Modulo I/appunti/images/from_mealy_to_moore_3.png')
+('/Users/mr.alderson/Desktop/Schermata 2022-06-20 alle 16.42.56.png', '/Users/mr.alderson/Desktop/architettura_degli_elaboratori/Modulo I/appunti/images/from_mealy_to_moore_4.png')
+
+\begin{center}
+\includegraphics[scale=.4]{from_mealy_to_moore_1}
+\end{center}
+
+
+\begin{center}
+\includegraphics[scale=.4]{from_mealy_to_moore_2}
+\end{center}
+
+
+\begin{center}
+\includegraphics[scale=.4]{from_mealy_to_moore_3}
+\end{center}
+
+
+\begin{center}
+\includegraphics[scale=.4]{from_mealy_to_moore_4}
+\end{center}
+
+
+
+
+[28-07-2022 16-41-38] - In totale le lezioni sono 230 di cui 89 completate, 2 in corso, 137 da fare, 0 da fare dopo l'esame e 2 i cui dati non sono disponibili.
+
+
+[28-07-2022 16-43-47] - In totale le lezioni sono 230 di cui 89 completate, 2 in corso, 137 da fare, 0 da fare dopo l'esame e 2 i cui dati non sono disponibili.
+
+
+[28-07-2022 16-55-22] - Copio /Users/mr.alderson/Desktop/ingegneria_del_software/appunti nel cestino /Users/mr.alderson/.Trash
+[28-07-2022 16-55-22] - Elimino /Users/mr.alderson/Desktop/ingegneria_del_software/appunti
+[28-07-2022 16-55-22] - Niente da eliminare
+[28-07-2022 16-55-22] - Copio /Volumes/working space/Università/ingegneria_del_software/appunti in /Users/mr.alderson/Desktop/ingegneria_del_software
+
+[28-07-2022 17-09-40] - In totale le lezioni sono 230 di cui 89 completate, 2 in corso, 137 da fare, 0 da fare dopo l'esame e 2 i cui dati non sono disponibili.
+
+
+[29-07-2022 11-04-49] - Copio /Users/mr.anderson2159/Desktop/calcolo_numerico/appunti nel cestino /Users/mr.anderson2159/.Trash
+[29-07-2022 11-04-49] - Elimino /Users/mr.anderson2159/Desktop/calcolo_numerico/appunti
+[29-07-2022 11-04-49] - Niente da eliminare
+[29-07-2022 11-04-49] - Copio /Volumes/working space/Università/calcolo_numerico/appunti in /Users/mr.anderson2159/Desktop/calcolo_numerico
+
+[30-07-2022 16-13-16] - Copio /Volumes/working space/Università/calcolo_numerico/appunti nel cestino /Volumes/working space/@Recycle
+[30-07-2022 16-13-20] - Elimino /Volumes/working space/Università/calcolo_numerico/appunti
+[30-07-2022 16-13-21] - Copio /Users/mr.anderson2159/Desktop/calcolo_numerico/appunti in /Volumes/working space/Università/calcolo_numerico
+
+[30-07-2022 16-17-09] - Copio /Users/mr.alderson/Desktop/calcolo_numerico/appunti nel cestino /Users/mr.alderson/.Trash
+[30-07-2022 16-17-09] - Elimino /Users/mr.alderson/Desktop/calcolo_numerico/appunti
+[30-07-2022 16-17-09] - Niente da eliminare
+[30-07-2022 16-17-09] - Copio /Volumes/working space/Università/calcolo_numerico/appunti in /Users/mr.alderson/Desktop/calcolo_numerico
+
+[30-07-2022 17-14-14] - In totale le lezioni sono 230 di cui 90 completate, 3 in corso, 135 da fare, 0 da fare dopo l'esame e 2 i cui dati non sono disponibili.
+
+
+[30-07-2022 17-14-18] - In totale le lezioni sono 230 di cui 90 completate, 3 in corso, 135 da fare, 0 da fare dopo l'esame e 2 i cui dati non sono disponibili.
+
+
+[31-07-2022 19-10-13] - In totale le lezioni sono 230 di cui 90 completate, 3 in corso, 135 da fare, 0 da fare dopo l'esame e 2 i cui dati non sono disponibili.
+
+
+[22-08-2022 18-06-44] - In totale le lezioni sono 231 di cui 90 completate, 4 in corso, 135 da fare, 0 da fare dopo l'esame e 2 i cui dati non sono disponibili.
+
+
+[22-08-2022 18-09-18] - In totale le lezioni sono 231 di cui 90 completate, 4 in corso, 136 da fare, 0 da fare dopo l'esame e 1 i cui dati non sono disponibili.
+
+
+[22-08-2022 18-09-45] - In totale le lezioni sono 231 di cui 90 completate, 4 in corso, 136 da fare, 0 da fare dopo l'esame e 1 i cui dati non sono disponibili.
+
+
+[22-08-2022 18-10-16] - In totale le lezioni sono 231 di cui 90 completate, 4 in corso, 136 da fare, 0 da fare dopo l'esame e 1 i cui dati non sono disponibili.
+
+
+[15-04-2023 20-37-42] - Copio /Volumes/working space/Università/ingegneria_del_software/appunti nel cestino /Volumes/working space/@Recycle
+[15-04-2023 20-37-43] - Elimino /Volumes/working space/Università/ingegneria_del_software/appunti
+[15-04-2023 20-37-43] - Copio /Users/mr.alderson/Desktop/ingegneria_del_software/appunti in /Volumes/working space/Università/ingegneria_del_software
+
+[25-04-2023 10-51-27] - Copio /Users/mr.anderson2159/Desktop/ingegneria_del_software/appunti nel cestino /Users/mr.anderson2159/.Trash
+[25-04-2023 10-51-27] - Elimino /Users/mr.anderson2159/Desktop/ingegneria_del_software/appunti
+[25-04-2023 10-51-27] - Niente da eliminare
+[25-04-2023 10-51-27] - Copio /Volumes/working space/Università/ingegneria_del_software/appunti in /Users/mr.anderson2159/Desktop/ingegneria_del_software
+
+[09-10-2023 22-47-26] - Copio /Users/mr.anderson2159/Desktop/statistica/appunti nel cestino /Users/mr.anderson2159/.Trash
+[09-10-2023 22-47-26] - Elimino /Users/mr.anderson2159/Desktop/statistica/appunti
+[09-10-2023 22-47-26] - Niente da eliminare
+[09-10-2023 22-47-26] - Copio /Volumes/working space/Università/statistica/appunti in /Users/mr.anderson2159/Desktop/statistica
+
+[30-10-2023 09-04-14] - Copio /Users/mr.anderson2159/Desktop/calcolo_numerico/appunti nel cestino /Users/mr.anderson2159/.Trash
+[30-10-2023 09-04-14] - Elimino /Users/mr.anderson2159/Desktop/calcolo_numerico/appunti
+[30-10-2023 09-04-14] - Niente da eliminare
+[30-10-2023 09-04-14] - Copio /Volumes/working space/Università/calcolo_numerico/appunti in /Users/mr.anderson2159/Desktop/calcolo_numerico

@@ -1,0 +1,24 @@
+{
+    "ForestaDell'Ovest": {
+        "AccademiaDiIncantesimi": {
+            "StanzaDellaProva": {
+                "Scatola": {
+                    "items": []
+                },
+                "items": ["Istruzioni", "Soldatino1", "Soldatino2", "Soldatino3", "Soldatino4", "Soldatino5"]
+            },
+            "Lezione": {
+                "items": ["Professore"]
+            },
+            "items": ["StudentessaAffrettata"]
+        },
+        "items": ["InsegnaDellaScuola", "Indicazione"]
+    },
+    "PratoDelNord": {
+        "MontagneDell'Est": {
+            "items": []
+        },
+        "items": ["Pony"]
+    },
+    "items": ["LetteraDiBenvenuto"]
+}

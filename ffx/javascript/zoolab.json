@@ -1,0 +1,4925 @@
+{
+    "bestiario": {
+        "Besaid": {
+            "Dingo": {
+                "name": "Dingo",
+                "createsChampion": "Fenril",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 3125,
+                    "reward": "Melatonina x 4"
+                },
+                "weaponReward": ["Perforazione, Fuocattacco, Tuonattacco,Acquattacco, Gelattacco, Induttore E", "ATT Mutismo, ATT Sonno, DIF Mag +3%"],
+                "stats": {
+                    "hp": 125,
+                    "mp": 10,
+                    "ap": 2,
+                    "guil": 15,
+                    "reward": "Energosfera x1",
+                    "steal": {
+                        "normal": "Pozione x1",
+                        "rare": "Melatonina x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Condor": {
+                "name": "Condor",
+                "createsChampion": "Pterix",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 2375,
+                    "reward": "Lacrimogeno x 3"
+                },
+                "weaponReward": ["Spot, Perforazione, Induttore V", "DIF Blind, DIF Mag +3%"],
+                "stats": {
+                    "hp": 95,
+                    "mp": 15,
+                    "ap": 2,
+                    "guil": 12,
+                    "reward": "Velocisfera x1",
+                    "steal": {
+                        "normal": "Coda di Fenice x1",
+                        "rare": "Lacrimogeno x2"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Budino D'acqua": {
+                "name": "Budino D'acqua",
+                "createsChampion": "Budino Jumbo",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 7875,
+                    "reward": "Idromagilite x 15"
+                },
+                "weaponReward": ["Perforazione, Acquattacco, Induttore M", "Acqua -50%"],
+                "stats": {
+                    "hp": 2025,
+                    "mp": 1,
+                    "ap": 240,
+                    "guil": 340,
+                    "reward": "Magicosfera x1",
+                    "steal": {
+                        "normal": "Squame di pesce x2",
+                        "rare": "Squame di drago x2"
+                    },
+                    "nemitec": false
+                }
+            }
+        },
+        "Kilika": {
+            "Deinonychus": {
+                "name": "Deinonychus",
+                "createsChampion": "Ornitorestes",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 3500,
+                    "reward": "Granata Fossile x 2"
+                },
+                "weaponReward": ["Perforazione, Fuocattacco, Tuonattacco,Acquattacco, Gelattacco, Induttore V", "DIF Lentezza, DIF Fis +3%"],
+                "stats": {
+                    "hp": 140,
+                    "mp": 25,
+                    "ap": 9,
+                    "guil": 27,
+                    "reward": "Velocisfera x1",
+                    "steal": {
+                        "normal": "Ago dorato x1",
+                        "rare": "Granata fossile x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Ape Killer": {
+                "name": "Ape Killer",
+                "createsChampion": "Honet",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 2750,
+                    "reward": "Zanna Velenosa x 1"
+                },
+                "weaponReward": ["Perforazione, Fuocattacco, Tuonattacco,Acquattacco, Gelattacco, Induttore V", "DIF Veleno, MP +5%"],
+                "stats": {
+                    "hp": 110,
+                    "mp": 5,
+                    "ap": 9,
+                    "guil": 23,
+                    "reward": "Velocisfera x1",
+                    "steal": {
+                        "normal": "Antidoto x1",
+                        "rare": "Zanna velenosa x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Elemento Giallo": {
+                "name": "Elemento Giallo",
+                "createsChampion": "Elemento Nega",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 7500,
+                    "reward": "Razzo Fulminante x 6"
+                },
+                "weaponReward": ["Perforazione, Tuonattacco, Induttore M", "Tuono -50%"],
+                "stats": {
+                    "hp": 300,
+                    "mp": 100,
+                    "ap": 9,
+                    "guil": 33,
+                    "reward": "Magicosfera x1",
+                    "steal": {
+                        "normal": "Razzo elettrico x1",
+                        "rare": "Razzo fulminante x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Balsamiko": {
+                "name": "Balsamiko",
+                "createsChampion": "",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 19500,
+                    "reward": "Panacea x 8"
+                },
+                "weaponReward": ["Perforazione, ATT Veleno, ATT Fis +3%, ATT Mag+3%", "DIF Veleno, HP +5%"],
+                "stats": {
+                    "hp": 780,
+                    "mp": 15,
+                    "ap": 20,
+                    "guil": 48,
+                    "reward": "Magicosfera x1",
+                    "steal": {
+                        "normal": "Antidoto x1",
+                        "rare": "Panacea x1"
+                    },
+                    "nemitec": "Cerbottana"
+                }
+            }
+        },
+        "Via Mihen": {
+            "Mihen Phang": {
+                "name": "Mihen Phang",
+                "createsChampion": "Fenril",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 4000,
+                    "reward": "Melatonina x 5"
+                },
+                "weaponReward": ["Perforazione, Fuocattacco, Tuonattacco,Acquattacco, Gelattacco, Induttore E", "DIF Mutismo, DIF Sonno"],
+                "stats": {
+                    "hp": 160,
+                    "mp": 20,
+                    "ap": 20,
+                    "guil": 33,
+                    "reward": "Energosfera x1",
+                    "steal": {
+                        "normal": "Pozione x1",
+                        "rare": "Melatonina x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Ipiria": {
+                "name": "Ipiria",
+                "createsChampion": "Ornitorestes",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 4500,
+                    "reward": "Granata Fossile x 3"
+                },
+                "weaponReward": ["Perforazione, Fuocattacco, Tuonattacco,Acquattacco, Gelattacco, Induttore V", "DIF Lentezza, DIF Fis +3%"],
+                "stats": {
+                    "hp": 180,
+                    "mp": 35,
+                    "ap": 24,
+                    "guil": 46,
+                    "reward": "Velocisfera x1",
+                    "steal": {
+                        "normal": "Ago dorato x1",
+                        "rare": "Granata fossile x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Occhio Fluttuante": {
+                "name": "Occhio Fluttuante",
+                "createsChampion": "Unioculum",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 3500,
+                    "reward": "Stricnina x 1"
+                },
+                "weaponReward": ["Perforaz.,Fuocattac., Tuonattac., Acquattac., Gelattac., ATT Fis +3%, ATT Mag+3%, Induttore V", "DIF Caos, MP +10%"],
+                "stats": {
+                    "hp": 140,
+                    "mp": 200,
+                    "ap": 21,
+                    "guil": 44,
+                    "reward": "Velocisfera x1",
+                    "steal": {
+                        "normal": "Erba dell'eco x1",
+                        "rare": "Stricnina x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Elemento Bianco": {
+                "name": "Elemento Bianco",
+                "createsChampion": "Elemento Nega",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 9750,
+                    "reward": "Vento Antartico x 7"
+                },
+                "weaponReward": ["Perforazione, Gelattacco, Induttore M", "Gelo -50%, Immunogelo"],
+                "stats": {
+                    "hp": 390,
+                    "mp": 120,
+                    "ap": 20,
+                    "guil": 48,
+                    "reward": "Magicosfera x1",
+                    "steal": {
+                        "normal": "Vento artico x1",
+                        "rare": "Vento artico x2"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Rarth": {
+                "name": "Rarth",
+                "createsChampion": "Tanket",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 6000,
+                    "reward": "Hypellina x 10"
+                },
+                "weaponReward": ["Perforazione, Fuocattacco, Tuonattacco,Acquattacco, Gelattacco, Induttore E", "DIF Berserk, DIF Fis +3%"],
+                "stats": {
+                    "hp": 240,
+                    "mp": 10,
+                    "ap": 20,
+                    "guil": 42,
+                    "reward": "Energosfera x1",
+                    "steal": {
+                        "normal": "Pozione x1",
+                        "rare": "Hypellina x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Vivre": {
+                "name": "Vivre",
+                "createsChampion": "Fefnil",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "weaponReward": ["Perforazione, Fuocattacco, Tuonattacco,Acquattacco, Gelattacco, Induttore V", "DIF Lentezza, HP +5%"],
+                "stats": {
+                    "hp": 225,
+                    "mp": 22,
+                    "ap": 24,
+                    "guil": 60,
+                    "reward": "Energosfera x1",
+                    "steal": {
+                        "normal": "Pozione x1",
+                        "rare": "Clessidra d'argento x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Piros": {
+                "name": "Piros",
+                "createsChampion": "Re Piros",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 21250,
+                    "reward": "Anima di Piros x 16"
+                },
+                "weaponReward": ["Perforazione, Fuocattacco, Induttore E", "Fuoco -50%"],
+                "stats": {
+                    "hp": 2200,
+                    "mp": 45,
+                    "ap": 620,
+                    "guil": 470,
+                    "reward": "Energosfera x1",
+                    "steal": {
+                        "normal": "Anima di Piros x2",
+                        "rare": "Anima di Piros x3"
+                    },
+                    "nemitec": "Kamikaze"
+                }
+            },
+            "Bikorno": {
+                "name": "Bikorno",
+                "createsChampion": "Juggernaut",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 46875,
+                    "reward": "Granpozione x 60"
+                },
+                "weaponReward": ["Perforazione, Fuocattacco, ATT Mutismo,Induttore A", "HP +5%, HP +10%"],
+                "stats": {
+                    "hp": 3795,
+                    "mp": 22,
+                    "ap": 820,
+                    "guil": 520,
+                    "reward": "Abilitosfera x1",
+                    "steal": {
+                        "normal": "Granpozione x1",
+                        "rare": "Megapozione x1"
+                    },
+                    "nemitec": "Pirosbolle"
+                }
+            }
+        },
+        "Via Micorocciosa": {
+            "Raptor": {
+                "name": "Raptor",
+                "createsChampion": "Ornitorestes",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 5000,
+                    "reward": "Granata Fossile x 3"
+                },
+                "weaponReward": ["Perforazione, Fuocattacco, Tuonattacco,Acquattacco, Gelattacco, Induttore E", "DIF Lentezza, DIF Fis +3%"],
+                "stats": {
+                    "hp": 200,
+                    "mp": 45,
+                    "ap": 32,
+                    "guil": 48,
+                    "reward": "Velocisfera x1",
+                    "steal": {
+                        "normal": "Ago dorato x1",
+                        "rare": "Granata fossile x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Gandharva": {
+                "name": "Gandharva",
+                "createsChampion": "Vizalsha",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 3700,
+                    "reward": "Razzo Fulminante x 3"
+                },
+                "weaponReward": ["Perforazione, Tuonattacco, Induttore M", "Tuono -50%, DIF Mag +3%"],
+                "stats": {
+                    "hp": 148,
+                    "mp": 160,
+                    "ap": 32,
+                    "guil": 62,
+                    "reward": "Magicosfera x1",
+                    "steal": {
+                        "normal": "Razzo elettrico x1",
+                        "rare": "Razzo elettrico x2"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Budino Di Tuono": {
+                "name": "Budino Di Tuono",
+                "createsChampion": "Budino Jumbo",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 11250,
+                    "reward": "Razzo Fulminante x 8"
+                },
+                "weaponReward": ["Perforazione, Tuonattacco, Induttore M", "Gelo +50%, Immunotuono"],
+                "stats": {
+                    "hp": 450,
+                    "mp": 50,
+                    "ap": 24,
+                    "guil": 50,
+                    "reward": "Magicosfera x1",
+                    "steal": {
+                        "normal": "Razzo elettrico x1",
+                        "rare": "Razzo elettrico x2"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Elemento Rosso": {
+                "name": "Elemento Rosso",
+                "createsChampion": "Elemento Nega",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 11250,
+                    "reward": "Anima di Piros x 8"
+                },
+                "weaponReward": ["Perforazione, Fuocattacco, Induttore M", "Fuoco -50%, Immunofuoco"],
+                "stats": {
+                    "hp": 450,
+                    "mp": 130,
+                    "ap": 32,
+                    "guil": 55,
+                    "reward": "Magicosfera x1",
+                    "steal": {
+                        "normal": "Scheggia di Piros x1",
+                        "rare": "Scheggia di Piros x2"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Ramashut": {
+                "name": "Ramashut",
+                "createsChampion": "Fefnil",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 6875,
+                    "reward": "Clessidra d'Argento x 10"
+                },
+                "weaponReward": ["Perforazione, Fuocattacco, Tuonattacco,Acquattacco, Gelattacco, Induttore E", "DIF Lentezza, HP +5%"],
+                "stats": {
+                    "hp": 275,
+                    "mp": 21,
+                    "ap": 32,
+                    "guil": 72,
+                    "reward": "Energosfera x1",
+                    "steal": {
+                        "normal": "Pozione x1",
+                        "rare": "Clessidra d'argento x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Fungongo": {
+                "name": "Fungongo",
+                "createsChampion": "Sonnellino",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 13500,
+                    "reward": "Turboetere x 2"
+                },
+                "weaponReward": ["Perforazione, ATT Sonno, ATT Fis +3%, ATT Mag+3%", "DIF Sonno, MP +5%"],
+                "stats": {
+                    "hp": 540,
+                    "mp": 60,
+                    "ap": 44,
+                    "guil": 42,
+                    "reward": "Magicosfera x1",
+                    "steal": {
+                        "normal": "Mina Tacet x1",
+                        "rare": "Etere x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Garuda": {
+                "name": "Garuda",
+                "createsChampion": "",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 100000,
+                    "reward": "Lacrimogeno x 99"
+                },
+                "weaponReward": ["Perforazione, Fuocattacco, Tuonattacco,Acquattacco, Gelattacco", "DIF Blind"],
+                "stats": {
+                    "hp": 4000,
+                    "mp": 50,
+                    "ap": 170,
+                    "guil": 140,
+                    "reward": "Energosfera x1",
+                    "steal": {
+                        "normal": "Lacrimogeno x1",
+                        "rare": "Lacrimogeno x1"
+                    },
+                    "nemitec": false
+                }
+            }
+        },
+        "Via Djose": {
+            "Garm": {
+                "name": "Garm",
+                "createsChampion": "Fenril",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 6000,
+                    "reward": "Melatonina x 7"
+                },
+                "weaponReward": ["Perforazione, Fuocattacco, Tuonattacco,Acquattacco, Gelattacco, Induttore E", "DIF Mutismo, DIF Sonno, DIF Fis +3%"],
+                "stats": {
+                    "hp": 240,
+                    "mp": 35,
+                    "ap": 48,
+                    "guil": 88,
+                    "reward": "Energosfera x1",
+                    "steal": {
+                        "normal": "Granpozione x1",
+                        "rare": "Melatonina x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Simurgh": {
+                "name": "Simurgh",
+                "createsChampion": "Pterix",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 5000,
+                    "reward": "Lacrimogeno x 5"
+                },
+                "weaponReward": ["Spot, Perforazione, Induttore V", "DIF Blind, DIF Mag +3%"],
+                "stats": {
+                    "hp": 200,
+                    "mp": 27,
+                    "ap": 48,
+                    "guil": 73,
+                    "reward": "Velocisfera x1",
+                    "steal": {
+                        "normal": "Lacrimogeno x1",
+                        "rare": "Lacrimogeno x2"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Lesmathor": {
+                "name": "Lesmathor",
+                "createsChampion": "Honet",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 5000,
+                    "reward": "Zanna Velenosa x 2"
+                },
+                "weaponReward": ["Perforaz.,Fuocattac., Tuonattac., Acquattac., Gelattac., Induttore V, ATT Fis+3%, ATT Mag +3%", "DIF Veleno, MP +5%"],
+                "stats": {
+                    "hp": 200,
+                    "mp": 10,
+                    "ap": 40,
+                    "guil": 62,
+                    "reward": "Velocisfera x1",
+                    "steal": {
+                        "normal": "Antidoto x1",
+                        "rare": "Zanna velenosa x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Budino Di Neve": {
+                "name": "Budino Di Neve",
+                "createsChampion": "Budino Jumbo",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 15000,
+                    "reward": "Vento Antartico x 10"
+                },
+                "weaponReward": ["Perforazione, Gelattacco, Induttore M", "Gelo +50%, Immunofuoco"],
+                "stats": {
+                    "hp": 600,
+                    "mp": 120,
+                    "ap": 48,
+                    "guil": 93,
+                    "reward": "Magicosfera x1",
+                    "steal": {
+                        "normal": "Vento antartico x1",
+                        "rare": "Vento antartico x2"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Bunyips": {
+                "name": "Bunyips",
+                "createsChampion": "Tanket",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 10000,
+                    "reward": "Hypellina x 16"
+                },
+                "weaponReward": ["Perforazione, Fuocattacco, Tuonattacco,Acquattacco, Gelattacco, Induttore E", "DIF Berserk, DIF Fis +3%"],
+                "stats": {
+                    "hp": 400,
+                    "mp": 15,
+                    "ap": 48,
+                    "guil": 97,
+                    "reward": "Energosfera x1",
+                    "steal": {
+                        "normal": "Granpozione x1",
+                        "rare": "Hypellina x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Basilisk": {
+                "name": "Basilisk",
+                "createsChampion": "",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 50625,
+                    "reward": "Granata fossile x 24"
+                },
+                "weaponReward": ["Perforazione, ATT Pietra, ATT Fis +3%, ATT Mag+3%", "DIF Pietra, MP +5%"],
+                "stats": {
+                    "hp": 2025,
+                    "mp": 20,
+                    "ap": 140,
+                    "guil": 125,
+                    "reward": "Abilitosfera x1",
+                    "steal": {
+                        "normal": "Granata fossile x1",
+                        "rare": "Granata fossile x1"
+                    },
+                    "nemitec": "Fossilspiro"
+                }
+            },
+            "Ochu": {
+                "name": "Ochu",
+                "createsChampion": "",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 180000,
+                    "reward": "Panacea x 70"
+                },
+                "weaponReward": ["Perforazione, ATT Veleno, ATT Fis +5%, ATT Mag+5%", "DIF Blind, DIF Mutismo, DIF Sonno, DIF Veleno,DIF Pietra, DIF Caos, DIF Berserk"],
+                "stats": {
+                    "hp": 7200,
+                    "mp": 35,
+                    "ap": 180,
+                    "guil": 520,
+                    "reward": "Energosfera x1",
+                    "steal": {
+                        "normal": "Panacea x1",
+                        "rare": "Panacea x2"
+                    },
+                    "nemitec": "."
+                }
+            }
+        },
+        "Piana Dei Lampi": {
+            "Meryujin": {
+                "name": "Meryujin",
+                "createsChampion": "Ornitorestes",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 6625,
+                    "reward": "Granata fossile x 4"
+                },
+                "weaponReward": ["Perforazione, Fuocattacco, Tuonattacco,Acquattacco, Gelattacco, Induttore V", "DIF Lentezza, DIF Fis +3%"],
+                "stats": {
+                    "hp": 265,
+                    "mp": 65,
+                    "ap": 92,
+                    "guil": 108,
+                    "reward": "Velocisfera x1",
+                    "steal": {
+                        "normal": "Ago dorato x1",
+                        "rare": "Granata fossile x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Aroj": {
+                "name": "Aroj",
+                "createsChampion": "Vizalsha",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 5000,
+                    "reward": "Razzo Fulminante x 4"
+                },
+                "weaponReward": ["Perforazione, Tuonattacco, Induttore M", "Tuono -50%, Immunotuono, DIF Mag +5%"],
+                "stats": {
+                    "hp": 200,
+                    "mp": 220,
+                    "ap": 92,
+                    "guil": 144,
+                    "reward": "Magicosfera x1",
+                    "steal": {
+                        "normal": "Razzo elettrico x1",
+                        "rare": "Razzo fulminante x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Buel": {
+                "name": "Buel",
+                "createsChampion": "Unioculum",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 5750,
+                    "reward": "Stricnina x 2"
+                },
+                "weaponReward": ["Perforaz., Fuocattac., Tuonattac., Acquattac.,Gelattac., ATT Fis +3%, ATT Mag +3%, Induttore V", "DIF Caos, MP +5%"],
+                "stats": {
+                    "hp": 230,
+                    "mp": 250,
+                    "ap": 92,
+                    "guil": 132,
+                    "reward": "Velocisfera x1",
+                    "steal": {
+                        "normal": "Granpozione x1",
+                        "rare": "Stricnina x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Elemento Dorato": {
+                "name": "Elemento Dorato",
+                "createsChampion": "Elemento Nega",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 30000,
+                    "reward": "Razzo Fulminante x 20"
+                },
+                "weaponReward": ["Perforazione, Tuonattacco, Induttore M", "Tuono -50%, Immunotuono"],
+                "stats": {
+                    "hp": 1200,
+                    "mp": 180,
+                    "ap": 92,
+                    "guil": 107,
+                    "reward": "Magicosfera x1",
+                    "steal": {
+                        "normal": "Razzo elettrico x1",
+                        "rare": "Razzo elettrico x2"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Kusarik": {
+                "name": "Kusarik",
+                "createsChampion": "Fefnil",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 11125,
+                    "reward": "Clessidra d'Argento x 20"
+                },
+                "weaponReward": ["Perforazione, Fuocattacco, Tuonattacco, Acquattacco, Gelattacco,Induttore E", "DIF Lentezza, DIF Fis +5%"],
+                "stats": {
+                    "hp": 445,
+                    "mp": 31,
+                    "ap": 92,
+                    "guil": 111,
+                    "reward": "Energosfera x1",
+                    "steal": {
+                        "normal": "Granpozione x1",
+                        "rare": "Clessidra d'argento x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Larva": {
+                "name": "Larva",
+                "createsChampion": "",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 37450,
+                    "reward": "Spina Iperica x 10"
+                },
+                "weaponReward": ["Perforazione, Tuonattacco", "Tuono -50%"],
+                "stats": {
+                    "hp": 1498,
+                    "mp": 1000,
+                    "ap": 262,
+                    "guil": 330,
+                    "reward": "Abilitosfera x1",
+                    "steal": {
+                        "normal": "Cortina lunare x1",
+                        "rare": "Cortina lunare x2"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Thytan": {
+                "name": "Thytan",
+                "createsChampion": "Clod D'acciaio",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 90000,
+                    "reward": "Filtro Energetico x 1"
+                },
+                "weaponReward": ["Perforazione, ATT Fis +5%, ATT Fis +10%, ATTMag +5%, ATT Mag +10%", "Riserva Rigene, HP +5%, HP +10%"],
+                "stats": {
+                    "hp": 3600,
+                    "mp": 1,
+                    "ap": 800,
+                    "guil": 600,
+                    "reward": "Energosfera x2",
+                    "steal": {
+                        "normal": "Cortina luminosa x1",
+                        "rare": "Cortina luminosa x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Kyactus": {
+                "name": "Kyactus",
+                "createsChampion": "",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "weaponReward": ["Perforazione, Priorità", "Maratona x HP, Maratona x MP, HP +10%"],
+                "stats": {
+                    "hp": 800,
+                    "mp": 1,
+                    "ap": 8000,
+                    "guil": 1500,
+                    "reward": "Velocisfera x2",
+                    "steal": {
+                        "normal": "Coda di chocobo x1",
+                        "rare": "Piuma di chocobo x1"
+                    },
+                    "nemitec": false
+                }
+            }
+        },
+        "Macalania": {
+            "Lupo Delle Nevi": {
+                "name": "Lupo Delle Nevi",
+                "createsChampion": "Fenril",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 10000,
+                    "reward": "Melatonina x 11"
+                },
+                "weaponReward": ["Perforazione, Fuocattacco, Tuonattacco,Acquattacco, Gelattacco, Induttore E", "DIF Mutismo, DIF Sonno, DIF Mag +3%"],
+                "stats": {
+                    "hp": 400,
+                    "mp": 50,
+                    "ap": 300,
+                    "guil": 195,
+                    "reward": "Energosfera x1",
+                    "steal": {
+                        "normal": "Melatonina x1",
+                        "rare": "Melatonina x2"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Shumelke": {
+                "name": "Shumelke",
+                "createsChampion": "",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 9250,
+                    "reward": "Granata Fossile x 5"
+                },
+                "weaponReward": ["Perforazione, Fuocattacco, Tuonattacco,Acquattacco, Gelattacco, Induttore V", "DIF Lentezza, DIF Fis +5%"],
+                "stats": {
+                    "hp": 370,
+                    "mp": 70,
+                    "ap": 240,
+                    "guil": 138,
+                    "reward": "Velocisfera x1",
+                    "steal": {
+                        "normal": "Ago dorato x1",
+                        "rare": "Granata fossile x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Vespa": {
+                "name": "Vespa",
+                "createsChampion": "Honet",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 9000,
+                    "reward": "Zanna Velenosa x 3"
+                },
+                "weaponReward": ["Perforazione, Fuocattacco, Tuonattacco,Acquattacco, Gelattacco, Induttore V", "DIF Veleno, MP +10%"],
+                "stats": {
+                    "hp": 360,
+                    "mp": 30,
+                    "ap": 240,
+                    "guil": 142,
+                    "reward": "Velocisfera x1",
+                    "steal": {
+                        "normal": "Granpozione x1",
+                        "rare": "Zanna velenosa x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Occhio Diabolico": {
+                "name": "Occhio Diabolico",
+                "createsChampion": "Unioculum",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 7750,
+                    "reward": "Stricnina x 3"
+                },
+                "weaponReward": ["Perforaz.,Fuocattac., Tuonattac., Acquattac., Gelattac., ATT Fis +3%, ATT Mag+3%, Induttore V", "DIF Caos, MP +10%"],
+                "stats": {
+                    "hp": 430,
+                    "mp": 310,
+                    "ap": 480,
+                    "guil": 220,
+                    "reward": "Velocisfera x1",
+                    "steal": {
+                        "normal": "Stricnina x1",
+                        "rare": "Stricnina x2"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Budino Di Ghiaccio": {
+                "name": "Budino Di Ghiaccio",
+                "createsChampion": "Budino Jumbo",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 33750,
+                    "reward": "Criomagilite x 9"
+                },
+                "weaponReward": ["Perforazione, Gelattacco, Induttore M", "Gelo +50%, Immunofuoco"],
+                "stats": {
+                    "hp": 1350,
+                    "mp": 160,
+                    "ap": 300,
+                    "guil": 188,
+                    "reward": "Magicosfera x1",
+                    "steal": {
+                        "normal": "Vento antartico x1",
+                        "rare": "Vento antartico x2"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Elemento Blu": {
+                "name": "Elemento Blu",
+                "createsChampion": "Elemento Nega",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 375000,
+                    "reward": "Idromagilite x 19"
+                },
+                "weaponReward": ["Perforazione, Acquattacco, Induttore M", "Acqua -50%, Immunoacqua"],
+                "stats": {
+                    "hp": 1500,
+                    "mp": 220,
+                    "ap": 240,
+                    "guil": 180,
+                    "reward": "Magicosfera x1",
+                    "steal": {
+                        "normal": "Squame di pesce x2",
+                        "rare": "Squame di pesce x3"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Mulfus": {
+                "name": "Mulfus",
+                "createsChampion": "Tanket",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 14500,
+                    "reward": "Hypellina x 24"
+                },
+                "weaponReward": ["Perforazione, Fuocattacco, Tuonattacco,Acquattacco, Gelattacco, Induttore E", "DIF Berserk, DIF Fis +5%"],
+                "stats": {
+                    "hp": 580,
+                    "mp": 20,
+                    "ap": 240,
+                    "guil": 165,
+                    "reward": "Energosfera x1",
+                    "steal": {
+                        "normal": "Granpozione x1",
+                        "rare": "Hypellina x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Mafut": {
+                "name": "Mafut",
+                "createsChampion": "Tanket",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 17750,
+                    "reward": "Hypellina x 28"
+                },
+                "weaponReward": ["Perforazione, Fuocattacco, Tuonattacco,Acquattacco, Gelattacco, Induttore E", "DIF Berserk, DIF Fis +5%"],
+                "stats": {
+                    "hp": 710,
+                    "mp": 25,
+                    "ap": 300,
+                    "guil": 172,
+                    "reward": "Energosfera x1",
+                    "steal": {
+                        "normal": "Granpozione x1",
+                        "rare": "Hypellina x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Kushipos": {
+                "name": "Kushipos",
+                "createsChampion": "",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 67500,
+                    "reward": "Megaelisir x 1"
+                },
+                "weaponReward": ["Perforazione, Fuocattacco, Induttore E", "Immunofuoco, Mangiafuoco"],
+                "stats": {
+                    "hp": 20000,
+                    "mp": 180,
+                    "ap": 3200,
+                    "guil": 970,
+                    "reward": "Magicosfera x1",
+                    "steal": {
+                        "normal": "Magmagilite x3",
+                        "rare": "Magmagilite x4"
+                    },
+                    "nemitec": "Kamikaze"
+                }
+            },
+            "Chimera": {
+                "name": "Chimera",
+                "createsChampion": "",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 131250,
+                    "reward": "Nettare Magico x 10"
+                },
+                "weaponReward": ["Perforazione, ATT Mag +5%, ATT Mag +10%, Induttore M", "DIF Mag +10%"],
+                "stats": {
+                    "hp": 9000,
+                    "mp": 200,
+                    "ap": 2000,
+                    "guil": 980,
+                    "reward": "Abilitosfera x1",
+                    "steal": {
+                        "normal": "Vento Antartico x3",
+                        "rare": "Razzo Fulminante x3"
+                    },
+                    "nemitec": "Idrorespiro"
+                }
+            }
+        },
+        "Bikanel": {
+            "Lupo Del Deserto": {
+                "name": "Lupo Del Deserto",
+                "createsChampion": "Fenril",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 11250,
+                    "reward": "Melatonina x 12"
+                },
+                "weaponReward": ["Perforazione, Fuocattacco, Tuonattacco,Acquattacco, Gelattacco, Induttore E", "DIF Mutismo, DIF Sonno, DIF Mag +3%"],
+                "stats": {
+                    "hp": 450,
+                    "mp": 55,
+                    "ap": 310,
+                    "guil": 225,
+                    "reward": "Energosfera x1, Albhedina x1",
+                    "steal": {
+                        "normal": "Melatonina x2",
+                        "rare": "Melatonina x2"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Alcione": {
+                "name": "Alcione",
+                "createsChampion": "Pterix",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 10750,
+                    "reward": "Megafenice x 2"
+                },
+                "weaponReward": ["Spot, Perforazione, Induttore V", "DIF Blind, DIF Mag +5%"],
+                "stats": {
+                    "hp": 430,
+                    "mp": 42,
+                    "ap": 310,
+                    "guil": 240,
+                    "reward": "Velocisfera x1, Albhedina x1",
+                    "steal": {
+                        "normal": "Lacrimogeno x1",
+                        "rare": "Lacrimogeno x2"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Mushuhushu": {
+                "name": "Mushuhushu",
+                "createsChampion": "Fefnil",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 17000,
+                    "reward": "Clessidra d'Oro x 5"
+                },
+                "weaponReward": ["Perforazione, Fuocattacco, Tuonattacco,Acquattacco, Gelattacco, Induttore E", "DIF Lentezza, HP +10%"],
+                "stats": {
+                    "hp": 680,
+                    "mp": 38,
+                    "ap": 310,
+                    "guil": 270,
+                    "reward": "Energosfera x1, Albhedina x1",
+                    "steal": {
+                        "normal": "Granpozione x1",
+                        "rare": "Clessidra d'argento x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Zuu": {
+                "name": "Zuu",
+                "createsChampion": "",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 450000,
+                    "reward": "Tecnisfera x 2"
+                },
+                "weaponReward": ["Perforazione, ATT Blind, ATT Fis +5%, ATT Mag+5%", "DIF Blind"],
+                "stats": {
+                    "hp": 18000,
+                    "mp": 50,
+                    "ap": 1200,
+                    "guil": 1200,
+                    "reward": "Energosfera x1, Albhedina x1",
+                    "steal": {
+                        "normal": "Lacrimogeno x3",
+                        "rare": "Lacrimogeno x4"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Anellidus": {
+                "name": "Anellidus",
+                "createsChampion": "",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 1125000,
+                    "reward": "Equazione Cubica x 15"
+                },
+                "weaponReward": ["Perforazione, ATT Lentezza, ATT Fis +5%, ATTMag +5%", "HP +10%, Autopozione"],
+                "stats": {
+                    "hp": 4500,
+                    "mp": 100,
+                    "ap": 2000,
+                    "guil": 1000,
+                    "reward": "Abilitosfera x2",
+                    "steal": {
+                        "normal": "Neromagilite x1",
+                        "rare": "Fluido Energetico x2"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Kyactus?": {
+                "name": "Kyactus?",
+                "createsChampion": "",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "weaponReward": ["Perforazione, Priorità, ATT Fis +5%, ATT Mag +5%", "Maratona x HP, Maratona x MP, HP +5%"],
+                "stats": {
+                    "hp": 500,
+                    "mp": 1,
+                    "ap": 350,
+                    "guil": 1500,
+                    "reward": "Velocisfera x1",
+                    "steal": {
+                        "normal": "Coda di chocobo x1",
+                        "rare": "Coda di chocobo x1"
+                    },
+                    "nemitec": false
+                }
+            }
+        },
+        "Piana Della Bonaccia": {
+            "Scoor": {
+                "name": "Scoor",
+                "createsChampion": "Fenril",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 25000,
+                    "reward": "Onirolina x 12"
+                },
+                "weaponReward": ["Perforazione, Fuocattacco, Tuonattacco,Acquattacco, Gelattacco, Induttore E", "DIF Mutismo, DIF Sonno"],
+                "stats": {
+                    "hp": 1000,
+                    "mp": 60,
+                    "ap": 480,
+                    "guil": 420,
+                    "reward": "Energosfera x1",
+                    "steal": {
+                        "normal": "Onirolina x1",
+                        "rare": "Onirolina x2"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Nebiros": {
+                "name": "Nebiros",
+                "createsChampion": "Honet",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 17500,
+                    "reward": "Zanna Velenosa x 6"
+                },
+                "weaponReward": ["Perforazione, Fuocattacco, Tuonattacco,Acquattacco, Gelattacco, Induttore V", "DIF Veleno"],
+                "stats": {
+                    "hp": 700,
+                    "mp": 65,
+                    "ap": 480,
+                    "guil": 320,
+                    "reward": "Magicosfera x1",
+                    "steal": {
+                        "normal": "Zanna velenosa x1",
+                        "rare": "Zanna velenosa x2"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Budino Di Fiamme": {
+                "name": "Budino Di Fiamme",
+                "createsChampion": "Budino Jumbo",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 37500,
+                    "reward": "Magmagilite x 10"
+                },
+                "weaponReward": ["Perforazione, Fuocattacco, Induttore M", "Fuoco +50%, Immunofuoco"],
+                "stats": {
+                    "hp": 1500,
+                    "mp": 200,
+                    "ap": 480,
+                    "guil": 448,
+                    "reward": "Magicosfera x1",
+                    "steal": {
+                        "normal": "Magmagilite x1",
+                        "rare": "Magmagilite x2"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Shred": {
+                "name": "Shred",
+                "createsChampion": "Tanket",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 48750,
+                    "reward": "Hypellina x 50"
+                },
+                "weaponReward": ["Perforazione, Fuocattacco, Tuonattacco,Acquattacco, Gelattacco, Induttore E", "DIF Berserk"],
+                "stats": {
+                    "hp": 1950,
+                    "mp": 30,
+                    "ap": 480,
+                    "guil": 368,
+                    "reward": "Velocisfera x1",
+                    "steal": {
+                        "normal": "Hypellina x1",
+                        "rare": "Hypellina x2"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Anacondar": {
+                "name": "Anacondar",
+                "createsChampion": "",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 145000,
+                    "reward": "Acqua Curativa x 16"
+                },
+                "weaponReward": ["Perforazione, ATT Pietra, ATT Fis +5%, ATT Mag+5%", "DIF Pietra"],
+                "stats": {
+                    "hp": 5800,
+                    "mp": 70,
+                    "ap": 1380,
+                    "guil": 750,
+                    "reward": "Energosfera x1",
+                    "steal": {
+                        "normal": "Granata Fossile x1",
+                        "rare": "Granata Fossile x2"
+                    },
+                    "nemitec": "Fossilspiro"
+                }
+            },
+            "Hoga": {
+                "name": "Hoga",
+                "createsChampion": "",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 235000,
+                    "reward": "Fluido Energetico x 50"
+                },
+                "weaponReward": ["Perforazione, ATT Fis +5%, ATT Mag +5%,Contrattacco", "Riserva Haste, HP +10%"],
+                "stats": {
+                    "hp": 9400,
+                    "mp": 3,
+                    "ap": 1080,
+                    "guil": 980,
+                    "reward": "Energosfera x1",
+                    "steal": {
+                        "normal": "Fluido energetico x1",
+                        "rare": "Fluido energetico x2"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Iaguaro": {
+                "name": "Iaguaro",
+                "createsChampion": "",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 150000,
+                    "reward": "Empatosfera x 2"
+                },
+                "weaponReward": ["Perforazione, ATT Morte +, ATT Fis +5%, ATTMag +5%, ATT Mag +10%", "DIF Morte, DIF Fis +10%, DIFMag +10%"],
+                "stats": {
+                    "hp": 6000,
+                    "mp": 480,
+                    "ap": 1300,
+                    "guil": 1100,
+                    "reward": "Magicosfera x1",
+                    "steal": {
+                        "normal": "Fluido magico x1",
+                        "rare": "Fluido magico x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Chimera Brain": {
+                "name": "Chimera Brain",
+                "createsChampion": "",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 245000,
+                    "reward": "Passosfera lv 4 x 2"
+                },
+                "weaponReward": ["Perforazione, ATT Mag +5%, ATT Mag +10%, Induttore M", "DIF Mag +10%"],
+                "stats": {
+                    "hp": 9800,
+                    "mp": 250,
+                    "ap": 1200,
+                    "guil": 1000,
+                    "reward": "Abilitosfera x1",
+                    "steal": {
+                        "normal": "Criomagilite x1",
+                        "rare": "Elettromagilite x2"
+                    },
+                    "nemitec": "Idrorespiro"
+                }
+            },
+            "Molboro": {
+                "name": "Molboro",
+                "createsChampion": "",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 675000,
+                    "reward": "Ali per l'Ignoto x 4"
+                },
+                "weaponReward": ["Perforazione, ATT Blind, ATT Mutismo, ATTSonno, ATT Veleno", "DIF Blind, DIF Mutismo, DIF Sonno, DIF Veleno,DIF Pietra, DIF Caos, DIF Berserk"],
+                "stats": {
+                    "hp": 27000,
+                    "mp": 1,
+                    "ap": 2300,
+                    "guil": 1500,
+                    "reward": "Magicosfera x2",
+                    "steal": {
+                        "normal": "Panacea x1",
+                        "rare": "Panacea x1"
+                    },
+                    "nemitec": "Alito fetido"
+                }
+            }
+        },
+        "Grotta Del Crepaccio": {
+            "Yowie": {
+                "name": "Yowie",
+                "createsChampion": "Ornitorestes",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 22500,
+                    "reward": "Granata Fossile x 12"
+                },
+                "weaponReward": ["Perforazione, Fuocattacco, Tuonattacco,Acquattacco, Gelattacco, Induttore V", "DIF Lentezza"],
+                "stats": {
+                    "hp": 900,
+                    "mp": 95,
+                    "ap": 810,
+                    "guil": 480,
+                    "reward": "Velocisfera x1",
+                    "steal": {
+                        "normal": "Ago dorato x1",
+                        "rare": "Granata fossile x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Galkimasela": {
+                "name": "Galkimasela",
+                "createsChampion": "Vizalsha",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 22000,
+                    "reward": "Passosfera lv 1 x 4"
+                },
+                "weaponReward": ["Perforazione,Tuonattacco, Induttore M", "Tuono -50%, Immunotuono"],
+                "stats": {
+                    "hp": 880,
+                    "mp": 300,
+                    "ap": 770,
+                    "guil": 610,
+                    "reward": "Magicosfera x1",
+                    "steal": {
+                        "normal": "Elettromagilite x1",
+                        "rare": "Elettromagilite x2"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Elemento Scuro": {
+                "name": "Elemento Scuro",
+                "createsChampion": "Elemento Nega",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 45000,
+                    "reward": "Gamberosfera x 3"
+                },
+                "weaponReward": ["Perforazione, Fuocattacco, Tuonattacco,Acquattacco, Gelattacco, Induttore M", "Fuoco -50%, Tuono -50%, Immunotuono, Acqua-50%, Gelo -50%"],
+                "stats": {
+                    "hp": 1800,
+                    "mp": 280,
+                    "ap": 810,
+                    "guil": 520,
+                    "reward": "Magicosfera x1",
+                    "steal": {
+                        "normal": "Spina iperica x1",
+                        "rare": "Spina iperica x2"
+                    },
+                    "nemitec": ""
+                }
+            },
+            "Heg": {
+                "name": "Heg",
+                "createsChampion": "Fefnil",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 50000,
+                    "reward": "Clessidra d'Oro x 12"
+                },
+                "weaponReward": ["Perforazione, Fuocattacco, Tuonattacco,Acquattacco, Gelattacco, Induttore E", "DIF Lentezza"],
+                "stats": {
+                    "hp": 2000,
+                    "mp": 46,
+                    "ap": 810,
+                    "guil": 602,
+                    "reward": "Energosfera x1",
+                    "steal": {
+                        "normal": "Granpozione x1",
+                        "rare": "Clessidra d'oro x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Son": {
+                "name": "Son",
+                "createsChampion": "Sonnellino",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 102000,
+                    "reward": "Turboetere x 16"
+                },
+                "weaponReward": ["Perforazione,ATT Sonno, ATT Fis +3%, ATT Fis +5%, ATT Mag +3%, ATT Mag +5%", "DIF Sonno, MP +5%"],
+                "stats": {
+                    "hp": 4080,
+                    "mp": 120,
+                    "ap": 830,
+                    "guil": 530,
+                    "reward": "Magicosfera x1",
+                    "steal": {
+                        "normal": "Mina Tacet x2",
+                        "rare": "Etere x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Varaha": {
+                "name": "Varaha",
+                "createsChampion": "Juggernaut",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 217500,
+                    "reward": "Extrapozione x 60"
+                },
+                "weaponReward": ["Perforazione, Fuocattacco, ATT Mutismo,Induttore A", "HP +10%"],
+                "stats": {
+                    "hp": 8700,
+                    "mp": 29,
+                    "ap": 1320,
+                    "guil": 720,
+                    "reward": "Abilitosfera x1",
+                    "steal": {
+                        "normal": "Granpozione x1",
+                        "rare": "Granpozione x2"
+                    },
+                    "nemitec": "Pirosbolle"
+                }
+            },
+            "Epej": {
+                "name": "Epej",
+                "createsChampion": "",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 217500,
+                    "reward": "Vento d'Oltremondo x 25"
+                },
+                "weaponReward": ["Perforazione, ATT Fis +5%, ATT Mag +5%,Riserva Turbo", "DIF Fis +5%"],
+                "stats": {
+                    "hp": 8700,
+                    "mp": 20,
+                    "ap": 970,
+                    "guil": 950,
+                    "reward": "Abilitosfera x2",
+                    "steal": {
+                        "normal": "Granpozione x1",
+                        "rare": "Granpozione x2"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Fantasma": {
+                "name": "Fantasma",
+                "createsChampion": "",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 249975,
+                    "reward": "Megafenice x 38"
+                },
+                "weaponReward": ["Perforazione, ATT Mag +5%, ATT Mag +10%,Induttore M", "DIF Morte, MP +10%, Incontri 0"],
+                "stats": {
+                    "hp": 9999,
+                    "mp": 350,
+                    "ap": 1450,
+                    "guil": 810,
+                    "reward": "Magicosfera x1",
+                    "steal": {
+                        "normal": "Coda di fenice x1",
+                        "rare": "Ombra d'Oltremondo x1"
+                    },
+                    "nemitec": "Sentenza"
+                }
+            },
+            "Tomberry": {
+                "name": "Tomberry",
+                "createsChampion": "",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 337500,
+                    "reward": "Amuleto x 2"
+                },
+                "weaponReward": ["Perforazione, ATT Morte, ATT Lentezza", "DIF Morte"],
+                "stats": {
+                    "hp": 13500,
+                    "mp": 1,
+                    "ap": 6500,
+                    "guil": 2000,
+                    "reward": "Energosfera x1",
+                    "steal": {
+                        "normal": "Granpozione x1",
+                        "rare": "Ombra d'Oltremondo x1"
+                    },
+                    "nemitec": false
+                }
+            }
+        },
+        "Monte Gagazet": {
+            "Mal Bernardo": {
+                "name": "Mal Bernardo",
+                "createsChampion": "Fenril",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 45000,
+                    "reward": "Onirolina x 20"
+                },
+                "weaponReward": ["Perforaz.,Fuocattac., Tuonattac., Acquattac., Gelattac., Induttore E, ATT Fis+3%, ATT Mag +3%", "DIF Mutismo, DIF Sonno"],
+                "stats": {
+                    "hp": 1800,
+                    "mp": 75,
+                    "ap": 820,
+                    "guil": 880,
+                    "reward": "Energosfera x1",
+                    "steal": {
+                        "normal": "Onirolina x2",
+                        "rare": "Onirolina x3"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Alyman": {
+                "name": "Alyman",
+                "createsChampion": "Unioculum",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 70000,
+                    "reward": "Vento d'Oltremondo x 6"
+                },
+                "weaponReward": ["Perforazione, Fuocattacco, Tuonattacco,Acquattacco, Gelattacco, Att Fis +5%, ATT Mag +5%", "DIF Caos"],
+                "stats": {
+                    "hp": 2800,
+                    "mp": 400,
+                    "ap": 2200,
+                    "guil": 750,
+                    "reward": "Velocisfera x1",
+                    "steal": {
+                        "normal": "Stricnina x2",
+                        "rare": "Stricnina x3"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Budino Oscuro": {
+                "name": "Budino Oscuro",
+                "createsChampion": "Budino Jumbo",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 320000,
+                    "reward": "MBiancosfera x 2"
+                },
+                "weaponReward": ["Perforazione, ATT Mag +5%, ATT Mag +10%,Induttore M", "MP +10%, MP +20%"],
+                "stats": {
+                    "hp": 12800,
+                    "mp": 250,
+                    "ap": 3750,
+                    "guil": 1080,
+                    "reward": "Magicosfera x1",
+                    "steal": {
+                        "normal": "Cortina stellare x1",
+                        "rare": "Cortina stellare x2"
+                    },
+                    "nemitec": "Vento bianco"
+                }
+            },
+            "Granad": {
+                "name": "Granad",
+                "createsChampion": "Re Piros",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 187500,
+                    "reward": "Eliomagilite x 12"
+                },
+                "weaponReward": ["Perforazione,Fuocattacco, Induttore M", "Fuoco -50%, Immunofuoco"],
+                "stats": {
+                    "hp": 7500,
+                    "mp": 63,
+                    "ap": 1350,
+                    "guil": 540,
+                    "reward": "Energosfera x1",
+                    "steal": {
+                        "normal": "Magmagilite x2",
+                        "rare": "Magmagilite x3"
+                    },
+                    "nemitec": "Kamikaze"
+                }
+            },
+            "Grat": {
+                "name": "Grat",
+                "createsChampion": "",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 100000,
+                    "reward": "Panacea x 40"
+                },
+                "weaponReward": ["Perforazione, ATT Veleno, ATT Fis +5%, ATT Mag+5%", "DIF Veleno, HP +5%, HP +10%"],
+                "stats": {
+                    "hp": 4000,
+                    "mp": 25,
+                    "ap": 980,
+                    "guil": 520,
+                    "reward": "Magicosfera x1",
+                    "steal": {
+                        "normal": "Antidoto x4",
+                        "rare": "Panacea x3"
+                    },
+                    "nemitec": "Cerbottana"
+                }
+            },
+            "Grendel": {
+                "name": "Grendel",
+                "createsChampion": "Juggernaut",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 237500,
+                    "reward": "Megapozione x 60"
+                },
+                "weaponReward": ["Perforazione, Fuocattacco, ATT Mutismo,Induttore A", "HP +10%"],
+                "stats": {
+                    "hp": 9500,
+                    "mp": 62,
+                    "ap": 2600,
+                    "guil": 730,
+                    "reward": "Abilitosfera x1",
+                    "steal": {
+                        "normal": "Granpozione x1",
+                        "rare": "Megapozione x1"
+                    },
+                    "nemitec": "Pirosbolle"
+                }
+            },
+            "Ashoor": {
+                "name": "Ashoor",
+                "createsChampion": "",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 425000,
+                    "reward": "Fluido Energetico x 80"
+                },
+                "weaponReward": ["Perforazione, ATT Fis +5%, ATT Mag +5%,Contrattacco", "Riserva Haste, HP +10%"],
+                "stats": {
+                    "hp": 17000,
+                    "mp": 5,
+                    "ap": 1860,
+                    "guil": 730,
+                    "reward": "Energosfera x1",
+                    "steal": {
+                        "normal": "Fluido vitale x1",
+                        "rare": "Fluido vitale x2"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Mandragora": {
+                "name": "Mandragora",
+                "createsChampion": "",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 775000,
+                    "reward": "Gamberosfera x 24"
+                },
+                "weaponReward": ["Perforazione, ATT Veleno, ATT Fis +5%, ATT Mag+5%", "DIF Blind, DIFMutismo, DIF Sonno, DIF Veleno, DIF Pietra, DIF Caos, DIF Berserk"],
+                "stats": {
+                    "hp": 31000,
+                    "mp": 120,
+                    "ap": 6230,
+                    "guil": 1200,
+                    "reward": "Magicosfera x1",
+                    "steal": {
+                        "normal": "Panacea x2",
+                        "rare": "Panacea x3"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Behemoth": {
+                "name": "Behemoth",
+                "createsChampion": "",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 575000,
+                    "reward": "Passosfera lv 2 x 30"
+                },
+                "weaponReward": ["Perforazione, ATT Zombie, ATT Fis +5%, ATT Mag+5%, Riserva Turbo", "Riserva Shell, Riserva Protect, Riserva Reflex"],
+                "stats": {
+                    "hp": 23000,
+                    "mp": 480,
+                    "ap": 6540,
+                    "guil": 1350,
+                    "reward": "Energosfera x1",
+                    "steal": {
+                        "normal": "Etere x1",
+                        "rare": "Nettare energetico x1"
+                    },
+                    "nemitec": "Difesa totale"
+                }
+            },
+            "Splasher": {
+                "name": "Splasher",
+                "createsChampion": "",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 5000,
+                    "reward": "Squame di Drago x 4"
+                },
+                "weaponReward": ["Perforazione, Acquattacco, ATT Fis +5%, ATTMag +5%", "HP +5%, DIF Fis +3%"],
+                "stats": {
+                    "hp": 200,
+                    "mp": 2,
+                    "ap": 140,
+                    "guil": 100,
+                    "reward": "Energosfera x1",
+                    "steal": {
+                        "normal": "Granata x1",
+                        "rare": "Blindogranata x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Aquelous": {
+                "name": "Aquelous",
+                "createsChampion": "",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 127500,
+                    "reward": "Fluido Rigenerante x 16"
+                },
+                "weaponReward": ["Perforazione, ATT Fis +5%, ATT Mag +10%", "MP +10%, Autopanacea"],
+                "stats": {
+                    "hp": 5100,
+                    "mp": 85,
+                    "ap": 730,
+                    "guil": 420,
+                    "reward": "Energosfera x1",
+                    "steal": {
+                        "normal": "Idromagilite x2",
+                        "rare": "Fluido Rigenerante x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Echeneis": {
+                "name": "Echeneis",
+                "createsChampion": "",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 250000,
+                    "reward": "Parametrosfera x 1"
+                },
+                "weaponReward": ["Perforazione, ATT Fis +3%, ATT Fis +5%", "DIF Zombie, DIF Fis +5%, DIFFis +10%"],
+                "stats": {
+                    "hp": 10000,
+                    "mp": 35,
+                    "ap": 600,
+                    "guil": 330,
+                    "reward": "Magicosfera x1",
+                    "steal": {
+                        "normal": "Idromagilite x2",
+                        "rare": "Idromagilite x3"
+                    },
+                    "nemitec": false
+                }
+            }
+        },
+        "Dentro Sin": {
+            "Exoray": {
+                "name": "Exoray",
+                "createsChampion": "Sonnellino",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 185000,
+                    "reward": "Turboetere x 30"
+                },
+                "weaponReward": ["Perforazione, ATT Sonno, ATT Fis +5%, ATT Mag+5%", "DIF Sonno, MP +10%"],
+                "stats": {
+                    "hp": 7400,
+                    "mp": 300,
+                    "ap": 2400,
+                    "guil": 840,
+                    "reward": "Magicosfera x1",
+                    "steal": {
+                        "normal": "Mina Tacet x3",
+                        "rare": "Etere x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Alyadin": {
+                "name": "Alyadin",
+                "createsChampion": "",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 555550,
+                    "reward": "Vento d'Oltremondo x 60"
+                },
+                "weaponReward": ["Perforazione, ATT Mag +5%, ATT Mag +10%,Induttore M", "MP+10%, Incontri 0"],
+                "stats": {
+                    "hp": 22222,
+                    "mp": 3500,
+                    "ap": 3100,
+                    "guil": 1070,
+                    "reward": "Magicosfera x1",
+                    "steal": {
+                        "normal": "Ombra d'Oltremondo",
+                        "rare": "Vento d'Oltremondo"
+                    },
+                    "nemitec": "Sentenza"
+                }
+            },
+            "Ultra Might L": {
+                "name": "Ultra Might L",
+                "createsChampion": "Clod D'acciaio",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true
+            },
+            "Ultra Might R": {
+                "name": "Ultra Might R",
+                "createsChampion": "Clod D'acciaio",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true
+            },
+            "Demomonolix": {
+                "name": "Demomonolix",
+                "createsChampion": "",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 1125000,
+                    "reward": "Passosfera lv 3 x 40"
+                },
+                "weaponReward": ["Perforazione, ATT Pietra, ATT Pietra +", "DIF Pietra, DIF Pietra +, Incontri 0"],
+                "stats": {
+                    "hp": 45000,
+                    "mp": 9999,
+                    "ap": 11000,
+                    "guil": 1470,
+                    "reward": "Magicosfera x2",
+                    "steal": {
+                        "normal": "Granata fossile x2",
+                        "rare": "Granata fossile x2"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Molboro Il Grande": {
+                "name": "Molboro Il Grande",
+                "createsChampion": "",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 1600000,
+                    "reward": "Ali per l'Ignoto x 8"
+                },
+                "weaponReward": ["Perforazione, ATT Blind, ATT Mutismo, ATTSonno, ATT Veleno", "DIF Blind, DIF Mutismo, DIF Sonno, DIF Veleno,DIF Pietra, DIF Caos, DIF Berserk"],
+                "stats": {
+                    "hp": 64000,
+                    "mp": 1,
+                    "ap": 21000,
+                    "guil": 1900,
+                    "reward": "Magicosfera x1",
+                    "steal": {
+                        "normal": "Panacea x1",
+                        "rare": "Nettare magico x1"
+                    },
+                    "nemitec": "Alito fetido"
+                }
+            },
+            "Barbatos": {
+                "name": "Barbatos",
+                "createsChampion": "",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 2375000,
+                    "reward": "Telesfera x 20"
+                },
+                "weaponReward": ["Perforazione", "MP +20%"],
+                "stats": {
+                    "hp": 95000,
+                    "mp": 480,
+                    "ap": 17500,
+                    "guil": 1550,
+                    "reward": "Energosfera x1",
+                    "steal": {
+                        "normal": "Cortina stellare x1",
+                        "rare": "Sacromagilite x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Adamanthart": {
+                "name": "Adamanthart",
+                "createsChampion": "",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 1360000,
+                    "reward": "Qualitosfera x 1"
+                },
+                "weaponReward": ["Perforazione, Consumo ½ MP", "Riserva Shell, Riserva Protect, HP +20%"],
+                "stats": {
+                    "hp": 54400,
+                    "mp": 40,
+                    "ap": 12500,
+                    "guil": 2200,
+                    "reward": "Energosfera x2",
+                    "steal": {
+                        "normal": "Acqua Curativa x1",
+                        "rare": "Nettare Energetico"
+                    },
+                    "nemitec": false
+                }
+            },
+            "King Behemoth": {
+                "name": "King Behemoth",
+                "createsChampion": "",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 1687500,
+                    "reward": "Triostella x 14"
+                },
+                "weaponReward": ["Perforazione, ATT Zombie, Riserva Turbo", "Riserva Shell, Riserva Protect, Riserva Reflex"],
+                "stats": {
+                    "hp": 67500,
+                    "mp": 700,
+                    "ap": 16800,
+                    "guil": 1850,
+                    "reward": "Energosfera x1",
+                    "steal": {
+                        "normal": "Fluido rigenerante x1",
+                        "rare": "Duostella x2"
+                    },
+                    "nemitec": false
+                }
+            }
+        },
+        "Rovine Di Omega": {
+            "Zauras": {
+                "name": "Zauras",
+                "createsChampion": "Ornitorestes",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 196250,
+                    "reward": "Carta d'Identità x 10"
+                },
+                "weaponReward": ["Perforazione, Fuocattacco, Tuonattacco,Acquattacco, Gelattacco, Induttore V", "DIF Lentezza, DIF Lentezza +"],
+                "stats": {
+                    "hp": 7850,
+                    "mp": 1,
+                    "ap": 5000,
+                    "guil": 950,
+                    "reward": "Velocisfera x1",
+                    "steal": {
+                        "normal": "Granata fossile x2",
+                        "rare": "Granata fossile x3"
+                    },
+                    "nemitec": ""
+                }
+            },
+            "Byurobolos": {
+                "name": "Byurobolos",
+                "createsChampion": "Re Piros",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 500000,
+                    "reward": "Eliomagilite x 36"
+                }
+            },
+            "Desflot": {
+                "name": "Desflot",
+                "createsChampion": "Unioculum",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 167500,
+                    "reward": "Anima delBaro x 10"
+                },
+                "weaponReward": ["Perforaz., Fuocattac., Tuonattac., Acquattac.,Gelattac., ATT Fis +3%, ATT Mag +3%, Induttore V", "DIF Caos, DIF Caos +, MP+10%"],
+                "stats": {
+                    "hp": 6700,
+                    "mp": 520,
+                    "ap": 7100,
+                    "guil": 1265,
+                    "reward": "Magicosfera x2",
+                    "steal": {
+                        "normal": "Stricnina x4",
+                        "rare": "Stricnina x5"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Elemento Nero": {
+                "name": "Elemento Nero",
+                "createsChampion": "Elemento Nega",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 190000,
+                    "reward": "MNerosfera x 2"
+                },
+                "weaponReward": ["Perforazione, Fuocattacco, Tuonattacco,Acquattacco, Gelattacco, Induttore M", "Fuoco -50%, Immunofuoco, Tuono -50%,Immunotuono, Immunoacqua, Gelo -50%, Immunogelo"],
+                "stats": {
+                    "hp": 7600,
+                    "mp": 500,
+                    "ap": 3150,
+                    "guil": 1040,
+                    "reward": "Magicosfera x1",
+                    "steal": {
+                        "normal": "Granpozione x1",
+                        "rare": "Eliomagilite x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Haruma": {
+                "name": "Haruma",
+                "createsChampion": "Tanket",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 325000,
+                    "reward": "Examagilite x 20"
+                },
+                "weaponReward": ["Perforazione, Fuocattacco, Tuonattacco,Acquattacco, Gelattacco, Induttore E", "DIF Berserk, DIF Berserk +"],
+                "stats": {
+                    "hp": 13000,
+                    "mp": 1,
+                    "ap": 5300,
+                    "guil": 1030,
+                    "reward": "Energosfera x1",
+                    "steal": {
+                        "normal": "Hypellina x3",
+                        "rare": "Neromagilite x2"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Esprit": {
+                "name": "Esprit",
+                "createsChampion": "",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 250000,
+                    "reward": "Duostella x 10"
+                },
+                "weaponReward": ["Perforazione, ATT Sonno, ATT Sonno +", "DIF Sonno +, DIF Mag +20%"],
+                "stats": {
+                    "hp": 10000,
+                    "mp": 700,
+                    "ap": 4300,
+                    "guil": 1300,
+                    "reward": "Magicosfera x1",
+                    "steal": {
+                        "normal": "Fluido energetico x1",
+                        "rare": "Fluido energetico x2"
+                    },
+                    "nemitec": "Vento bianco"
+                }
+            },
+            "Mechy": {
+                "name": "Mechy",
+                "createsChampion": "",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 450000,
+                    "reward": "Piuma di Chocobo x 60"
+                },
+                "weaponReward": ["Perforazione, ATT Fis +5%, ATT Mag +5%,Riserva Turbo", "DIF Fis +10%, DIF Fis +20%"],
+                "stats": {
+                    "hp": 18000,
+                    "mp": 59,
+                    "ap": 83000,
+                    "guil": 1450,
+                    "reward": "Magicosfera x1",
+                    "steal": {
+                        "normal": "Granpozione x2",
+                        "rare": "Filtro energetico x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Master Iaguaro": {
+                "name": "Master Iaguaro",
+                "createsChampion": "",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 325000,
+                    "reward": "Onnisfera x 1"
+                },
+                "weaponReward": ["Perforazione,ATT Morte, ATT Morte +, ATT Fis +5%, ATT Mag +5%, ATT Mag +10%", "DIF Morte, DIF Morte +, DIF Meledizione +, DIFFis +10%, DIF Mag +10%"],
+                "stats": {
+                    "hp": 13000,
+                    "mp": 540,
+                    "ap": 6500,
+                    "guil": 2030,
+                    "reward": "Passosfera Lv 1 x1",
+                    "steal": {
+                        "normal": "Ombra d'Oltremondo x2",
+                        "rare": "Ombra d'Oltremondo x4"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Mastro Tomberry": {
+                "name": "Mastro Tomberry",
+                "createsChampion": "",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 1200000,
+                    "reward": "Pendulum x 3"
+                },
+                "weaponReward": ["Perforazione, ATT Morte +, ATT Lentezza +", "DIF Morte, DIF Morte +"],
+                "stats": {
+                    "hp": 48000,
+                    "mp": 1,
+                    "ap": 20000,
+                    "guil": 2400,
+                    "reward": "Energosfera x1",
+                    "steal": {
+                        "normal": "Fluido magico x1",
+                        "rare": "Tetraelementale x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Varna": {
+                "name": "Varna",
+                "createsChampion": "",
+                "isNeeded": true,
+                "wasCaptured": 0,
+                "capturable": true,
+                "bribe": {
+                    "guil": 1400000,
+                    "reward": "Megaelisir x 2"
+                },
+                "weaponReward": ["Perforazione, ATT Mag +10%, Biturbo", "Riserva Shell, DIF Mag +10%"],
+                "stats": {
+                    "hp": 56000,
+                    "mp": 1,
+                    "ap": 19500,
+                    "guil": 1780,
+                    "reward": "Magicosfera x1",
+                    "steal": {
+                        "normal": "Vento d'Oltremondo x1",
+                        "rare": "Eliomagilite x1"
+                    },
+                    "nemitec": false
+                }
+            }
+        },
+        "Others": {
+            "Autoarmatura": {
+                "name": "Autoarmatura",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "bribe": {
+                    "guil": 217500,
+                    "reward": "Albhedina x 99"
+                },
+                "weaponReward": ["Perforazione, Fuocattacco, Tuonattacco,Acquattacco, Gelattacco", "Riserva: Parafire, Parathund, Paraidro,Parabliz, Shell, Protect, Reflex"],
+                "stats": {
+                    "hp": 8700,
+                    "mp": 1,
+                    "ap": 950,
+                    "guil": 880,
+                    "reward": "Coda di fenice x1",
+                    "steal": {
+                        "normal": "Albhedina x2",
+                        "rare": "Albhedina x3"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Autoartigliere": {
+                "name": "Autoartigliere",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "bribe": {
+                    "guil": 70000,
+                    "reward": "Albhedina x 40"
+                },
+                "weaponReward": ["Perforazione, Fuocattacco, Tuonattacco,Acquattacco, Gelattacco", "Riserva: Parafire, Parathund, Paraidro,Parabliz, Shell, Protect, Reflex"],
+                "stats": {
+                    "hp": 2800,
+                    "mp": 1,
+                    "ap": 540,
+                    "guil": 800,
+                    "reward": "Granpozione x2",
+                    "steal": {
+                        "normal": "Albhedina x1",
+                        "rare": "Albhedina x2"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Autocacciatore": {
+                "name": "Autocacciatore",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "bribe": {
+                    "guil": 137500,
+                    "reward": "Albhedina x 60"
+                },
+                "weaponReward": ["Perforazione, Fuocattacco, Tuonattacco,Acquattacco, Gelattacco", "Riserva: Parafire, Parathund, Paraidro,Parabliz, Shell, Protect, Reflex"],
+                "stats": {
+                    "hp": 5500,
+                    "mp": 1,
+                    "ap": 420,
+                    "guil": 673,
+                    "reward": "Coda di fenice x1",
+                    "steal": {
+                        "normal": "Albhedina x1",
+                        "rare": "Albhedina x2"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Autocommander": {
+                "name": "Autocommander",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "bribe": {
+                    "guil": 92500,
+                    "reward": "Porta sul Domani x 2"
+                },
+                "weaponReward": ["Perforazione, Fuocattacco, Tuonattacco,Acquattacco, Gelattacco", "Riserva: Parafire, Parathund, Paraidro,Parabliz"],
+                "stats": {
+                    "hp": 3700,
+                    "mp": 1,
+                    "ap": 830,
+                    "guil": 530,
+                    "reward": "Granpozione x1",
+                    "steal": {
+                        "normal": "Granata x2",
+                        "rare": "Blindogranata x2"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Autoguardiano": {
+                "name": "Autoguardiano",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "bribe": {
+                    "guil": 32000,
+                    "reward": "Granata x 50"
+                },
+                "weaponReward": ["Perforazione, Fuocattacco, Tuonattacco,Acquattacco, Gelattacco", "Riserva: Parafire, Parathund, Paraidro,Parabliz"],
+                "stats": {
+                    "hp": 1280,
+                    "mp": 1,
+                    "ap": 310,
+                    "guil": 600,
+                    "reward": "Granpozione x1",
+                    "steal": {
+                        "normal": "Granata fossile x2",
+                        "rare": "Granata fossile x3"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Autoscout": {
+                "name": "Autoscout",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "bribe": {
+                    "guil": 68750,
+                    "reward": "Porta sul Domani x 1"
+                },
+                "weaponReward": ["Perforazione, Fuocattacco, Tuonattacco,Acquattacco, Gelattacco", "Riserva: Parafire, Parathund, Paraidro,Parabliz"],
+                "stats": {
+                    "hp": 2750,
+                    "mp": 1,
+                    "ap": 480,
+                    "guil": 384,
+                    "reward": "Granpozione x1",
+                    "steal": {
+                        "normal": "Granata fossile x3",
+                        "rare": "Granata fossile x3"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Balsamiko Grasso": {
+                "name": "Balsamiko Grasso",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "bribe": {
+                    "guil": 318750,
+                    "reward": "Panacea x 99"
+                },
+                "weaponReward": ["Perforazione, ATT Veleno, ATT Fis +3%, ATT Mag+3%", "DIF Veleno, HP +5%, HP +10%"],
+                "stats": {
+                    "hp": 12750,
+                    "mp": 3,
+                    "ap": 540,
+                    "guil": 336,
+                    "reward": "Magicosfera x1",
+                    "steal": {
+                        "normal": "Panacea x2",
+                        "rare": "Stricnina x10"
+                    },
+                    "nemitec": "Cerbottana"
+                }
+            },
+            "Bikorno (covo Albhed)": {
+                "name": "Bikorno (covo Albhed)",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "bribe": {
+                    "guil": 94875,
+                    "reward": "Megapozione x 25"
+                }
+            },
+            "Budino D'acqua (canale Purificatorio Yuna)": {
+                "name": "Budino D'acqua (canale Purificatorio Yuna)",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "bribe": {
+                    "guil": 50625,
+                    "reward": "Idromagilite x 2"
+                }
+            },
+            "Chimera (covo Albhed)": {
+                "name": "Chimera (covo Albhed)",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "bribe": {
+                    "guil": 225000,
+                    "reward": "Controchiave x 15"
+                }
+            },
+            "Dedalarva": {
+                "name": "Dedalarva",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "bribe": {
+                    "guil": 55550,
+                    "reward": "Idromagilite x 14"
+                },
+                "weaponReward": ["Perforazione, ATT Sonno", "DIF Sonno, DIF Mag +5%"],
+                "stats": {
+                    "hp": 2222,
+                    "mp": 1111,
+                    "ap": 1850,
+                    "guil": 620,
+                    "reward": "Abilitosfera x1",
+                    "steal": {
+                        "normal": "Squama di pesce x1",
+                        "rare": "Squama di pesce x2"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Defender": {
+                "name": "Defender",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "bribe": {
+                    "guil": 300000,
+                    "reward": "Nettare Energetico x 20"
+                },
+                "weaponReward": ["Perforazione, ATT Fis +3%, ATT Fis +5%, Induttore E", "Riserva Protect, DIF Fis +10%"],
+                "stats": {
+                    "hp": 12000,
+                    "mp": 1,
+                    "ap": 2700,
+                    "guil": 1300,
+                    "reward": "Energosfera x2",
+                    "steal": {
+                        "normal": "Cortina Lunare x1",
+                        "rare": "Cortina Lunare x2"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Defender Zero": {
+                "name": "Defender Zero",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "bribe": {
+                    "guil": 1057500,
+                    "reward": "Portafoglio Gonfio x 5"
+                },
+                "weaponReward": ["Perforazione, ATT Fis +3%, ATT Fis +5%, ATT Fis +10%, Induttore E", "Riserva Protect, DIF Fis +10%"],
+                "stats": {
+                    "hp": 42300,
+                    "mp": 1,
+                    "ap": 6000,
+                    "guil": 2400,
+                    "reward": "Passosfera Lv 2 x1",
+                    "steal": {
+                        "normal": "Cortina lunare x2",
+                        "rare": "Cortina lunare x2"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Guardia Guado(tempio Di Macalania)": {
+                "name": "Guardia Guado(tempio Di Macalania)",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "bribe": {
+                    "guil": 50000,
+                    "reward": "Etere x 10"
+                }
+            },
+            "Guardia Guado(covo Albhed)": {
+                "name": "Guardia Guado(covo Albhed)",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "bribe": {
+                    "guil": 65000,
+                    "reward": "Extrapozione x 30"
+                }
+            },
+            "Lumbrikus": {
+                "name": "Lumbrikus",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "bribe": {
+                    "guil": 2000000,
+                    "reward": "Materioscura x 2"
+                },
+                "weaponReward": ["Perforazione, ATT Lentezza, ATT Lentezza +,ATT Fis +5%, ATT Mag +5%", "HP +10%, Autopozione"],
+                "stats": {
+                    "hp": 80000,
+                    "mp": 160,
+                    "ap": 22000,
+                    "guil": 2200,
+                    "reward": "Energosfera x1",
+                    "steal": {
+                        "normal": "Fluido energetico x1",
+                        "rare": "Fluido energetico x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Occhio Diabolico (covo Albhed)": {
+                "name": "Occhio Diabolico (covo Albhed)",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "bribe": {
+                    "guil": 10750,
+                    "reward": "Stricnina x 4"
+                }
+            },
+            "Occhio Malvagio": {
+                "name": "Occhio Malvagio",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "bribe": {
+                    "guil": 9500,
+                    "reward": "Mina Tacet x 12"
+                },
+                "weaponReward": ["Perforaz.,Fuocattac., Tuonattac., Acquattac., Gelattac., ATT Fis +3%, ATT Mag+3%, Induttore V", "DIF Caos, MP +10%"],
+                "stats": {
+                    "hp": 380,
+                    "mp": 280,
+                    "ap": 240,
+                    "guil": 320,
+                    "reward": "Velocisfera x1",
+                    "steal": {
+                        "normal": "Granpozione x1",
+                        "rare": "Mina Tacet x2"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Ochu Smarrito": {
+                "name": "Ochu Smarrito",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "bribe": {
+                    "guil": 116225,
+                    "reward": "Panacea x 80"
+                },
+                "weaponReward": ["Perforazione, ATT Veleno, ATT Fis +5%, ATT Mag+5%", "DIF Blind, DIF Mutismo, DIF Sonno, DIF Veleno,DIF Pietra, DIF Caos, DIF Berserk"],
+                "stats": {
+                    "hp": 4649,
+                    "mp": 39,
+                    "ap": 40,
+                    "guil": 420,
+                    "reward": "Emmepisfera x1",
+                    "steal": {
+                        "normal": "Pozione x1",
+                        "rare": "Pozione x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Octopus": {
+                "name": "Octopus",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "bribe": {
+                    "guil": 112500,
+                    "reward": "Fluido Rigenerante x 20"
+                },
+                "weaponReward": ["Perforazione, Acquattacco, ATT Fis +5%, ATTMag +5%", "Acqua -50%, HP +5%"],
+                "stats": {
+                    "hp": 4500,
+                    "mp": 1,
+                    "ap": 700,
+                    "guil": 220,
+                    "reward": "Magicosfera x1",
+                    "steal": {
+                        "normal": "Squame di drago x2",
+                        "rare": "Idromagilite x2"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Paludomafut": {
+                "name": "Paludomafut",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "bribe": {
+                    "guil": 21250,
+                    "reward": "Hypellina x 32"
+                },
+                "weaponReward": ["Perforazione, Fuocattacco, Tuonattacco,Acquattacco, Gelattacco, Induttore E", "DIF Berserk, DIF Fis +5%"],
+                "stats": {
+                    "hp": 850,
+                    "mp": 1,
+                    "ap": 240,
+                    "guil": 290,
+                    "reward": "Energosfera x1",
+                    "steal": {
+                        "normal": "Granpozione x1",
+                        "rare": "Hypellina x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Phlegyas": {
+                "name": "Phlegyas",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "bribe": {
+                    "guil": 42000,
+                    "reward": "Fluido Rigenerante x 6"
+                },
+                "weaponReward": ["Perforazione, ATT Fis +5%, ATT Mag +5%", "MP +10%, Autopanacea"],
+                "stats": {
+                    "hp": 1680,
+                    "mp": 50,
+                    "ap": 650,
+                    "guil": 410,
+                    "reward": "Energosfera x1",
+                    "steal": {
+                        "normal": "Squame di drago x2",
+                        "rare": "Idromagilite x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Piranha": {
+                "name": "Piranha",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "bribe": {
+                    "guil": 1250,
+                    "reward": "Idromagilite x 1"
+                },
+                "stats": {
+                    "hp": 50,
+                    "mp": 1,
+                    "ap": 1,
+                    "guil": 2,
+                    "reward": "Energosfera x1",
+                    "steal": {
+                        "normal": "Granata x1",
+                        "rare": "Granata x2"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Piranha X2": {
+                "name": "Piranha X2",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "bribe": {
+                    "guil": 2500,
+                    "reward": "Idromagilite x 1"
+                },
+                "stats": {
+                    "hp": 100,
+                    "mp": 2,
+                    "ap": 1,
+                    "guil": 3,
+                    "reward": "Magicosfera x1",
+                    "steal": {
+                        "normal": "Granata x1",
+                        "rare": "Granata x2"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Piranha X3": {
+                "name": "Piranha X3",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "bribe": {
+                    "guil": 3750,
+                    "reward": "Idromagilite x 2"
+                },
+                "stats": {
+                    "hp": 150,
+                    "mp": 3,
+                    "ap": 1,
+                    "guil": 5,
+                    "reward": "Velocisfera x1",
+                    "steal": {
+                        "normal": "Granata x1",
+                        "rare": "Granata x2"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Piros (covo Albhed)": {
+                "name": "Piros (covo Albhed)",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "bribe": {
+                    "guil": 55000,
+                    "reward": "Magmagilite x 14"
+                }
+            },
+            "Remora": {
+                "name": "Remora",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "bribe": {
+                    "guil": 75000,
+                    "reward": "Idromagilite x 20"
+                },
+                "weaponReward": ["Perforazione, ATT Fis +3%, ATT Fis +5%", "DIF Zombie, DIF Fis +5%"],
+                "stats": {
+                    "hp": 3000,
+                    "mp": 22,
+                    "ap": 830,
+                    "guil": 535,
+                    "reward": "Magicosfera x1",
+                    "steal": {
+                        "normal": "Squame di drago x1",
+                        "rare": "Squame di drago x2"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Sahagin(canale Purificatorio Yuna)": {
+                "name": "Sahagin(canale Purificatorio Yuna)",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "bribe": {
+                    "guil": 34500,
+                    "reward": "Idromagilite x 8"
+                }
+            },
+            "Sahagin(canale Purificatorio Tidus)": {
+                "name": "Sahagin(canale Purificatorio Tidus)",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "bribe": {
+                    "guil": 9500,
+                    "reward": "Idromagilite x 3"
+                }
+            },
+            "Shumelke Krypt": {
+                "name": "Shumelke Krypt",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "bribe": {
+                    "guil": 13750,
+                    "reward": "Granata Fossile x 6"
+                },
+                "weaponReward": ["Perforaz.,Fuocat., Tuonat., Acquat., Gelat., ATT Fis +3%, ATT Fis +5%, ATT Mag+3%, ATT Mag +5%", "DIF Lentezza, DIF Fis +5%"],
+                "stats": {
+                    "hp": 550,
+                    "mp": 1,
+                    "ap": 240,
+                    "guil": 300,
+                    "reward": "Velocisfera x1",
+                    "steal": {
+                        "normal": "Ago dorato x1",
+                        "rare": "Granata fossile x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Splasher X2": {
+                "name": "Splasher X2",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "bribe": {
+                    "guil": 10000,
+                    "reward": "Squame di Drago x 8"
+                },
+                "weaponReward": ["Perforazione, Acquattacco, ATT Fis +5%, ATTMag +5%", "HP +5%, DIF Fis +3%"],
+                "stats": {
+                    "hp": 400,
+                    "mp": 4,
+                    "ap": 300,
+                    "guil": 140,
+                    "reward": "Energosfera x1",
+                    "steal": {
+                        "normal": "Granata x1",
+                        "rare": "Blindogranata x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Splasher X3": {
+                "name": "Splasher X3",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "bribe": {
+                    "guil": 15000,
+                    "reward": "Squame di Drago x 12"
+                },
+                "weaponReward": ["Perforazione, Acquattacco, ATT Fis +5%, ATTMag +5%", "HP +5%, DIF Fis +3%"],
+                "stats": {
+                    "hp": 600,
+                    "mp": 6,
+                    "ap": 440,
+                    "guil": 200,
+                    "reward": "Energosfera x1",
+                    "steal": {
+                        "normal": "Granata x1",
+                        "rare": "Blindogranata x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Ultima Weapon": {
+                "name": "Ultima Weapon",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "bribe": {
+                    "guil": 2499975,
+                    "reward": "Pendulum x 99"
+                },
+                "weaponReward": ["Biturbo", "MP apeiron"],
+                "stats": {
+                    "hp": 70000,
+                    "mp": 1,
+                    "ap": 40000,
+                    "guil": 20000,
+                    "reward": "Passosfera Lv 3 x3",
+                    "steal": {
+                        "normal": "Porta sul domani x10",
+                        "rare": "Porta sul domani x20"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Ultra Might(spada Stella)": {
+                "name": "Ultra Might(spada Stella)",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "bribe": {
+                    "guil": 900000,
+                    "reward": "Filtro Energetico x 10"
+                },
+                "weaponReward": ["Perforazione, ATT Fis +10%, ATT Mag +10%", "Riserva Rigene, HP +10%"],
+                "stats": {
+                    "hp": 36000,
+                    "mp": 1,
+                    "ap": 7800,
+                    "guil": 1111,
+                    "reward": "Energosfera x1",
+                    "steal": {
+                        "normal": "Cortina lunare x1",
+                        "rare": "Cortina lunare x2"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Ultra Might(spada Normale)": {
+                "name": "Ultra Might(spada Normale)",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "bribe": {
+                    "guil": 900000,
+                    "reward": "Filtro Magico x 10"
+                },
+                "weaponReward": ["Perforazione, ATT Fis +10%, ATT Mag +10%", "Riserva Rigene, HP +10%"],
+                "stats": {
+                    "hp": 36000,
+                    "mp": 1,
+                    "ap": 7800,
+                    "guil": 1111,
+                    "reward": "Energosfera x1",
+                    "steal": {
+                        "normal": "Cortina lunare x1",
+                        "rare": "Cortina lunare x2"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Unità 97": {
+                "name": "Unità 97",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "bribe": {
+                    "guil": 92500,
+                    "reward": "Etere x 16"
+                }
+            },
+            "Unità 99": {
+                "name": "Unità 99",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "bribe": {
+                    "guil": 67500,
+                    "reward": "Etere x 10"
+                }
+            },
+            "Unitàblindata 11": {
+                "name": "Unitàblindata 11",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "bribe": {
+                    "guil": 155000,
+                    "reward": "Elisir x 12"
+                }
+            },
+            "Unitàblindata 63": {
+                "name": "Unitàblindata 63",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "bribe": {
+                    "guil": 105000,
+                    "reward": "Elisir x 8"
+                }
+            },
+            "Vihur": {
+                "name": "Vihur",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "bribe": {
+                    "guil": 6375,
+                    "reward": "Clessidra d'Argento x 10"
+                },
+                "weaponReward": ["Perforazione, Gelattacco", "DIF Lentezza, HP +5%"],
+                "stats": {
+                    "hp": 225,
+                    "mp": 1,
+                    "ap": 14,
+                    "guil": 50,
+                    "reward": "Energosfera x1",
+                    "steal": null,
+                    "nemitec": false
+                }
+            },
+            "Anima": {
+                "name": "Anima",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "weaponReward": ["Perforazione, ATT Blind, ATT Mutismo, ATTSonno", "DIF Blind, DIF Mutismo, DIF Sonno"],
+                "stats": {
+                    "hp": 18000,
+                    "mp": 50,
+                    "ap": 2500,
+                    "guil": 3000,
+                    "reward": "Abilitosfera x1",
+                    "steal": {
+                        "normal": "Mina Tacet x3",
+                        "rare": "Ombra d'Oltremondo x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Biran Ronso": {
+                "name": "Biran Ronso",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "weaponReward": ["Perforazione", "MP +20%"],
+                "stats": {
+                    "hp": "Variabile",
+                    "mp": 200,
+                    "ap": 4500,
+                    "guil": 1500,
+                    "reward": "Gamberosfera x1",
+                    "steal": {
+                        "normal": "Passosfera Lv 3 x2",
+                        "rare": "Passosfera Lv 3 x3"
+                    },
+                    "nemitec": "4 Nemitec diverse"
+                }
+            },
+            "Braccio": {
+                "name": "Braccio",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "weaponReward": ["Perforazione, Fuocattacco, Tuonattacco,Acquattacco, Gelattacco", "Fuoco -50%, Tuono -50%, Acqua -50%, Gelo -50%"],
+                "stats": {
+                    "hp": 800,
+                    "mp": 1,
+                    "ap": 37,
+                    "guil": 300,
+                    "reward": "-",
+                    "steal": {
+                        "normal": "Pozione x1",
+                        "rare": "Pozione x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Braccio Dx Di Sin": {
+                "name": "Braccio Dx Di Sin",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "weaponReward": ["Perforazione, ATT Pietra +", "DIF Pietra +"],
+                "stats": {
+                    "hp": 65000,
+                    "mp": 999,
+                    "ap": 17000,
+                    "guil": 10000,
+                    "reward": "Passosfera Lv 3 x1",
+                    "steal": {
+                        "normal": "Extrapozione x1",
+                        "rare": "Eliomagilite x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Braccio Sx Di Sin": {
+                "name": "Braccio Sx Di Sin",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "weaponReward": ["Perforazione, ATT Veleno +", "DIF Veleno +"],
+                "stats": {
+                    "hp": 65000,
+                    "mp": 999,
+                    "ap": 16000,
+                    "guil": 10000,
+                    "reward": "Accapisfera x1",
+                    "steal": {
+                        "normal": "Megapozione x1",
+                        "rare": "Examagilite x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Cannoniere Albhed": {
+                "name": "Cannoniere Albhed",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "weaponReward": ["Perforazione, Fuocattacco, Tuonattacco,Acquattacco, Gelattacco, Arte medica", "Fuoco -50%, Tuono -50%, Acqua -50%, Gelo -50%"],
+                "stats": {
+                    "hp": 16000,
+                    "mp": 1,
+                    "ap": 4400,
+                    "guil": 7000,
+                    "reward": "Elisir x1",
+                    "steal": {
+                        "normal": "Cortina lunare x1",
+                        "rare": "Cortina lunare x2"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Custode Celeste": {
+                "name": "Custode Celeste",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "weaponReward": ["Perforazione, Consumo 1/2 MP", "MP +10%"],
+                "stats": {
+                    "hp": 40000,
+                    "mp": 256,
+                    "ap": 11000,
+                    "guil": 6500,
+                    "reward": "Gamberosfera x1",
+                    "steal": {
+                        "normal": "Turboetere x1",
+                        "rare": "Turboetere x2"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Custode Del Limbo": {
+                "name": "Custode Del Limbo",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "weaponReward": ["Perforazione, Fuocattacco, Tuonattacco, Acquattacco, Gelattacco", "Immunofuoco, Immunotuono, Immunoacqua, Immunogelo"],
+                "stats": {
+                    "hp": 52000,
+                    "mp": 500,
+                    "ap": 12000,
+                    "guil": 7000,
+                    "reward": "Passosfera Lv 4 x1",
+                    "steal": {
+                        "normal": "Etere x1",
+                        "rare": "Turboetere x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Defensor": {
+                "name": "Defensor",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "weaponReward": ["Perforazione, ATT Fis +3%, ATT Fis +10%, ATT Mag +5%, ATT Mag +10%Induttore E", "Riserva Protect"],
+                "stats": {
+                    "hp": 64000,
+                    "mp": 1,
+                    "ap": 6600,
+                    "guil": 3500,
+                    "reward": "Passosfera Lv 2 x2",
+                    "steal": {
+                        "normal": "Cortina Lunare x4",
+                        "rare": "Cortina Lunare x4"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Efrey": {
+                "name": "Efrey",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "weaponReward": ["Perforazione, ATT Pietra", "DIF Pietra"],
+                "stats": {
+                    "hp": 32000,
+                    "mp": 500,
+                    "ap": 5400,
+                    "guil": 2600,
+                    "reward": "Mnerosfera x1",
+                    "steal": {
+                        "normal": "Idromagilite x1",
+                        "rare": "Idromagilite x2"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Efrey Oltana": {
+                "name": "Efrey Oltana",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "weaponReward": ["Perforazione, ATT Pietra", "DIF Pietra"],
+                "stats": {
+                    "hp": 16384,
+                    "mp": 200,
+                    "ap": 5800,
+                    "guil": 3000,
+                    "reward": "Mnerosfera x1",
+                    "steal": {
+                        "normal": "Idromagilite x2",
+                        "rare": "Fluido rigenerante x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Guardia Guado": {
+                "name": "Guardia Guado",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "weaponReward": ["Spot, Perforazione, ATT Fis +3%, ATT Fis +5%,ATT Mag +3%, ATT Mag +5%", "HP +5%, MP +5%, DIF Mag +3%"],
+                "stats": {
+                    "hp": 2600,
+                    "mp": 600,
+                    "ap": 540,
+                    "guil": 380,
+                    "reward": "Abilitosfera x1",
+                    "steal": {
+                        "normal": "Granpozione x1",
+                        "rare": "Extrapozione x2"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Josguein": {
+                "name": "Josguein",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "weaponReward": ["Incontri 0", "Autoreflex"],
+                "stats": {
+                    "hp": 32767,
+                    "mp": 128,
+                    "ap": 4200,
+                    "guil": 1000,
+                    "reward": "Energosfera x2",
+                    "steal": {
+                        "normal": "Idromagilite x1",
+                        "rare": "Idromagilite x2"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Kimahri": {
+                "name": "Kimahri",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "weaponReward": ["Spot, Perforazione", "DIF Fis +5%"],
+                "stats": {
+                    "hp": 750,
+                    "mp": 10,
+                    "ap": 3,
+                    "guil": 100,
+                    "reward": "Abilitosfera x2",
+                    "steal": null,
+                    "nemitec": false
+                }
+            },
+            "Lanciatore Albhed": {
+                "name": "Lanciatore Albhed",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "weaponReward": ["Perforazione, Tuonattacco", "DIF Fis +3%"],
+                "stats": {
+                    "hp": 6000,
+                    "mp": 10,
+                    "ap": 36,
+                    "guil": 580,
+                    "reward": "Elisir x1",
+                    "steal": null,
+                    "nemitec": false
+                }
+            },
+            "Mangiachocobo": {
+                "name": "Mangiachocobo",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "weaponReward": ["Spot, Perforazione, ATT Fis +5%, ATT Fis +10%,ATT Mag +5%, ATT Mag +10%", "Fuoco -50%, Tuono -50%, Acqua -50%, Gelo -50%"],
+                "stats": {
+                    "hp": 10000,
+                    "mp": 5,
+                    "ap": 90,
+                    "guil": 970,
+                    "reward": "Passosfera Lv 1 x2",
+                    "steal": {
+                        "normal": "Pozione x1",
+                        "rare": "Pozione x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Neo Seymour": {
+                "name": "Neo Seymour",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "weaponReward": ["Perforazione, Fuocattacco, Tuonattacco,Acquattacco, Gelattacco", "Riserva Shell"],
+                "stats": {
+                    "hp": 36000,
+                    "mp": 200,
+                    "ap": 6300,
+                    "guil": 3500,
+                    "reward": "Passosfera Lv 2 x2",
+                    "steal": {
+                        "normal": "Tetraelementale x2",
+                        "rare": "Tetraelementale x3"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Omega Weapon": {
+                "name": "Omega Weapon",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "weaponReward": ["Triturbo", "HP Apeiron"],
+                "stats": {
+                    "hp": 999999,
+                    "mp": 999,
+                    "ap": 50000,
+                    "guil": 30000,
+                    "reward": "Passosfera Lv 4 x3",
+                    "steal": {
+                        "normal": "Anima del baro x30",
+                        "rare": "Anima del baro x30"
+                    },
+                    "nemitec": "Sunshine"
+                }
+            },
+            "Portiere Albhed": {
+                "name": "Portiere Albhed",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "weaponReward": ["Perforazione, Fuocattacco, Tuonattacco,Acquattacco, Gelattacco", "Riserva Parafire, Riserva Parathund, RiservaParaidro, Riserva Parabliz"],
+                "stats": {
+                    "hp": 300,
+                    "mp": 1,
+                    "ap": 7,
+                    "guil": 85,
+                    "reward": "Granpozione x1",
+                    "steal": null,
+                    "nemitec": false
+                }
+            },
+            "Ricevitore Albhed": {
+                "name": "Ricevitore Albhed",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "weaponReward": ["Perforazione, Fuocattacco, Tuonattacco,Acquattacco, Gelattacco", "Riserva Parafire, Riserva Parathund, RiservaParaidro, Riserva Parabliz"],
+                "stats": {
+                    "hp": 4000,
+                    "mp": 10,
+                    "ap": 660,
+                    "guil": 2400,
+                    "reward": "Megafenice x1",
+                    "steal": {
+                        "normal": "Pozione x1",
+                        "rare": "Pozione x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Sahagin": {
+                "name": "Sahagin",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "weaponReward": ["Perforazione, Acquattacco, AFF Fis +3%, ATTMag +3%", "Acqua -50%, HP +5%"],
+                "stats": {
+                    "hp": 380,
+                    "mp": 20,
+                    "ap": 460,
+                    "guil": 200,
+                    "reward": "Energosfera x1",
+                    "steal": {
+                        "normal": "Squame di pesce x1",
+                        "rare": "Squame di drago x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Scaglia Ekyu": {
+                "name": "Scaglia Ekyu",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "weaponReward": ["Perforazione, Acquattacco", "Acqua -50%"],
+                "stats": {
+                    "hp": 2000,
+                    "mp": 20,
+                    "ap": 12,
+                    "guil": 115,
+                    "reward": "Abilitosfera x2",
+                    "steal": null,
+                    "nemitec": false
+                }
+            },
+            "Scaglia Ghy": {
+                "name": "Scaglia Ghy",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "weaponReward": ["Perforazione, ATT Sonno +", "DIF Sonno +"],
+                "stats": {
+                    "hp": 6000,
+                    "mp": 30,
+                    "ap": "0",
+                    "guil": 1000,
+                    "reward": "Passosfera Lv 1 x3",
+                    "steal": {
+                        "normal": "Pozione x1",
+                        "rare": "Pozione x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Scaglia Gunai": {
+                "name": "Scaglia Gunai",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "weaponReward": ["Perforazione, ATT Zombie +", "DIF Zombie +"],
+                "stats": {
+                    "hp": 20000,
+                    "mp": 200,
+                    "ap": 1800,
+                    "guil": 10000,
+                    "reward": "Gamberosfera x1",
+                    "steal": {
+                        "normal": "Cortina stellare x1",
+                        "rare": "Eliomagilite x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Scaglia Guno": {
+                "name": "Scaglia Guno",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "weaponReward": ["Perforazione, ATT Blind", "DIF Blind"],
+                "stats": {
+                    "hp": 3000,
+                    "mp": 30,
+                    "ap": 48,
+                    "guil": 300,
+                    "reward": "Energosfera x2",
+                    "steal": null,
+                    "nemitec": false
+                }
+            },
+            "Seymour": {
+                "name": "Seymour",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "weaponReward": ["Perforazione, ATT Mutismo +", "DIF Mutismo +"],
+                "stats": {
+                    "hp": 6000,
+                    "mp": 100,
+                    "ap": 2000,
+                    "guil": 5000,
+                    "reward": "Mnerosfera x1",
+                    "steal": {
+                        "normal": "Turboetere x1",
+                        "rare": "Elisir x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Seymour Beta": {
+                "name": "Seymour Beta",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "weaponReward": ["Perforazione, ATT Blind +", "DIF Blind +"],
+                "stats": {
+                    "hp": 70000,
+                    "mp": 512,
+                    "ap": 10000,
+                    "guil": 6000,
+                    "reward": "Passosfera Lv 4 x1",
+                    "steal": {
+                        "normal": "Elisir x1",
+                        "rare": "Elisir x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Seymour Omega": {
+                "name": "Seymour Omega",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "weaponReward": ["Perforazione, ATT Mag +20%", "Riserva Shell, Riserva Protect, Riserva Haste"],
+                "stats": {
+                    "hp": 80000,
+                    "mp": 999,
+                    "ap": 24000,
+                    "guil": 12000,
+                    "reward": "Passosfera Lv 3 x1",
+                    "steal": {
+                        "normal": "Eliomagilite x1",
+                        "rare": "Examagilite x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Sferogestore": {
+                "name": "Sferogestore",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "weaponReward": ["Perforazione, Fuocattacco, Tuonattacco,Acquattacco, Gelattacco", "Fuoco -50%, Tuono -50%, Acqua -50%, Gelo -50%"],
+                "stats": {
+                    "hp": 12000,
+                    "mp": 100,
+                    "ap": 3240,
+                    "guil": 4000,
+                    "reward": "Passosfera Lv 2 x1",
+                    "steal": {
+                        "normal": "Etere x1",
+                        "rare": "Turboetere x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Sigillo Albhed": {
+                "name": "Sigillo Albhed",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "weaponReward": ["Perforazione, Tuonattacco", "Fuoco -50%, Tuono -50%, Acqua -50%, Gelo -50%"],
+                "stats": {
+                    "hp": 1000,
+                    "mp": 1,
+                    "ap": 220,
+                    "guil": 300,
+                    "reward": "Pozione x1",
+                    "steal": {
+                        "normal": "Granpozione x1",
+                        "rare": "Granpozione x2"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Sin": {
+                "name": "Sin",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "weaponReward": ["Perforazione, ATT Blind +, ATT Mutismo +, ATTSonno +, ATT Lentezza +", "DIF Mutismo +"],
+                "stats": {
+                    "hp": 140000,
+                    "mp": 999,
+                    "ap": 20000,
+                    "guil": 12000,
+                    "reward": "Passosfera Lv 3 x1",
+                    "steal": {
+                        "normal": "Etere x1",
+                        "rare": "Examagilite x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Templare": {
+                "name": "Templare",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "weaponReward": ["Perforazione, ATT Fis +5%, Contramagia", "DIF Morte, DIF Mag +3%"],
+                "stats": {
+                    "hp": 1400,
+                    "mp": 20,
+                    "ap": 420,
+                    "guil": 460,
+                    "reward": "Abilitosfera x1",
+                    "steal": {
+                        "normal": "Granpozione x2",
+                        "rare": "Sale purificatore x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Templare Redivivo": {
+                "name": "Templare Redivivo",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "weaponReward": ["Perforazione, ATT Fis +5%, Contramagia", "DIF Zombie, DIF Mag +3%"],
+                "stats": {
+                    "hp": 3300,
+                    "mp": 1,
+                    "ap": 1200,
+                    "guil": 540,
+                    "reward": "Abilitosfera x1",
+                    "steal": {
+                        "normal": "Candela della vita x2",
+                        "rare": "Sale purificatore x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Testa": {
+                "name": "Testa",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "weaponReward": ["Perforazione, Fuocattacco, Tuonattacco,Acquatacco, Gelattacco", "Fuoco -50%, Tuono -50%, Acqua -50%, Gelo -50%"],
+                "stats": {
+                    "hp": 4000,
+                    "mp": 200,
+                    "ap": 48,
+                    "guil": 200,
+                    "reward": "-",
+                    "steal": {
+                        "normal": "Pozione x1",
+                        "rare": "Pozione x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Unita' 97": {
+                "name": "Unita' 97",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "weaponReward": ["Perforazione, ATT Fis +5%, ATT Mag +5%", "Fuoco -50%, Tuono -50%, Acqua -50%, Gelo -50%"],
+                "stats": {
+                    "hp": 3700,
+                    "mp": 1,
+                    "ap": 3200,
+                    "guil": 1080,
+                    "reward": "Coda di fenice x2",
+                    "steal": {
+                        "normal": "Acquasanta x3",
+                        "rare": "Etere x2"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Unita' 99": {
+                "name": "Unita' 99",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "weaponReward": ["Fuocat.,Tuonat., Acquat., Gelat., ATT Fis +3%, ATT Fis +5%, ATT Mag +3%, ATTMag +5%, Induttore V", "Fuoco -50%, Tuono -50%, Acqua -50%, Gelo -50%"],
+                "stats": {
+                    "hp": 2700,
+                    "mp": 1,
+                    "ap": 1870,
+                    "guil": 1300,
+                    "reward": "Coda di fenice x1",
+                    "steal": {
+                        "normal": "Panacea x1",
+                        "rare": "Etere x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Unita' Blindata 11": {
+                "name": "Unita' Blindata 11",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "weaponReward": ["Perforazione, ATT Fis +5%, ATT Mag +5%", "Fuoco -50%, Tuono -50%, Acqua -50%, Gelo -50%"],
+                "stats": {
+                    "hp": 6200,
+                    "mp": 1,
+                    "ap": 3200,
+                    "guil": 1080,
+                    "reward": "Granpozione x2",
+                    "steal": {
+                        "normal": "Acquasanta x3",
+                        "rare": "Etere x2"
+                    },
+                    "nemitec": "Mawashigeri"
+                }
+            },
+            "Unita' Blindata 63": {
+                "name": "Unita' Blindata 63",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "weaponReward": ["Perforazione, ATT Fis +3%, ATT Fis +5%, ATTMag +3%, ATT Mag +5%", "Fuoco -50%, Tuono -50%, Acqua -50%, Gelo -50%"],
+                "stats": {
+                    "hp": 6200,
+                    "mp": 1,
+                    "ap": 1870,
+                    "guil": 1300,
+                    "reward": "Granpozione x1",
+                    "steal": {
+                        "normal": "Panacea x1",
+                        "rare": "Etere x1"
+                    },
+                    "nemitec": "Mawashigeri"
+                }
+            },
+            "Wendigo": {
+                "name": "Wendigo",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "weaponReward": ["Perforazione, Contrattacco", "Riserva Haste, HP +10%"],
+                "stats": {
+                    "hp": 18000,
+                    "mp": 32,
+                    "ap": 2000,
+                    "guil": 3000,
+                    "reward": "Energosfera x1",
+                    "steal": {
+                        "normal": "Granpozione x1",
+                        "rare": "Extrapozione x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Yenke Ronso": {
+                "name": "Yenke Ronso",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "weaponReward": ["Perforazione", "MP +20%"],
+                "stats": {
+                    "hp": "Variabile",
+                    "mp": 200,
+                    "ap": 4500,
+                    "guil": 1500,
+                    "reward": "Gamberosfera x1",
+                    "steal": {
+                        "normal": "Passosfera Lv 3 x1",
+                        "rare": "Passosfera Lv 3 x2"
+                    },
+                    "nemitec": "4 Nemitec diverse"
+                }
+            },
+            "Yunalesca": {
+                "name": "Yunalesca",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "weaponReward": ["Perforazione, ATT Zombie +", "DIF Zombie +"],
+                "stats": {
+                    "hp": 60000,
+                    "mp": 500,
+                    "ap": 14000,
+                    "guil": 9000,
+                    "reward": "Passosfera Lv 3 x1",
+                    "steal": {
+                        "normal": "Nettare energetico x1",
+                        "rare": "Vento d'Oltremondo x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Botte Magica": {
+                "name": "Botte Magica",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "stats": {
+                    "hp": 999999,
+                    "mp": 999,
+                    "ap": "0",
+                    "guil": "0",
+                    "reward": "-",
+                    "steal": null,
+                    "nemitec": false
+                }
+            },
+            "Capitan Sahagin": {
+                "name": "Capitan Sahagin",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "stats": {
+                    "hp": 170,
+                    "mp": 5,
+                    "ap": 2,
+                    "guil": 20,
+                    "reward": "Energosfera x1",
+                    "steal": null,
+                    "nemitec": false
+                }
+            },
+            "Eone Di Braska": {
+                "name": "Eone Di Braska",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "stats": {
+                    "hp": 120000,
+                    "mp": 100,
+                    "ap": "0",
+                    "guil": "0",
+                    "reward": "-",
+                    "steal": {
+                        "normal": "Turboetere x1",
+                        "rare": "Elisir x1"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Klik": {
+                "name": "Klik",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "stats": {
+                    "hp": 1500,
+                    "mp": 5,
+                    "ap": 5,
+                    "guil": 50,
+                    "reward": "Abilitosfera x2",
+                    "steal": {
+                        "normal": "Granata x1",
+                        "rare": "Granata x2"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Kobushi": {
+                "name": "Kobushi",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "stats": {
+                    "hp": 8000,
+                    "mp": 600,
+                    "ap": "0",
+                    "guil": "0",
+                    "reward": "-",
+                    "steal": null,
+                    "nemitec": false
+                }
+            },
+            "Mekalunio": {
+                "name": "Mekalunio",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "stats": {
+                    "hp": 4000,
+                    "mp": 512,
+                    "ap": "0",
+                    "guil": "0",
+                    "reward": "-",
+                    "steal": null,
+                    "nemitec": false
+                }
+            },
+            "Mimik": {
+                "name": "Mimik",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "stats": {
+                    "hp": 40000,
+                    "mp": 10,
+                    "ap": "0",
+                    "guil": 50000,
+                    "reward": "-",
+                    "steal": null,
+                    "nemitec": false
+                }
+            },
+            "Neolunio": {
+                "name": "Neolunio",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "stats": {
+                    "hp": 4000,
+                    "mp": 50,
+                    "ap": "0",
+                    "guil": "0",
+                    "reward": "-",
+                    "steal": null,
+                    "nemitec": false
+                }
+            },
+            "Pagoda Yu": {
+                "name": "Pagoda Yu",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "stats": {
+                    "hp": 5000,
+                    "mp": 5000,
+                    "ap": "0",
+                    "guil": "0",
+                    "reward": "-",
+                    "steal": null,
+                    "nemitec": false
+                }
+            },
+            "Scaglia Emuzu": {
+                "name": "Scaglia Emuzu",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "stats": {
+                    "hp": 2400,
+                    "mp": 400,
+                    "ap": "0",
+                    "guil": "0",
+                    "reward": "-",
+                    "steal": null,
+                    "nemitec": false
+                }
+            },
+            "Tentacolo Di Guno": {
+                "name": "Tentacolo Di Guno",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "stats": {
+                    "hp": 450,
+                    "mp": 10,
+                    "ap": 5,
+                    "guil": 30,
+                    "reward": "Abilitosfera x1",
+                    "steal": null,
+                    "nemitec": false
+                }
+            },
+            "Thros": {
+                "name": "Thros",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "stats": {
+                    "hp": 2200,
+                    "mp": 10,
+                    "ap": 8,
+                    "guil": 100,
+                    "reward": "Energosfera x2",
+                    "steal": {
+                        "normal": "Granata x1",
+                        "rare": "Granata x3"
+                    },
+                    "nemitec": false
+                }
+            },
+            "Trito Di Scaglia": {
+                "name": "Trito Di Scaglia",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "stats": {
+                    "hp": 100,
+                    "mp": "0",
+                    "ap": 2,
+                    "guil": 24,
+                    "reward": "Magicosfera x1",
+                    "steal": null,
+                    "nemitec": ""
+                }
+            },
+            "Tsubasa": {
+                "name": "Tsubasa",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "stats": {
+                    "hp": 12000,
+                    "mp": 1000,
+                    "ap": "0",
+                    "guil": "0",
+                    "reward": "-",
+                    "steal": null,
+                    "nemitec": false
+                }
+            },
+            "Tsurugi": {
+                "name": "Tsurugi",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "stats": {
+                    "hp": 20000,
+                    "mp": 1500,
+                    "ap": "0",
+                    "guil": "0",
+                    "reward": "-",
+                    "steal": null,
+                    "nemitec": false
+                }
+            },
+            "Yojimbo": {
+                "name": "Yojimbo",
+                "createsChampion": false,
+                "isNeeded": false,
+                "wasCaptured": 0,
+                "capturable": false,
+                "stats": {
+                    "hp": 33000,
+                    "mp": 2000,
+                    "ap": "0",
+                    "guil": "0",
+                    "reward": "-",
+                    "steal": null,
+                    "nemitec": false
+                }
+            }
+        }
+    },
+    "Campioni Di Zona": {
+        "Trusthevis": {
+            "name": "Trusthevis",
+            "exist": false,
+            "wasDefeated": false,
+            "reward": "99 Filtri energetici",
+            "zoneRequired": "Besaid",
+            "stats": {
+                "hp": "320.000",
+                "mp": "115",
+                "ultracidio": "10.000",
+                "ruba": {
+                    "normale": "Lacrimogeno x 3",
+                    "raro": "Filtro energetico x 2"
+                },
+                "oggetto": "Amuleto x 2",
+                "debolezza": "RES 0% a Spot, Scan, Antima, Moviola e Spazzata, e RES 90% a Zombie ed Anti"
+            }
+        },
+        "Molboro Beta": {
+            "name": "Molboro Beta",
+            "exist": false,
+            "wasDefeated": false,
+            "reward": "99 Zanne velenose",
+            "zoneRequired": "Kilika",
+            "stats": {
+                "hp": "640.000",
+                "mp": "200",
+                "ultracidio": "12.000",
+                "ruba": {
+                    "normale": "Panacea x 4",
+                    "raro": "Fluido magico x 2"
+                },
+                "oggetto": "Filtro magico x 2",
+                "debolezza": "Fuoco x1.5, assorbe acqua"
+            }
+        },
+        "Kolossos": {
+            "name": "Kolossos",
+            "exist": false,
+            "wasDefeated": false,
+            "reward": "99 Fluidi vitali",
+            "zoneRequired": "Via Mihen",
+            "stats": {
+                "hp": "440.000",
+                "mp": "20",
+                "ultracidio": "15.000",
+                "ruba": {
+                    "normale": "Fluido energetico x 4",
+                    "raro": "Fluido vitale x 2"
+                },
+                "oggetto": "Fluido rigenerante x 20"
+            }
+        },
+        "Iaguaro Regina": {
+            "name": "Iaguaro Regina",
+            "exist": false,
+            "wasDefeated": false,
+            "reward": "99 Candele della vita",
+            "zoneRequired": "Via Micorocciosa",
+            "stats": {
+                "hp": "380.000",
+                "mp": "80",
+                "ultracidio": "10.000",
+                "ruba": {
+                    "normale": "Vento d'Oltremondo x 2",
+                    "raro": "Sacromagilite x 1"
+                },
+                "oggetto": "Eliomagilite x 3"
+            }
+        },
+        "Yormungand": {
+            "name": "Yormungand",
+            "exist": false,
+            "wasDefeated": false,
+            "reward": "99 Granate fossili",
+            "zoneRequired": "Via Djose",
+            "stats": {
+                "hp": "520.000",
+                "mp": "63",
+                "ultracidio": "10.000",
+                "ruba": {
+                    "normale": "Granata fossile x 4",
+                    "raro": "Triostella x 1"
+                },
+                "oggetto": "Examagilite x 2",
+                "debolezza": "RES 0% a Zombie, e RES 90% agli Anti"
+            }
+        },
+        "Kyactus": {
+            "name": "Kyactus",
+            "exist": false,
+            "wasDefeated": false,
+            "reward": "99 Piuma di Chocobo",
+            "zoneRequired": "Piana Dei Lampi",
+            "stats": {
+                "hp": "100.000",
+                "mp": "0",
+                "ultracidio": "10.000",
+                "ruba": {
+                    "normale": "Piuma di chocobo x 2",
+                    "raro": "Portafoglio gonfio x 1"
+                },
+                "oggetto": "Sacromagilite x 3"
+            }
+        },
+        "Espada": {
+            "name": "Espada",
+            "exist": false,
+            "wasDefeated": false,
+            "reward": "99 Eliomagiliti",
+            "zoneRequired": "Macalania",
+            "stats": {
+                "hp": "280.000",
+                "mp": "120",
+                "ultracidio": "15.000",
+                "ruba": {
+                    "normale": "Ombra d'Oltremondo x 4",
+                    "raro": "Vento d'Oltremondo x 1"
+                },
+                "oggetto": "Carta d'identità x 1",
+                "debolezza": "RES 0% agli Anti e RES 50% a Zombie"
+            }
+        },
+        "Abyss Worm": {
+            "name": "Abyss Worm",
+            "exist": false,
+            "wasDefeated": false,
+            "reward": "99 Neromagiliti",
+            "zoneRequired": "Bikanel",
+            "stats": {
+                "hp": "480.000",
+                "mp": "200",
+                "ultracidio": "12.000",
+                "ruba": {
+                    "normale": "Neromagilite x 4",
+                    "raro": "Nettare energetico x 1"
+                },
+                "oggetto": "Filtro energetico x 1"
+            }
+        },
+        "Chimera X": {
+            "name": "Chimera X",
+            "exist": false,
+            "wasDefeated": false,
+            "reward": "Vento d'Oltremondo x 60",
+            "zoneRequired": "Piana Della Bonaccia",
+            "stats": {
+                "hp": "120.000",
+                "mp": "30",
+                "ultracidio": "10.000",
+                "ruba": {
+                    "normale": "Filtro magico x 2",
+                    "raro": "Fluido energetico x 2"
+                },
+                "oggetto": "Gamberosfera x 1",
+                "debolezza": "RES 50% agli Anti"
+            }
+        },
+        "Don Tomberry": {
+            "name": "Don Tomberry",
+            "exist": false,
+            "wasDefeated": false,
+            "reward": "Clessidre d'40 argento",
+            "zoneRequired": "Grotta Del Crepaccio",
+            "stats": {
+                "hp": "480.000",
+                "mp": "120",
+                "ultracidio": "10.000",
+                "ruba": {
+                    "normale": "Candela della vita x 2",
+                    "raro": "Portafoglio gonfio x 1"
+                },
+                "oggetto": "Vento d'Oltremondo x 3"
+            }
+        },
+        "Catoblepas": {
+            "name": "Catoblepas",
+            "exist": false,
+            "wasDefeated": false,
+            "reward": "Corona di Boccioli",
+            "zoneRequired": "Monte Gagazet",
+            "stats": {
+                "hp": "550.000",
+                "mp": "160",
+                "ultracidio": "10.000",
+                "ruba": {
+                    "normale": "Fluido rigenerante x 3",
+                    "raro": "Filtro energetico x 1"
+                },
+                "oggetto": "Triostella x 1",
+                "debolezza": "RES 50% agli Anti"
+            }
+        },
+        "Abadon": {
+            "name": "Abadon",
+            "exist": false,
+            "wasDefeated": false,
+            "reward": "99 Cortie lunari",
+            "zoneRequired": "Dentro Sin",
+            "stats": {
+                "hp": "380.000",
+                "mp": "780",
+                "ultracidio": "10.000",
+                "ruba": {
+                    "normale": "Sale purificatore x 3",
+                    "raro": "Eliomagilite x 1"
+                },
+                "oggetto": "Nettare magico x 1"
+            }
+        },
+        "Vorban": {
+            "name": "Vorban",
+            "exist": false,
+            "wasDefeated": false,
+            "reward": "Portafoglio gonfio x 60",
+            "zoneRequired": "Rovine Di Omega",
+            "stats": {
+                "hp": "630.000",
+                "mp": "120",
+                "ultracidio": "10.000",
+                "ruba": {
+                    "normale": "Fluido rigenerante x 2",
+                    "raro": "Nettare energetico x 1"
+                },
+                "oggetto": "Empatosfera x 1"
+            }
+        }
+    },
+    "Campioni Di Specie": {
+        "Fenril": {
+            "name": "Fenril",
+            "exist": false,
+            "wasDefeated": false,
+            "reward": "99 Code di Chocobo",
+            "kindRequired": {
+                "fiends": ["Dingo", "Mihen Phang", "Garm", "Lupo Delle Nevi", "Lupo Del Deserto", "Scoor", "Mal Bernardo"],
+                "quantity": 3
+            },
+            "stats": {
+                "hp": "850.000",
+                "mp": "300",
+                "ultracidio": "99.999",
+                "ruba": {
+                    "normale": "Coda di Chocobo x 2",
+                    "raro": "Piuma di Chocobo x 1"
+                },
+                "oggetto": "Rapidosfera x 1"
+            }
+        },
+        "Ornitorestes": {
+            "name": "Ornitorestes",
+            "exist": false,
+            "wasDefeated": false,
+            "reward": "99 Fluidi energetici",
+            "kindRequired": {
+                "fiends": ["Deinonychus", "Ipiria", "Raptor", "Meryujin", "Yowie", "Zauras"],
+                "quantity": 3
+            },
+            "stats": {
+                "hp": "800.000",
+                "mp": "300",
+                "ultracidio": "99.999",
+                "ruba": {
+                    "normale": "Carta d'Identità x 1",
+                    "raro": "Piuma di Chocobo x 1"
+                },
+                "oggetto": "Anima del baro x 2"
+            }
+        },
+        "Pterix": {
+            "name": "Pterix",
+            "exist": false,
+            "wasDefeated": false,
+            "reward": "99 Megafenici",
+            "kindRequired": {
+                "fiends": ["Condor", "Simurgh", "Alcione"],
+                "quantity": 4
+            },
+            "stats": {
+                "hp": "100.000",
+                "mp": "0",
+                "ultracidio": "99.999",
+                "ruba": {
+                    "normale": "Lacrimogeno x 4",
+                    "raro": "Candela della vita x 1"
+                },
+                "oggetto": "Destrosfera x 1",
+                "debolezza": "RES 90% agli Anti"
+            }
+        },
+        "Honet": {
+            "name": "Honet",
+            "exist": false,
+            "wasDefeated": false,
+            "reward": "60 Filtri magici",
+            "kindRequired": {
+                "fiends": ["Ape Killer", "Lesmathor", "Vespa", "Nebiros"],
+                "quantity": 4
+            },
+            "stats": {
+                "hp": "620.000",
+                "mp": "180",
+                "ultracidio": "50.000",
+                "ruba": {
+                    "normale": "Zanna velenosa x 4",
+                    "raro": "Sale purificatore x 2"
+                },
+                "oggetto": "Mirasfera x 1",
+                "debolezza": "RES 0% a Mutismo, RES 95% agli Anti"
+            }
+        },
+        "Vizalsha": {
+            "name": "Vizalsha",
+            "exist": false,
+            "wasDefeated": false,
+            "reward": "99 Fluidi magici",
+            "kindRequired": {
+                "fiends": ["Gandharva", "Aroj", "Galkimasela"],
+                "quantity": 4
+            },
+            "stats": {
+                "hp": "95.000",
+                "mp": "840",
+                "ultracidio": "10.000",
+                "ruba": {
+                    "normale": "Elettromagilite x 4",
+                    "raro": "Filtro magico x 1"
+                },
+                "oggetto": "Emmepisfera x 1",
+                "debolezza": "RES 80% ad Antikelesis e Antimajix, RES 99% ad Antiscutum"
+            }
+        },
+        "Unioculum": {
+            "name": "Unioculum",
+            "exist": false,
+            "wasDefeated": false,
+            "reward": "60 Nettari energetici",
+            "kindRequired": {
+                "fiends": ["Occhio Fluttuante", "Buel", "Occhio Diabolico", "Alyman", "Desflot"],
+                "quantity": 4
+            },
+            "stats": {
+                "hp": "150.000",
+                "mp": "270",
+                "ultracidio": "15.000",
+                "ruba": {
+                    "normale": "Cortina lunare x 3",
+                    "raro": "Sacromagilite x 1"
+                },
+                "oggetto": "Difesfera mag x 1",
+                "debolezza": "RES 0% a Antivis e Antikelesis"
+            }
+        },
+        "Budino Jumbo": {
+            "name": "Budino Jumbo",
+            "exist": false,
+            "wasDefeated": false,
+            "reward": "60 Duostelle",
+            "kindRequired": {
+                "fiends": ["Budino D'acqua", "Budino Di Tuono", "Budino Di Neve", "Budino Di Ghiaccio", "Budino Di Fiamme", "Budino Oscuro"],
+                "quantity": 3
+            },
+            "stats": {
+                "hp": "1.300.000",
+                "mp": "999",
+                "ultracidio": "99.999",
+                "ruba": {
+                    "normale": "Cortina lunare x 4",
+                    "raro": "Nettare magico x 1"
+                },
+                "oggetto": "Potesfera mag x 1"
+            }
+        },
+        "Elemento Nega": {
+            "name": "Elemento Nega",
+            "exist": false,
+            "wasDefeated": false,
+            "reward": "99 Cortine Stellari",
+            "kindRequired": {
+                "fiends": ["Elemento Giallo", "Elemento Bianco", "Elemento Rosso", "Elemento Dorato", "Elemento Blu", "Elemento Scuro", "Elemento Nero"],
+                "quantity": 3
+            },
+            "stats": {
+                "hp": "1.300.000",
+                "mp": "20",
+                "ultracidio": "15.000",
+                "ruba": {
+                    "normale": "Cortina lunare x 4",
+                    "raro": "Duostella x 1"
+                },
+                "oggetto": "Duostella x 2"
+            }
+        },
+        "Tanket": {
+            "name": "Tanket",
+            "exist": false,
+            "wasDefeated": false,
+            "reward": "99 Clessidre d'oro",
+            "kindRequired": {
+                "fiends": ["Rarth", "Bunyips", "Mulfus", "Mafut", "Shred", "Haruma"],
+                "quantity": 3
+            },
+            "stats": {
+                "hp": "900.000",
+                "mp": "0",
+                "ultracidio": "10.000",
+                "ruba": {
+                    "normale": "Cortina luminosa x 4",
+                    "raro": "Cortina lunare x 4"
+                },
+                "oggetto": "Difesfera fis x 1"
+            }
+        },
+        "Fefnil": {
+            "name": "Fefnil",
+            "exist": false,
+            "wasDefeated": false,
+            "reward": "99 Sali Purificatori",
+            "kindRequired": {
+                "fiends": ["Vivre", "Ramashut", "Kusarik", "Mushuhushu", "Heg"],
+                "quantity": 4
+            },
+            "stats": {
+                "hp": "1.100.000",
+                "mp": "30",
+                "ultracidio": "13.000",
+                "ruba": {
+                    "normale": "Clessidra d'oro x 2",
+                    "raro": "Fluido energetico x 2"
+                },
+                "oggetto": "Cortina luminosa x 20"
+            }
+        },
+        "Sonnellino": {
+            "name": "Sonnellino",
+            "exist": false,
+            "wasDefeated": false,
+            "reward": "99 Fluidi rigeneranti",
+            "kindRequired": {
+                "fiends": ["Fungongo", "Son", "Exoray"],
+                "quantity": 5
+            },
+            "stats": {
+                "hp": "98.000",
+                "mp": "820",
+                "ultracidio": "10.000",
+                "ruba": {
+                    "normale": "Zanna velenosa x 4",
+                    "raro": "Vento d'Oltremondo x 1"
+                },
+                "oggetto": "Telesfera x 1",
+                "debolezza": "RES 0% ad Antivis"
+            }
+        },
+        "Re Piros": {
+            "name": "Re Piros",
+            "exist": false,
+            "wasDefeated": false,
+            "reward": "60 Turboetere",
+            "kindRequired": {
+                "fiends": ["Piros", "Granad", "Byurobolos"],
+                "quantity": 5
+            },
+            "stats": {
+                "hp": "480.000",
+                "mp": "780",
+                "ultracidio": "10.000",
+                "ruba": {
+                    "normale": "Magmagilite x 4",
+                    "raro": "Eliomagilite x 1"
+                },
+                "oggetto": "Porta sul domani x 1"
+            }
+        },
+        "Juggernaut": {
+            "name": "Juggernaut",
+            "exist": false,
+            "wasDefeated": false,
+            "reward": "99 Cortine luminose",
+            "kindRequired": {
+                "fiends": ["Bikorno", "Varaha", "Grendel"],
+                "quantity": 5
+            },
+            "stats": {
+                "hp": "1.200.000",
+                "mp": "20",
+                "ultracidio": "15.000",
+                "ruba": {
+                    "normale": "Cortina lunare x 4",
+                    "raro": "Eliomagilite x 1"
+                },
+                "oggetto": "Potesfera fis x 1",
+                "debolezza": "RES 95% agli Anti"
+            }
+        },
+        "Clod D'acciaio": {
+            "name": "Clod D'acciaio",
+            "exist": false,
+            "wasDefeated": false,
+            "reward": "90 Nettari Magici",
+            "kindRequired": {
+                "fiends": ["Thytan", "Ultra Might L", "Ultra Might R"],
+                "quantity": 10
+            },
+            "stats": {
+                "hp": "2.000.000",
+                "mp": "0",
+                "ultracidio": "99.999",
+                "ruba": {
+                    "normale": "Cortina luminosa x 4",
+                    "raro": "Nettare energetico x 1"
+                },
+                "oggetto": "Accapisfera x 1",
+                "debolezza": "RES 95% a Antikelesis, Antiscutum e Antimajix"
+            }
+        }
+    },
+    "Prototipi Zoolab": {
+        "Mangiaterra": {
+            "name": "Mangiaterra",
+            "exist": false,
+            "wasDefeated": false,
+            "reward": "60 Triostelle",
+            "stats": {
+                "hp": "1.300.000",
+                "mp": "30",
+                "ultracidio": "99.999",
+                "ruba": {
+                    "normale": "",
+                    "raro": "Passosfera Lv 1 x 1"
+                },
+                "oggetto": "Fatosfera x 1"
+            }
+        },
+        "Titanosfera": {
+            "name": "Titanosfera",
+            "exist": false,
+            "wasDefeated": false,
+            "reward": "60 Examagiliti",
+            "stats": {
+                "hp": "1.500.000",
+                "mp": "999",
+                "ultracidio": "99.999",
+                "ruba": {
+                    "normale": "",
+                    "raro": "Gamberosfera x 1"
+                },
+                "oggetto": "Fortunosfera x 1"
+            }
+        },
+        "Catastrophe": {
+            "name": "Catastrophe",
+            "exist": false,
+            "wasDefeated": false,
+            "reward": "99 Porte sul domani",
+            "stats": {
+                "hp": "2.200.000",
+                "mp": "380",
+                "ultracidio": "99.999",
+                "ruba": {
+                    "normale": "",
+                    "raro": "Passosfera Lv 2 x 1"
+                },
+                "oggetto": "Portafoglio gonfio x 1"
+            }
+        },
+        "Vlakorados": {
+            "name": "Vlakorados",
+            "exist": false,
+            "wasDefeated": false,
+            "reward": "99 Anime del baro",
+            "stats": {
+                "hp": "3.000.000",
+                "mp": "85",
+                "ultracidio": "99.999",
+                "ruba": {
+                    "normale": "",
+                    "raro": "Telesfera x 1"
+                },
+                "oggetto": "Controchiave x 1"
+            }
+        },
+        "Gasteropodos": {
+            "name": "Gasteropodos",
+            "exist": false,
+            "wasDefeated": false,
+            "reward": "99 Equazioni cubiche",
+            "stats": {
+                "hp": "4.000.000",
+                "mp": "999",
+                "ultracidio": "12.000",
+                "ruba": {
+                    "normale": "",
+                    "raro": "Empatosfera x 1"
+                },
+                "oggetto": "Pendulum x 1",
+                "debolezza": "RES 0% a Mutismo"
+            }
+        },
+        "Ultima X": {
+            "name": "Ultima X",
+            "exist": false,
+            "wasDefeated": false,
+            "reward": "99 Materioscure",
+            "stats": {
+                "hp": "5.000.000",
+                "mp": "140",
+                "ultracidio": "99.999",
+                "ruba": {
+                    "normale": "",
+                    "raro": "Passosfera Lv 3 x 1"
+                },
+                "oggetto": "Equazione cubica x 1"
+            }
+        },
+        "Shinryu": {
+            "name": "Shinryu",
+            "exist": false,
+            "wasDefeated": false,
+            "reward": "30 Megaelisir",
+            "stats": {
+                "hp": "2.000.000",
+                "mp": "72",
+                "ultracidio": "99.999",
+                "ruba": {
+                    "normale": "",
+                    "raro": "Triostella x 1"
+                },
+                "oggetto": "Ali per l'ignoto x 1"
+            }
+        },
+        "Il Supremo": {
+            "name": "Il Supremo",
+            "exist": false,
+            "wasDefeated": false,
+            "reward": "10 Mastersfere",
+            "stats": {
+                "hp": "10.000.000",
+                "mp": "9.999",
+                "ultracidio": "99.999",
+                "ruba": {
+                    "normale": "Passosfera Lv 4 x 1",
+                    "raro": "Onnisfera x 1"
+                },
+                "oggetto": "Onnisfera x 1"
+            }
+        }
+    }
+}

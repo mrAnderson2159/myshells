@@ -1,0 +1,30 @@
+{
+  "pot fisica": {
+    "level": 119,
+    "needed": 34
+  },
+  "dif fisica": {
+    "level": 164,
+    "needed": 23
+  },
+  "pot magica": {
+    "level": 97,
+    "needed": 40
+  },
+  "dif magica": {
+    "level": 205,
+    "needed": 13
+  },
+  "rapidità": {
+    "level": 181,
+    "needed": 19
+  },
+  "destrezza": {
+    "level": 219,
+    "needed": 9
+  },
+  "mira": {
+    "level": 204,
+    "needed": 13
+  }
+}
