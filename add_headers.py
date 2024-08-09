@@ -17,11 +17,9 @@ args = parser.parse_args()
 # Estensioni dei file a cui vuoi aggiungere le informazioni
 file_extensions = ['.py', '.js', '.html', '.css', '.sql']
 
-
 # Funzione per verificare se una directory dovrebbe essere ignorata
 def should_ignore_dir(directory, ignored_dirs):
     return any(re.search(ignored_dir, directory) for ignored_dir in ignored_dirs)
-
 
 # Funzione per ottenere la data di creazione su macOS
 def get_creation_date(filepath):
@@ -34,6 +32,9 @@ def get_creation_date(filepath):
         creation_date = "Data non disponibile"
     return creation_date
 
+# Funzione per verificare se l'header è già presente
+def is_header_present(content, header):
+    return content.lstrip().startswith(header.lstrip())
 
 for root, dirs, files in os.walk(args.directory):
     # Rimuove le directory da ignorare dalla lista dirs
@@ -61,9 +62,12 @@ for root, dirs, files in os.walk(args.directory):
             with open(filepath, 'r') as f:
                 content = f.read()
 
-            with open(filepath, 'w') as f:
-                f.write(header + content)
+            # Controlla se l'header è già presente
+            if not is_header_present(content, header):
+                with open(filepath, 'w') as f:
+                    f.write(header + content)
+                print(f"Added header to {filepath}")
+            else:
+                print(f"Header già presente in {filepath}, skipping.")
 
-            print(f"Added header to {filepath}")
-
-print("Headers added to all files with creation dates!")
+print("Operazione completata!")
