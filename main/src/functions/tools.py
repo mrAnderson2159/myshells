@@ -59,11 +59,11 @@ def builder(lang: str, flag_libraries: str, filename_list: list) -> None:
 def create(type: str, filename: str, body: str, number: int = 0) -> None:
     # controlla ricorsivamente se il file esiste gia e, in tal caso, ne aumenta
     # numero finale, una volta creato il titolo di un file che non esiste lo crea
-    # e lo apre in atom
+    # e lo apre in vsc
     name = f"{filename}{number if number else ''}.{'c' if type == 'c' else 'cpp'}"
     if exists(name):
         create(type, filename, body, number + 1)
     else:
         with open(name, 'a') as f:
             f.write(body)
-            os.system(f"atom {name}")
+            os.system(f"open -a 'Visual Studio Code' {name}")

@@ -2,7 +2,7 @@ import os
 from src.functions.tools import builder
 
 def edit() -> None:
-    # apre in atom la cartella del programma
+    # apre in vsc la cartella del programma
     main_folder = '/'.join(os.path.dirname(__file__).split('/')[:-2])
     os.system(f"open -a 'Visual Studio Code' {main_folder}")
 
