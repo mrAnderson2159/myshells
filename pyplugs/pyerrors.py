@@ -1,12 +1,11 @@
 import os, sys, re
-sys.path.append(os.path.expanduser("~/myshells/pyplugs"))
 from switch import *
 from utils import indent_lines
-from typing import *
+from typing import Type, Optional, Any
 from colors import c_red
 
 class _Error(Exception):
-    def __init__(self, code:str, name:str, message:str, details:Type[object] = None):
+    def __init__(self, code:str, name:str, message:str, details:Optional[Type[object]] = None):
         self.code = code
         self.name = name
         self.message = message
@@ -15,12 +14,15 @@ class _Error(Exception):
     def __str__(self):
         return f"{self.message}" + (f'\n\tdetails:\n\t\t{self.details}' if self.details is not None else '')
 
+    def __call__(self, *args: Any, **kwds: Any):
+        super().__call__(*args, **kwds)
+
 class _Warning:
     pass
 
-def _newError(error:str, name:str) -> _Error:
+def _newError(error:str, name:str):
     class E(_Error):
-        def __init__(self, message:str, details:Type[object] = None):
+        def __init__(self, message:str, details:Optional[Type[object]] = None):
             super().__init__(error, name, message, details)
     E.__name__ = c_red(f'{name} ({error})')
     return E
@@ -58,7 +60,7 @@ if __name__ == '__main__':
     def _edit() -> None:
         os.system(f"atom {__file__}")
 
-    def _add_error(argv: List[str]) -> None:
+    def _add_error(argv: list[str]) -> None:
         if len(argv) != 4:
             raise F00(f"Error code or error message missing" + _usage(1))
         code, name = argv[2:]
@@ -85,7 +87,7 @@ if __name__ == '__main__':
 
         print(f'Error {code}: {name} added')
 
-    def _main(argv: List[str]) -> None:
+    def _main(argv: list[str]) -> None:
         try:
             with Switch(argv[1]) as s:
                 s.exit_case('--edit', _edit)
