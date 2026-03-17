@@ -1,4 +1,4 @@
-# !/bin/bash
+#!/bin/bash
 # Script to create a new git release version from the dev branch
 
 # Ensure repository is clean and up to date
@@ -11,14 +11,15 @@ git checkout dev && git pull --ff-only origin dev
 git checkout master && git pull --ff-only origin master
 
 # Get latest git version of the current software by checking dev branch
-LATEST_VERSION=$(git describe --tags $(git rev-list -n 1 dev))
+LATEST_VERSION=$(git describe --tags --abbrev=0 dev)
 
 # Check if we got a version and dev branch exists
 if [ -z "$LATEST_VERSION" ]; then
   # No tags found, check if dev branch exists
   if [ -n "$(git branch --list dev)" ]; then
-    echo "Dev branch exists but no tags found. Starting from v1.0.0"
-    LATEST_VERSION="v1.0.0"
+    echo "Dev branch exists but no tags found. Starting from v0.0.0"
+    LATEST_VERSION="v0.0.0"
+    git tag "v0.0.0"
   else
     echo "Could not determine the latest version from the dev branch. Is dev branch available?"
     exit 1
@@ -72,19 +73,41 @@ LATEST_HASH=$(git rev-parse "$LATEST_VERSION")
 
 # Execute git commands to create new version
 git switch master
-git cherry-pick "$LATEST_HASH"^..dev --no-commit
-git commit
 
-# Check if user is satisfied with the commit
-git log --oneline master | cat
+echo "🚀 Applying commits from dev onto master..."
+if ! git cherry-pick "$LATEST_HASH"..dev --no-commit; then
+  echo ""
+  echo "⚠️  Cherry-pick encountered conflicts."
+  echo "👉  Please open another terminal, resolve the conflicts manually (add, remove, or edit files as needed),"
+  echo "    then return here and confirm when you're ready to continue."
+  echo ""
+  read -rp "Have you resolved all conflicts and staged the changes? (y/n): " RESOLVED
+  if [[ "$RESOLVED" != "y" && "$RESOLVED" != "Y" ]]; then
+    echo "❌ Aborting cherry-pick process. Reverting..."
+    git cherry-pick --abort
+    exit 1
+  fi
+fi
 
-read -p "If you are satisfied with the commit, I will now tag dev with $NEW_VERSION and push to origin. Else I will delete the commit. Proceed? (y/n): " CONFIRM
+# Commit the result (either clean or post-merge)
+echo ""
+git commit -m "Release $NEW_VERSION"
 
-if [[ "$CONFIRM" != "y" ]]; then
-  echo "Aborting. Deleting the commit."
+# Show recent log for verification
+echo ""
+echo "🧾 Here's the latest commit history on master:"
+git --no-pager log --oneline -n 5 | cat
+echo ""
+
+read -rp "✅ Do you want to tag dev with $NEW_VERSION and push to origin? (y/n): " CONFIRM
+
+if [[ "$CONFIRM" != "y" && "$CONFIRM" != "Y" ]]; then
+  echo "❌ Aborting. Deleting the new commit..."
   git reset --hard HEAD~1
   exit 0
 fi
 
-
+echo "🏷️  Tagging and pushing..."
 git push && git tag "$NEW_VERSION" dev && git push --tags
+
+echo "🎉 Done! Version $NEW_VERSION successfully released."
