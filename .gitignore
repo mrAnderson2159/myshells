@@ -2,3 +2,5 @@ __pycache__/
 venv/
 .DS_Store
 sbobinatore/.sbobinatore-358016-23d7bb18397d.json
+
+.idea/

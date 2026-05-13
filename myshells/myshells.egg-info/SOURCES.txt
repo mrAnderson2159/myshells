@@ -1,0 +1,124 @@
+pyproject.toml
+alias_manager/__main__.py
+alias_manager/src/__init__.py
+alias_manager/src/alias_manager.py
+alias_manager/testing/testing.py
+daily schedule/__main__.py
+daily schedule/src/__init__.py
+daily schedule/src/settings.py
+daily schedule/src/classes/database_manager.py
+daily schedule/src/classes/day_list.py
+daily schedule/src/classes/enums.py
+daily schedule/src/classes/fixed_todo.py
+daily schedule/src/classes/menus.py
+daily schedule/src/classes/occasional_todo.py
+daily schedule/src/classes/todo.py
+daily schedule/src/classes/todo_list.py
+daily schedule/src/interfaces/printer.py
+daily schedule/src/interfaces/time.py
+daily schedule/src/interfaces/validate.py
+ffx/__main__.py
+ffx/fiends.py
+ffx/missing.py
+ffx-2/__main__.py
+ffx-2/src/__init__.py
+ffx-2/src/experimento.py
+ffx/src/__init__.py
+ffx/src/area.py
+ffx/src/exceptions.py
+ffx/src/fiends.py
+ffx/src/fulfill_control.py
+ffx/src/functions.py
+ffx/src/hashable.py
+ffx/src/interfaces.py
+ffx/src/tool_classes.py
+ffx/src/zoolab.py
+ffx/src/zoolab_maker.py
+history_cleaner/history_cleaner.py
+history_cleaner/services.py
+home_register/main.py
+home_register/exceptions/NoSuchUrlException.py
+home_register/exceptions/__init__.py
+home_register/src/__init__.py
+home_register/src/collect.py
+home_register/src/session.py
+home_register/src/specific.py
+iucs/__main__.py
+main/__main__.py
+main/src/classes/libraries.py
+main/src/classes/library.py
+main/src/functions/errors.py
+main/src/functions/switches.py
+main/src/functions/tools.py
+myshells.egg-info/PKG-INFO
+myshells.egg-info/SOURCES.txt
+myshells.egg-info/dependency_links.txt
+myshells.egg-info/entry_points.txt
+myshells.egg-info/top_level.txt
+newAdministrationTitle/colors.py
+newAdministrationTitle/newAdministrationTitle.py
+newAdministrationTitle/voice_recognition.py
+pyplugs/JSON_database.py
+pyplugs/__init__.py
+pyplugs/colors.py
+pyplugs/debug.py
+pyplugs/log.py
+pyplugs/menu.py
+pyplugs/numpylib.py
+pyplugs/paths.py
+pyplugs/piping.py
+pyplugs/print_tools.py
+pyplugs/pyerrors.py
+pyplugs/pyplugs_queue.py
+pyplugs/session.py
+pyplugs/stack.py
+pyplugs/stdin.py
+pyplugs/switch.py
+pyplugs/utils.py
+pyplugs/verbose.py
+pyplugs/crypto/__init__.py
+pyplugs/crypto/caesar_shift.py
+queues/__main__.py
+queues/src/__init__.py
+queues/src/database.py
+queues/src/exceptions.py
+queues/src/globals.py
+queues/src/menu.py
+queues/src/phrasal_v_node.py
+queues/src/roman.py
+queues/src/v_node.py
+queues/src/v_tree.py
+queues/src/v_tree_dict.py
+rdr2/__init__.py
+rdr2/eat.py
+rdr2/gestione_bisacce.py
+registra_lezioni/click_window.py
+registra_lezioni/move_mouse.py
+sbobinatore/__legacy_main__.py
+sbobinatore/__main__.py
+sbobinatore/src/__init__.py
+sbobinatore/src/cloud_loader.py
+sbobinatore/src/functions.py
+sbobinatore/src/operation.py
+sbobinatore/src/transcriptor.py
+tecniche_got/__main__.py
+terminus/__main__.py
+terminus/src/__init__.py
+terminus/src/game_item.py
+terminus/src/item.py
+terminus/src/keyboard.py
+terminus/src/lists.py
+terminus/src/location.py
+terminus/src/messages.py
+terminus/src/structure.py
+terminus/src/types.py
+university-manager/__main__.py
+university-manager/src/__init__.py
+university-manager/src/appunti.py
+university-manager/src/count_lessons.py
+university-manager/src/customv.py
+university-manager/src/functions.py
+university-manager/src/globals.py
+university-manager/src/notes.py
+university-manager/src/rename_recordings.py
+university-manager/src/today_lessons_extractor.py

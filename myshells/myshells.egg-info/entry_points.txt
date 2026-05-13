@@ -1,0 +1,4 @@
+[console_scripts]
+clean-history = myshells.history_cleaner.cli:main
+hcln = myshells.history_cleaner.cli:main
+history-cleaner = myshells.history_cleaner.cli:main
