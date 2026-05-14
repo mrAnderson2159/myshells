@@ -1,22 +1,20 @@
-"""This module provides a logging setup for the application,
-allowing for both console and file logging with configurable levels and formats.
-"""
+"""Logging setup for xcat."""
 
 import logging
-from logging.handlers import TimedRotatingFileHandler
-from pathlib import Path
+import sys
 
 
 def get_level(level_name: str) -> int:
-    """Convert a logging level name (e.g., 'INFO', 'DEBUG') to its corresponding logging level integer.
+    """Convert a logging level name to its corresponding logging level integer.
 
     Args:
-        level_name (str): The name of the logging level to convert.
+        level_name: Logging level name.
 
     Returns:
-        int: The corresponding logging level integer.
+        Corresponding logging level integer.
+
     Raises:
-        ValueError: If the provided level_name is not a valid logging level.
+        ValueError: If the provided level name is invalid.
     """
     level = getattr(logging, level_name.upper(), None)
 
@@ -28,58 +26,36 @@ def get_level(level_name: str) -> int:
 
 def setup_logger(
     name: str,
-    log_path: Path,
-    level_name: str,
+    level_name: str = "WARNING",
     datefmt: str = "%d-%m-%Y %H:%M:%S",
 ) -> logging.Logger:
-    """
-    Configure and return a named logger.
-    Must be called ONCE in main.
+    """Configure and return a named stderr logger.
 
     Args:
-        name (str): The name of the logger.
-        log_path (Path): The path to the log directory.
-        level_name (str): The name of the logging level.
-        datefmt (str, optional): The date format for log messages. Defaults to "%d-%m-%Y %H:%M:%S".
+        name: Logger name.
+        level_name: Logging level name.
+        datefmt: Date format for log messages.
 
     Returns:
-        logging.Logger: The configured logger.
+        Configured logger.
     """
-
     logger = logging.getLogger(name)
 
-    # evita duplicazioni
     if logger.handlers:
         return logger
 
     level = get_level(level_name)
 
     formatter = logging.Formatter(
-        "%(asctime)s - %(name)s - %(levelname)s - %(message)s", datefmt=datefmt
+        "%(asctime)s - %(name)s - %(levelname)s - %(message)s",
+        datefmt=datefmt,
     )
+
+    handler = logging.StreamHandler(sys.stderr)
+    handler.setLevel(level)
+    handler.setFormatter(formatter)
 
     logger.setLevel(level)
-
-    # 🔹 console handler
-    console_handler = logging.StreamHandler()
-    console_handler.setLevel(level)
-    console_handler.setFormatter(formatter)
-    logger.addHandler(console_handler)
-
-    # 🔹 file handler
-    log_dir = Path(log_path)
-    log_dir.mkdir(parents=True, exist_ok=True)
-
-    file_handler = TimedRotatingFileHandler(
-        log_dir / "app.log",
-        when="midnight",
-        interval=1,
-        backupCount=7,
-        encoding="utf-8",
-    )
-    file_handler.setLevel(level)
-    file_handler.setFormatter(formatter)
-
-    logger.addHandler(file_handler)
+    logger.addHandler(handler)
 
     return logger

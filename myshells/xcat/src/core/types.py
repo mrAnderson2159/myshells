@@ -4,6 +4,9 @@ import argparse
 from collections.abc import Iterable
 from pathlib import Path
 
+type ExcludedPaths = set[Path]
+"""Concrete set of resolved filesystem paths that must not be scanned."""
+
 type IgnorePattern = str
 """Single ignore rule used by xcat matching logic."""
 

@@ -1,0 +1,878 @@
+
+
+----------> /home/vale/myshells/myshells/xcat/__main__.py <----------
+
+import sys
+
+from myshells.xcat.src.cli import parse_args
+from myshells.xcat.src.context import build_context
+from myshells.xcat.src.core.config import settings
+from myshells.xcat.src.core.logger import setup_logger
+from myshells.xcat.src.output import configure_stdout, write_output
+from myshells.xcat.src.resolver import resolve_excluded_paths, resolve_roots
+
+logger = setup_logger("xcat", settings.LOG_PATH, settings.LOGGING_LEVEL)
+
+
+def main() -> None:
+    configure_stdout()
+
+    args = parse_args()
+
+    try:
+        roots = resolve_roots(args.paths)
+        excluded_paths = resolve_excluded_paths(args.output)
+
+        output = build_context(roots, args, excluded_paths)
+
+        write_output(output, args.output, args.force)
+
+    except Exception as exc:
+        logger.debug("xcat failed", exc_info=True)
+        print(f"error: {exc}", file=sys.stderr)
+        sys.exit(1)
+
+
+if __name__ == "__main__":
+    main()
+
+
+----------> /home/vale/myshells/myshells/xcat/__init__.py <----------
+
+
+
+----------> /home/vale/myshells/myshells/xcat/src/context.py <----------
+
+"""Context building utilities for xcat.
+
+This module coordinates resolved scan roots, ignore pattern resolution,
+filesystem scanning, and final text aggregation.
+
+It owns the high-level operation of turning one or more roots into a single
+structured context stream.
+"""
+
+import argparse
+from pathlib import Path
+
+from myshells.xcat.src.core.types import ExcludedPaths
+from myshells.xcat.src.resolver import resolve_ignore_patterns
+from myshells.xcat.src.scanner import scan_path
+
+
+def build_context(
+    roots: list[Path],
+    args: argparse.Namespace,
+    excluded_paths: ExcludedPaths | None = None,
+) -> str:
+    """Build a structured text context from one or more scan roots.
+
+    Args:
+        roots: Resolved file or directory roots to scan.
+        args: Parsed CLI arguments used to resolve ignore behavior.
+        excluded_paths: Resolved file paths that must not be scanned.
+
+    Returns:
+        Concatenated structured text generated from all roots.
+    """
+    output_chunks: list[str] = []
+    excluded_paths = excluded_paths or set()
+
+    for root in roots:
+        ignore_patterns = resolve_ignore_patterns(args, root)
+        output_chunks.append(scan_path(root, ignore_patterns, excluded_paths))
+
+    return "".join(output_chunks)
+
+
+----------> /home/vale/myshells/myshells/xcat/src/matcher.py <----------
+
+"""Ignore matching utilities for xcat.
+
+This module decides whether a file or directory should be skipped.
+
+It is responsible for matching paths against ignore patterns, including
+plain names, relative paths, glob-style patterns, and eventually richer
+ignore semantics.
+
+It should not walk directories or read file contents.
+"""
+
+from fnmatch import fnmatch
+from pathlib import Path
+
+from myshells.xcat.src.core.types import IgnorePatterns
+
+
+def should_ignore(path: Path, root: Path, patterns: IgnorePatterns) -> bool:
+    """Return True if path matches one of the ignore patterns.
+
+    Args:
+        path: File or directory path to test.
+        root: Root directory of the scan.
+        patterns: Ignore patterns to apply.
+
+    Returns:
+        True if the path should be ignored, otherwise False.
+    """
+    path = path.absolute()
+    root = root.absolute()
+
+    try:
+        rel = path.relative_to(root).as_posix()
+    except ValueError:
+        return True
+
+    name = path.name
+
+    for pattern in patterns:
+        normalized = pattern.strip().strip("/")
+
+        if not normalized:
+            continue
+
+        if (
+            fnmatch(name, normalized)
+            or fnmatch(rel, normalized)
+            or fnmatch(rel, f"{normalized}/**")
+        ):
+            return True
+
+    return False
+
+
+----------> /home/vale/myshells/myshells/xcat/src/scanner.py <----------
+
+"""Filesystem scanning and file reading for xcat.
+
+This module walks directories, prunes ignored folders, reads accepted files,
+and returns normalized output chunks.
+
+It delegates ignore decisions to ``matcher`` and output formatting to
+``formatter``.
+"""
+
+import logging
+import os
+from pathlib import Path
+
+from myshells.xcat.src.core.types import ExcludedPaths, IgnorePatternSet
+from myshells.xcat.src.formatter import format_file
+from myshells.xcat.src.matcher import should_ignore
+
+logger = logging.getLogger("xcat.scanner")
+
+
+def read_file(path: Path) -> str:
+    """Read and return the content of a file.
+
+    Args:
+        path: File path to read.
+
+    Returns:
+        The file content decoded as UTF-8.
+    """
+    return path.read_text(encoding="utf-8", errors="ignore")
+
+
+def scan_file(path: Path) -> str:
+    """Read and format a single file.
+
+    Args:
+        path: File path to scan.
+
+    Returns:
+        The formatted file block.
+    """
+    return format_file(path, read_file(path))
+
+
+def scan_directory(
+    root: Path,
+    patterns: IgnorePatternSet,
+    excluded_paths: ExcludedPaths | None = None,
+) -> str:
+    """Scan a directory recursively and concatenate accepted files.
+
+    Args:
+        root: Directory path to scan.
+        patterns: Ignore patterns to apply.
+        excluded_paths: Resolved file paths that must not be scanned.
+
+    Returns:
+        Concatenated formatted file blocks.
+    """
+    output_chunks: list[str] = []
+    excluded_paths = excluded_paths or set()
+
+    for current_root, dirs, files in os.walk(root):
+        current_path = Path(current_root).resolve()
+
+        dirs[:] = [
+            directory
+            for directory in dirs
+            if not should_ignore(current_path / directory, root, patterns)
+        ]
+
+        for file in files:
+            file_path = (current_path / file).resolve()
+
+            if file_path in excluded_paths:
+                logger.debug("Skipping excluded path: %s", file_path)
+                continue
+
+            if should_ignore(file_path, root, patterns):
+                continue
+
+            try:
+                output_chunks.append(scan_file(file_path))
+            except Exception as exc:
+                logger.warning("Could not read file: %s (%s)", file_path, exc)
+
+    return "".join(output_chunks)
+
+
+def scan_path(
+    root: Path,
+    patterns: IgnorePatternSet,
+    excluded_paths: ExcludedPaths | None = None,
+) -> str:
+    """Scan a path and concatenate accepted files.
+
+    Args:
+        root: File or directory path to scan.
+        patterns: Ignore patterns to apply.
+        excluded_paths: Resolved file paths that must not be scanned.
+
+    Returns:
+        Concatenated formatted output.
+    """
+    root = root.resolve()
+    excluded_paths = excluded_paths or set()
+
+    if root in excluded_paths:
+        logger.debug("Skipping excluded root: %s", root)
+        return ""
+
+    if root.is_file():
+        return scan_file(root)
+
+    return scan_directory(root, patterns, excluded_paths)
+
+
+----------> /home/vale/myshells/myshells/xcat/src/formatter.py <----------
+
+"""Output formatting utilities for xcat.
+
+This module defines how file boundaries and content are rendered.
+
+It owns the textual format consumed by humans, files, clipboards, and LLMs.
+Changes here affect the shape of xcat's generated output.
+"""
+
+from pathlib import Path
+
+
+def format_header(path: Path) -> str:
+    """Format the header used to mark the beginning of a file.
+
+    Args:
+        path: Path of the file being rendered.
+
+    Returns:
+        The formatted file header.
+    """
+    return f"\n\n----------> {path} <----------\n\n"
+
+
+def format_file(path: Path, content: str) -> str:
+    """Format a complete file block.
+
+    Args:
+        path: Path of the file being rendered.
+        content: Text content of the file.
+
+    Returns:
+        The formatted file block, including header and content.
+    """
+    return f"{format_header(path)}{content}"
+
+
+----------> /home/vale/myshells/myshells/xcat/src/output.py <----------
+
+"""Output writing utilities for xcat.
+
+This module owns the final output destination.
+
+It decides whether xcat writes the generated text to stdout or to a file.
+It should not scan paths, format file blocks, or resolve ignore patterns.
+"""
+
+import sys
+from pathlib import Path
+
+
+def configure_stdout() -> None:
+    """Configure stdout to use UTF-8 when supported.
+
+    This is especially useful on Windows, where the default console encoding
+    may not be UTF-8.
+    """
+    if hasattr(sys.stdout, "reconfigure"):
+        sys.stdout.reconfigure(encoding="utf-8")  # type: ignore[attr-defined]
+
+
+def write_output(
+    output: str, output_path: Path | None, force: bool = False
+) -> None:
+    """Write output to stdout or to a file.
+
+    Args:
+        output: Text generated by xcat.
+        output_path: Optional destination file path. If None, output is written
+            to stdout.
+        force: Whether to overwrite an existing output file.
+
+    Raises:
+        FileExistsError: If output_path exists and force is False.
+    """
+    if output_path is None:
+        print(output)
+        return
+
+    if output_path.exists() and not force:
+        raise FileExistsError(
+            f"output file already exists: {output_path}\n"
+            "hint: use --force to overwrite it"
+        )
+
+    output_path.write_text(output, encoding="utf-8")
+
+
+----------> /home/vale/myshells/myshells/xcat/src/__init__.py <----------
+
+
+
+----------> /home/vale/myshells/myshells/xcat/src/resolver.py <----------
+
+"""Runtime resolution utilities for xcat.
+
+This module converts parsed CLI arguments into concrete runtime values.
+
+It resolves the scan root, combines ignore presets, applies explicit ignore
+patterns, and optionally loads patterns from a gitignore-style file.
+
+It should not parse command-line arguments, scan files, or write output.
+"""
+
+import argparse
+import logging
+from pathlib import Path
+
+from myshells.xcat.src.core.types import IgnorePatternSet
+from myshells.xcat.src.ignore_presets import PRESETS
+
+logger = logging.getLogger(__name__)
+
+
+def resolve_excluded_paths(output_path: Path | None) -> set[Path]:
+    """Resolve paths that must be excluded from scanning.
+
+    Args:
+        output_path: Optional output file path passed from the CLI.
+
+    Returns:
+        Set of resolved paths that should not be scanned.
+    """
+    if output_path is None:
+        return set()
+
+    return {output_path.resolve()}
+
+
+def resolve_root(path: Path) -> Path:
+    """Resolve and validate the scan root.
+
+    Args:
+        path: File or directory path received from the CLI.
+
+    Returns:
+        Absolute resolved path.
+
+    Raises:
+        FileNotFoundError: If the path does not exist.
+    """
+    root = path.resolve()
+
+    if not root.exists():
+        raise FileNotFoundError(f"path not found: {root}")
+
+    return root
+
+
+def resolve_roots(paths: list[Path]) -> list[Path]:
+    """Resolve and validate multiple scan roots.
+
+    Args:
+        paths: List of file or directory paths received from the CLI.
+
+    Returns:
+        List of absolute resolved paths.
+
+    Raises:
+        FileNotFoundError: If any of the paths do not exist.
+    """
+    return [resolve_root(path) for path in paths]
+
+
+def resolve_gitignore_path(
+    root: Path, gitignore_arg: str | bool | None
+) -> Path | None:
+    """Resolve the gitignore file path requested by the user.
+
+    Args:
+        root: Resolved scan root.
+        gitignore_arg: Value of the ``--gitignore`` CLI argument.
+
+    Returns:
+        Resolved gitignore path, or None if gitignore support was not requested.
+    """
+    if gitignore_arg is None or gitignore_arg is False:
+        return None
+
+    if gitignore_arg is True:
+        base_dir = root.parent if root.is_file() else root
+        return base_dir / ".gitignore"
+
+    gitignore_path = Path(gitignore_arg)
+
+    if gitignore_path.is_absolute():
+        return gitignore_path.resolve()
+
+    base_dir = root.parent if root.is_file() else root
+    return (base_dir / gitignore_path).resolve()
+
+
+def load_ignore_file(path: Path) -> IgnorePatternSet:
+    """Load ignore patterns from a gitignore-style file.
+
+    Args:
+        path: Ignore file path.
+
+    Returns:
+        Set of loaded ignore patterns.
+
+    Notes:
+        This is not full gitignore semantics yet. Empty lines, comments, and
+        negation rules are skipped.
+    """
+    if not path.exists():
+        logger.debug("Ignore file not found: %s", path)
+        return set()
+
+    patterns: IgnorePatternSet = set()
+
+    for line in path.read_text(encoding="utf-8", errors="ignore").splitlines():
+        normalized = line.strip()
+
+        if not normalized:
+            continue
+
+        if normalized.startswith("#"):
+            continue
+
+        if normalized.startswith("!"):
+            logger.debug(
+                "Skipping unsupported gitignore negation: %s", normalized
+            )
+            continue
+
+        patterns.add(normalized)
+
+    logger.debug("Loaded %d patterns from ignore file: %s", len(patterns), path)
+
+    return patterns
+
+
+def resolve_ignore_patterns(
+    args: argparse.Namespace, root: Path
+) -> IgnorePatternSet:
+    """Resolve all ignore patterns requested by the user.
+
+    Args:
+        args: Parsed CLI arguments.
+        root: Resolved scan root.
+
+    Returns:
+        Combined ignore pattern set.
+    """
+    patterns: IgnorePatternSet = set()
+
+    for preset_name, preset_patterns in PRESETS.items():
+        if getattr(args, preset_name, False):
+            logger.debug("Applying ignore preset: %s", preset_name)
+            patterns |= preset_patterns
+
+    patterns.update(args.ignore)
+
+    gitignore_path = resolve_gitignore_path(root, args.gitignore)
+
+    if gitignore_path is not None:
+        patterns |= load_ignore_file(gitignore_path)
+
+    logger.debug("Resolved %d ignore patterns", len(patterns))
+
+    return patterns
+
+
+----------> /home/vale/myshells/myshells/xcat/src/cli.py <----------
+
+"""Command-line interface definition for xcat.
+
+This module owns argument parsing only.
+
+It defines the public CLI contract: positional arguments, flags, presets,
+output options, and future user-facing switches.
+
+It should not scan files, read file contents, or apply ignore logic.
+"""
+
+import argparse
+import logging
+from pathlib import Path
+
+from myshells.xcat.src.core.types import ParsedArgs
+from myshells.xcat.src.ignore_presets import PRESETS
+
+logger = logging.getLogger(__name__)
+
+
+def parse_args() -> ParsedArgs:
+    """Parse command-line arguments.
+
+    Returns:
+        Parsed command-line arguments.
+    """
+    parser = argparse.ArgumentParser(
+        prog="xcat",
+        description="Concatenate files under a path into a structured text stream.",
+    )
+
+    parser.add_argument(
+        "paths",
+        nargs="+",
+        type=Path,
+        help="Files or directories to scan.",
+    )
+
+    parser.add_argument(
+        "-I",
+        "--ignore",
+        action="append",
+        default=[],
+        help="Ignore pattern. Can be repeated.",
+    )
+
+    parser.add_argument(
+        "-o",
+        "--output",
+        type=Path,
+        default=None,
+        help="Write output to a file instead of stdout.",
+    )
+
+    parser.add_argument(
+        "-a",
+        "--all",
+        "--ignore-all",
+        dest="all",
+        action="store_true",
+        help="Apply all available ignore presets.",
+    )
+
+    parser.add_argument(
+        "--gitignore",
+        nargs="?",
+        const=True,
+        default=None,
+        metavar="PATH",
+        help="Apply patterns from .gitignore. Optionally pass a custom ignore file.",
+    )
+
+    parser.add_argument(
+        "-f",
+        "--force",
+        action="store_true",
+        help="Overwrite output file if it already exists.",
+    )
+
+    for preset_name, preset_patterns in PRESETS.items():
+        if preset_name == "all":
+            continue
+
+        parser.add_argument(
+            f"--{preset_name}",
+            action="store_true",
+            help=(
+                f"Apply the {preset_name} ignore preset. "
+                f"This preset will ignore: {', '.join(sorted(preset_patterns))}."
+            ),
+        )
+
+    args = parser.parse_args()
+
+    logger.debug("Parsed CLI arguments: %s", args)
+
+    return args
+
+
+----------> /home/vale/myshells/myshells/xcat/src/ignore_presets.py <----------
+
+"""Built-in ignore presets for xcat.
+
+This module defines reusable sets of ignore patterns.
+
+Presets are composed with normal Python set operations, so specialized
+presets can build on more general ones, for example:
+
+    PYTHON = BASE | {...}
+    REACT = NODE | {...}
+
+The CLI may expose these presets as flags such as ``--python`` or
+``--react``.
+"""
+
+BASE = {
+    # Git / environments
+    ".git",
+    ".venv",
+    # Python cache/build
+    "__pycache__",
+    "*.pyc",
+    "*.pyo",
+    "*.egg-info",
+    # Editors / IDEs
+    ".idea",
+    ".vscode",
+    # macOS
+    ".DS_Store",
+    "._*",
+    # Windows
+    "Thumbs.db",
+    "desktop.ini",
+    # Linux / generic temp files
+    "*~",
+    "*.swp",
+    ".swp",
+}
+
+PYTHON = BASE | {
+    ".pytest_cache",
+    ".mypy_cache",
+    ".ruff_cache",
+    "dist",
+    "build",
+    "htmlcov",
+    ".coverage",
+}
+
+NODE = BASE | {
+    "node_modules",
+    "dist",
+    "build",
+    "coverage",
+}
+
+REACT = NODE | {
+    ".vite",
+    ".next",
+}
+
+CSHARP = BASE | {
+    # Build outputs
+    "bin",
+    "obj",
+
+		# Project / Solution metadata
+		"*.resx",
+    "*.datasource",
+		"*.csproj",
+		"*.log",
+
+    # Visual Studio / Rider
+    ".vs",
+    ".idea",
+    "*.suo",
+    "*.user",
+    "*.userosscache",
+    "*.sln.docstates",
+    "*.rsuser",
+
+    # NuGet / packages
+    "packages",
+    "*.nupkg",
+
+    # Test / coverage
+    "TestResults",
+    "coverage",
+    "coverage.xml",
+    "coverage.json",
+}
+
+ALL = PYTHON | REACT | CSHARP
+
+PRESETS = {
+    "base": BASE,
+    "python": PYTHON,
+    "node": NODE,
+    "react": REACT,
+		"csharp": CSHARP,
+    "all": ALL,
+}
+
+
+----------> /home/vale/myshells/myshells/xcat/src/core/config.py <----------
+
+"""Configuration module for loading environment variables and settings."""
+
+from pathlib import Path
+
+from pydantic_settings import BaseSettings
+
+
+class Settings(BaseSettings):
+    """Application settings."""
+
+    LOG_PATH: Path = Path("./logs")
+    """Path to the directory where log files will be stored."""
+
+    LOGGING_LEVEL: str = "INFO"
+    """Logging level for the application."""
+
+    model_config = {
+        "env_file": ".env",
+        "case_sensitive": True,
+    }
+
+
+settings = Settings()  # type: ignore[call-arg]
+"""Instance of the `Settings` class that loads the configuration from environment variables.
+
+This is a singleton pattern implementation - a single instance of Settings is created
+and reused throughout the application, ensuring consistent configuration across all modules."""
+
+
+----------> /home/vale/myshells/myshells/xcat/src/core/logger.py <----------
+
+"""This module provides a logging setup for the application,
+allowing for both console and file logging with configurable levels and formats.
+"""
+
+import logging
+from logging.handlers import TimedRotatingFileHandler
+from pathlib import Path
+
+
+def get_level(level_name: str) -> int:
+    """Convert a logging level name (e.g., 'INFO', 'DEBUG') to its corresponding logging level integer.
+
+    Args:
+        level_name (str): The name of the logging level to convert.
+
+    Returns:
+        int: The corresponding logging level integer.
+    Raises:
+        ValueError: If the provided level_name is not a valid logging level.
+    """
+    level = getattr(logging, level_name.upper(), None)
+
+    if not isinstance(level, int):
+        raise ValueError(f"Invalid logging level: {level_name}")
+
+    return level
+
+
+def setup_logger(
+    name: str,
+    log_path: Path,
+    level_name: str,
+    datefmt: str = "%d-%m-%Y %H:%M:%S",
+) -> logging.Logger:
+    """
+    Configure and return a named logger.
+    Must be called ONCE in main.
+
+    Args:
+        name (str): The name of the logger.
+        log_path (Path): The path to the log directory.
+        level_name (str): The name of the logging level.
+        datefmt (str, optional): The date format for log messages. Defaults to "%d-%m-%Y %H:%M:%S".
+
+    Returns:
+        logging.Logger: The configured logger.
+    """
+
+    logger = logging.getLogger(name)
+
+    # evita duplicazioni
+    if logger.handlers:
+        return logger
+
+    level = get_level(level_name)
+
+    formatter = logging.Formatter(
+        "%(asctime)s - %(name)s - %(levelname)s - %(message)s", datefmt=datefmt
+    )
+
+    logger.setLevel(level)
+
+    # 🔹 console handler
+    console_handler = logging.StreamHandler()
+    console_handler.setLevel(level)
+    console_handler.setFormatter(formatter)
+    logger.addHandler(console_handler)
+
+    # 🔹 file handler
+    log_dir = Path(log_path)
+    log_dir.mkdir(parents=True, exist_ok=True)
+
+    file_handler = TimedRotatingFileHandler(
+        log_dir / "app.log",
+        when="midnight",
+        interval=1,
+        backupCount=7,
+        encoding="utf-8",
+    )
+    file_handler.setLevel(level)
+    file_handler.setFormatter(formatter)
+
+    logger.addHandler(file_handler)
+
+    return logger
+
+
+----------> /home/vale/myshells/myshells/xcat/src/core/types.py <----------
+
+"""Shared type aliases for the application."""
+
+import argparse
+from collections.abc import Iterable
+from pathlib import Path
+
+type ExcludedPaths = set[Path]
+"""Concrete set of resolved filesystem paths that must not be scanned."""
+
+type IgnorePattern = str
+"""Single ignore rule used by xcat matching logic."""
+
+type IgnorePatterns = Iterable[IgnorePattern]
+"""Generic iterable collection of ignore patterns."""
+
+type IgnorePatternSet = set[IgnorePattern]
+"""Concrete mutable set of ignore patterns."""
+
+type ParsedArgs = argparse.Namespace
+"""Parsed command-line arguments."""
+
+type PathLike = str | Path
+"""Filesystem path accepted by xcat APIs."""

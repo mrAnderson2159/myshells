@@ -1,15 +1,10 @@
 """Configuration module for loading environment variables and settings."""
 
-from pathlib import Path
-
 from pydantic_settings import BaseSettings
 
 
 class Settings(BaseSettings):
     """Application settings."""
-
-    LOG_PATH: Path = Path("./logs")
-    """Path to the directory where log files will be stored."""
 
     LOGGING_LEVEL: str = "INFO"
     """Logging level for the application."""

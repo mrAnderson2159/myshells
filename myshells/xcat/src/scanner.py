@@ -11,7 +11,7 @@ import logging
 import os
 from pathlib import Path
 
-from myshells.xcat.src.core.types import IgnorePatternSet
+from myshells.xcat.src.core.types import ExcludedPaths, IgnorePatternSet
 from myshells.xcat.src.formatter import format_file
 from myshells.xcat.src.matcher import should_ignore
 
@@ -42,17 +42,23 @@ def scan_file(path: Path) -> str:
     return format_file(path, read_file(path))
 
 
-def scan_directory(root: Path, patterns: IgnorePatternSet) -> str:
+def scan_directory(
+    root: Path,
+    patterns: IgnorePatternSet,
+    excluded_paths: ExcludedPaths | None = None,
+) -> str:
     """Scan a directory recursively and concatenate accepted files.
 
     Args:
         root: Directory path to scan.
         patterns: Ignore patterns to apply.
+        excluded_paths: Resolved file paths that must not be scanned.
 
     Returns:
         Concatenated formatted file blocks.
     """
     output_chunks: list[str] = []
+    excluded_paths = excluded_paths or set()
 
     for current_root, dirs, files in os.walk(root):
         current_path = Path(current_root).resolve()
@@ -66,6 +72,10 @@ def scan_directory(root: Path, patterns: IgnorePatternSet) -> str:
         for file in files:
             file_path = (current_path / file).resolve()
 
+            if file_path in excluded_paths:
+                logger.debug("Skipping excluded path: %s", file_path)
+                continue
+
             if should_ignore(file_path, root, patterns):
                 continue
 
@@ -77,19 +87,29 @@ def scan_directory(root: Path, patterns: IgnorePatternSet) -> str:
     return "".join(output_chunks)
 
 
-def scan_path(root: Path, patterns: IgnorePatternSet) -> str:
+def scan_path(
+    root: Path,
+    patterns: IgnorePatternSet,
+    excluded_paths: ExcludedPaths | None = None,
+) -> str:
     """Scan a path and concatenate accepted files.
 
     Args:
         root: File or directory path to scan.
         patterns: Ignore patterns to apply.
+        excluded_paths: Resolved file paths that must not be scanned.
 
     Returns:
         Concatenated formatted output.
     """
     root = root.resolve()
+    excluded_paths = excluded_paths or set()
+
+    if root in excluded_paths:
+        logger.debug("Skipping excluded root: %s", root)
+        return ""
 
     if root.is_file():
         return scan_file(root)
 
-    return scan_directory(root, patterns)
+    return scan_directory(root, patterns, excluded_paths)

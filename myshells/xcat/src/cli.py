@@ -30,9 +30,10 @@ def parse_args() -> ParsedArgs:
     )
 
     parser.add_argument(
-        "path",
+        "paths",
+        nargs="+",
         type=Path,
-        help="File or directory to scan.",
+        help="Files or directories to scan.",
     )
 
     parser.add_argument(
@@ -67,6 +68,13 @@ def parse_args() -> ParsedArgs:
         default=None,
         metavar="PATH",
         help="Apply patterns from .gitignore. Optionally pass a custom ignore file.",
+    )
+
+    parser.add_argument(
+        "-f",
+        "--force",
+        action="store_true",
+        help="Overwrite output file if it already exists.",
     )
 
     for preset_name, preset_patterns in PRESETS.items():

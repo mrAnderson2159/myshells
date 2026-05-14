@@ -18,6 +18,21 @@ from myshells.xcat.src.ignore_presets import PRESETS
 logger = logging.getLogger(__name__)
 
 
+def resolve_excluded_paths(output_path: Path | None) -> set[Path]:
+    """Resolve paths that must be excluded from scanning.
+
+    Args:
+        output_path: Optional output file path passed from the CLI.
+
+    Returns:
+        Set of resolved paths that should not be scanned.
+    """
+    if output_path is None:
+        return set()
+
+    return {output_path.resolve()}
+
+
 def resolve_root(path: Path) -> Path:
     """Resolve and validate the scan root.
 
@@ -36,6 +51,21 @@ def resolve_root(path: Path) -> Path:
         raise FileNotFoundError(f"path not found: {root}")
 
     return root
+
+
+def resolve_roots(paths: list[Path]) -> list[Path]:
+    """Resolve and validate multiple scan roots.
+
+    Args:
+        paths: List of file or directory paths received from the CLI.
+
+    Returns:
+        List of absolute resolved paths.
+
+    Raises:
+        FileNotFoundError: If any of the paths do not exist.
+    """
+    return [resolve_root(path) for path in paths]
 
 
 def resolve_gitignore_path(
