@@ -7,13 +7,15 @@ authors = [
     { name = "Valerio Molinari", email = "there.is.no.spoon.2159@gmail.com" }
 ]
 requires-python = ">=3.14"
-dependencies = []
+dependencies = [
+    "pydantic-settings>=2.14.1",
+]
 
 [project.scripts]
 hcln = "myshells.history_cleaner.cli:main"
 history-cleaner = "myshells.history_cleaner.cli:main"
 clean-history = "myshells.history_cleaner.cli:main"
-xcat = "myshells.xcat:main"
+xcat = "myshells.xcat.__main__:main"
 
 [tool.setuptools.packages.find]
 where = ["."]
