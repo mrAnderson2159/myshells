@@ -7,3 +7,4 @@ sbobinatore/.sbobinatore-358016-23d7bb18397d.json
 build/
 *.egg-info
 .venv/
+*.log

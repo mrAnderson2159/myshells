@@ -58,12 +58,44 @@ REACT = NODE | {
     ".next",
 }
 
-ALL = PYTHON | REACT
+CSHARP = BASE | {
+    # Build outputs
+    "bin",
+    "obj",
+
+		# Project / Solution metadata
+		"*.resx",
+    "*.datasource",
+		"*.csproj",
+		"*.log",
+
+    # Visual Studio / Rider
+    ".vs",
+    ".idea",
+    "*.suo",
+    "*.user",
+    "*.userosscache",
+    "*.sln.docstates",
+    "*.rsuser",
+
+    # NuGet / packages
+    "packages",
+    "*.nupkg",
+
+    # Test / coverage
+    "TestResults",
+    "coverage",
+    "coverage.xml",
+    "coverage.json",
+}
+
+ALL = PYTHON | REACT | CSHARP
 
 PRESETS = {
     "base": BASE,
     "python": PYTHON,
     "node": NODE,
     "react": REACT,
+		"csharp": CSHARP,
     "all": ALL,
 }
