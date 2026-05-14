@@ -20,6 +20,9 @@ def parse_args():
 
 
 def main():
+    if hasattr(sys.stdout, "reconfigure"):
+        sys.stdout.reconfigure(encoding="utf-8") # type: ignore
+
     args = parse_args()
 
     root = Path(args.path).resolve()
