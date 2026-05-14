@@ -6,3 +6,4 @@ sbobinatore/.sbobinatore-358016-23d7bb18397d.json
 .idea/
 build/
 *.egg-info
+.venv/

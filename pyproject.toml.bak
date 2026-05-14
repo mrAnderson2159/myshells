@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "myshells"
+version = "0.1.2"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["myshells*"]
+
+[project.scripts]
+hcln = "myshells.history_cleaner.cli:main"
+history-cleaner = "myshells.history_cleaner.cli:main"
+clean-history = "myshells.history_cleaner.cli:main"
+xcat = "myshells.xcat:main"

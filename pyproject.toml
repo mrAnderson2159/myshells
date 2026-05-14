@@ -1,17 +1,24 @@
-[build-system]
-requires = ["setuptools>=61"]
-build-backend = "setuptools.build_meta"
-
 [project]
 name = "myshells"
 version = "0.1.2"
-
-[tool.setuptools.packages.find]
-where = ["."]
-include = ["myshells*"]
+description = "Personal shell utilities and command-line tools."
+readme = "README.md"
+authors = [
+    { name = "Valerio Molinari", email = "there.is.no.spoon.2159@gmail.com" }
+]
+requires-python = ">=3.14"
+dependencies = []
 
 [project.scripts]
 hcln = "myshells.history_cleaner.cli:main"
 history-cleaner = "myshells.history_cleaner.cli:main"
 clean-history = "myshells.history_cleaner.cli:main"
 xcat = "myshells.xcat:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["myshells*"]
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
