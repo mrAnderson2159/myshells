@@ -62,13 +62,11 @@ CSHARP = BASE | {
     # Build outputs
     "bin",
     "obj",
-
-		# Project / Solution metadata
-		"*.resx",
+    # Project / Solution metadata
+    "*.resx",
     "*.datasource",
-		"*.csproj",
-		"*.log",
-
+    "*.csproj",
+    "*.log",
     # Visual Studio / Rider
     ".vs",
     ".idea",
@@ -77,11 +75,9 @@ CSHARP = BASE | {
     "*.userosscache",
     "*.sln.docstates",
     "*.rsuser",
-
     # NuGet / packages
     "packages",
     "*.nupkg",
-
     # Test / coverage
     "TestResults",
     "coverage",
@@ -96,6 +92,6 @@ PRESETS = {
     "python": PYTHON,
     "node": NODE,
     "react": REACT,
-		"csharp": CSHARP,
+    "csharp": CSHARP,
     "all": ALL,
 }

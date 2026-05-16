@@ -10,12 +10,29 @@ It should not parse command-line arguments, scan files, or write output.
 
 import argparse
 import logging
+from os.path import commonpath
 from pathlib import Path
 
 from myshells.xcat.src.core.types import IgnorePatternSet
 from myshells.xcat.src.ignore_presets import PRESETS
 
 logger = logging.getLogger(__name__)
+
+
+def resolve_display_root(roots: list[Path]) -> Path:
+    """Resolve the common display root for rendered file headers.
+
+    Args:
+        roots: Resolved file or directory roots.
+
+    Returns:
+        Deepest common parent path shared by all roots.
+    """
+    display_candidates = [
+        root if root.is_dir() else root.parent for root in roots
+    ]
+
+    return Path(commonpath(display_candidates)).resolve()
 
 
 def resolve_excluded_paths(output_path: Path | None) -> set[Path]:

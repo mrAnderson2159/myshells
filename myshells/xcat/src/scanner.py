@@ -30,22 +30,24 @@ def read_file(path: Path) -> str:
     return path.read_text(encoding="utf-8", errors="ignore")
 
 
-def scan_file(path: Path) -> str:
+def scan_file(path: Path, display_root: Path | None = None) -> str:
     """Read and format a single file.
 
     Args:
         path: File path to scan.
+        display_root: Optional common root used to display the file path relatively.
 
     Returns:
         The formatted file block.
     """
-    return format_file(path, read_file(path))
+    return format_file(path, read_file(path), display_root)
 
 
 def scan_directory(
     root: Path,
     patterns: IgnorePatternSet,
     excluded_paths: ExcludedPaths | None = None,
+    display_root: Path | None = None,
 ) -> str:
     """Scan a directory recursively and concatenate accepted files.
 
@@ -53,6 +55,7 @@ def scan_directory(
         root: Directory path to scan.
         patterns: Ignore patterns to apply.
         excluded_paths: Resolved file paths that must not be scanned.
+        display_root: Optional common root used to display file paths relatively.
 
     Returns:
         Concatenated formatted file blocks.
@@ -80,7 +83,7 @@ def scan_directory(
                 continue
 
             try:
-                output_chunks.append(scan_file(file_path))
+                output_chunks.append(scan_file(file_path, display_root))
             except Exception as exc:
                 logger.warning("Could not read file: %s (%s)", file_path, exc)
 
@@ -91,6 +94,7 @@ def scan_path(
     root: Path,
     patterns: IgnorePatternSet,
     excluded_paths: ExcludedPaths | None = None,
+    display_root: Path | None = None,
 ) -> str:
     """Scan a path and concatenate accepted files.
 
@@ -98,6 +102,7 @@ def scan_path(
         root: File or directory path to scan.
         patterns: Ignore patterns to apply.
         excluded_paths: Resolved file paths that must not be scanned.
+        display_root: Optional common root used to display file paths relatively.
 
     Returns:
         Concatenated formatted output.
@@ -110,6 +115,6 @@ def scan_path(
         return ""
 
     if root.is_file():
-        return scan_file(root)
+        return scan_file(root, display_root)
 
-    return scan_directory(root, patterns, excluded_paths)
+    return scan_directory(root, patterns, excluded_paths, display_root)

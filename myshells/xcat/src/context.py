@@ -19,6 +19,7 @@ def build_context(
     roots: list[Path],
     args: argparse.Namespace,
     excluded_paths: ExcludedPaths | None = None,
+    display_root: Path | None = None,
 ) -> str:
     """Build a structured text context from one or more scan roots.
 
@@ -26,7 +27,7 @@ def build_context(
         roots: Resolved file or directory roots to scan.
         args: Parsed CLI arguments used to resolve ignore behavior.
         excluded_paths: Resolved file paths that must not be scanned.
-
+        display_root: Common display root for rendered file headers.
     Returns:
         Concatenated structured text generated from all roots.
     """
@@ -35,6 +36,8 @@ def build_context(
 
     for root in roots:
         ignore_patterns = resolve_ignore_patterns(args, root)
-        output_chunks.append(scan_path(root, ignore_patterns, excluded_paths))
+        output_chunks.append(
+            scan_path(root, ignore_patterns, excluded_paths, display_root)
+        )
 
     return "".join(output_chunks)
